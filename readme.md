@@ -1,4 +1,4 @@
-#Residential property price statistics from different countries
+# Residential property price statistics from different countries
  The data comes 
  [from Bank For International Settlements BIS](http://www.bis.org/statistics/pp.htm).  
    There are several series of data on the BIS site:
@@ -7,13 +7,13 @@
    - long series. Formats: xlsx, csv
    - Commercial property price series. Format: xlsx
  
-#### In this datapackage we use 'Selected series' package
-Motivation:
+#### In this datapackage we use 'Selected series' package, because 
  - 'Selected series' dataset covers most of the countries
  - has the csv source - no need to parse xlsx file (which structure is quite complex)
 Source: https://www.bis.org/statistics/full_bis_selected_pp_csv.zip  
 
-Description: Contain data for 59 countries at a quarterly frequency
+#### Description:
+Contain data for 59 countries at a quarterly frequency
  (real series are the nominal price series deflated by the consumer
   price index), both in levels and in growth rates (ie four series
    per country). These indicators have been selected from the detailed
