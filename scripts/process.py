@@ -4,11 +4,10 @@ import csv
 from io import BytesIO
 from urllib.request import urlopen
 from zipfile import ZipFile
-from pprint import pprint
-from datapackage import Package
 
 source_url = 'https://www.bis.org/statistics/full_bis_selected_pp_csv.zip'
 os.chdir('../')  # go to root datapackage folder
+
 
 def download_source(url):
     """
@@ -26,7 +25,7 @@ def download_source(url):
 
 def parse_csv(file):
     """
-
+    Reads csv file and returns nested list, which forms a table ( data[rows][columns] )
     :param file: csv file to read
     :return: table
     """
@@ -50,11 +49,10 @@ def pivot_table(table):
     return pivoted
 
 
-def save_data(table, filename):
+def save_data(table):
     """
-    Write the csv file and returns the metadata structure
+    Write the csv file and returns the metadata structure for datapackage.json
     :param table: nested list[][] representing csv data. Example:
-
     Frequency	Q:Quarterly	Q:Quarterly	Q:Quarterly	Q:Quarterly	Q:Quarterly	Q:Quarterly
     Reference area	4T:Emerging market economies	4T:Emerging market economies	4T:Emerging market economies	4T:Emerging market economies	5R:Advanced economies	5R:Advanced economies
     Value	N:Nominal	N:Nominal	R:Real	R:Real	N:Nominal	N:Nominal
@@ -65,20 +63,19 @@ def save_data(table, filename):
     1966-Q3
     1966-Q4
 
-    :param filename:
-    :return: 'resources' info which describes the csv file for future datapackage.json
+    :return: 'resources' list which describes the csv file columns (will be stored in datapackage.json)
     """
     # saving data-containing rows
-    with open(filename, 'w') as csvfile:
+    with open("data/data.csv", 'w') as csvfile:
         writer = csv.writer(csvfile)
         for row in table[4:]:
             writer.writerow(row)
 
-    # creating table schema for datapackage.json
+    # creating the table schema for datapackage.json
     # first column in a table is a date and has simple description
     fields = [{'name': 'Time Period', 'type': 'string'}]
 
-    # then we go through columns[1:] and creates description for each column.
+    # then we go through columns[1:] and create description for each column.
     for column_index in range(1, len(table[0])):
         fields.append({
             "name": table[4][column_index],  # Q:4T:N:628 - the column code from original csv file from bis.org
@@ -105,8 +102,7 @@ if __name__ == '__main__':
     original_table = parse_csv(source_file_name)
     clean_table = original_table[5:]
     out_table = pivot_table(clean_table)
-    out_file_name = 'data/data.csv'
-    resources = save_data(out_table, out_file_name)
+    resources = save_data(out_table)  # this function also saves the data.csv file
 
     datapackage_json = {
         "name": "residential-property-price-statistics-from-different-countries",
@@ -122,12 +118,6 @@ if __name__ == '__main__':
         "resources": resources
     }
 
+    # at last save the metadata
     with open('datapackage.json', 'w') as file:
-        file.write(json.dumps(datapackage_json))
-
-
-    #update_metadata(out_file_name, retrieved_date)
-    # extract table header (column names)
-    # package = Package()
-    # package.infer(out_file_name)
-    # pprint(package.descriptor)
+        file.write(json.dumps(datapackage_json, indent=4, sort_keys=True))
