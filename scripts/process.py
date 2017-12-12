@@ -85,7 +85,7 @@ def save_data(table):
         })
 
     # file description
-    resources = {
+    file_metadata = {
         "encoding": "utf-8",
         "format": "csv",
         "mediatype": "text/csv",
@@ -94,7 +94,7 @@ def save_data(table):
         "profile": "tabular-data-resource",
         "schema": {'fields': fields}
     }
-    return resources
+    return file_metadata
 
 if __name__ == '__main__':
     source_file_name = download_source(source_url)
@@ -107,7 +107,7 @@ if __name__ == '__main__':
     out_table = pivot_table(clean_table)
     print('the table is pivoted')
 
-    resources = save_data(out_table)  # this function also saves the data.csv file
+    csv_metadata = save_data(out_table)  # this function saves the data.csv file
     print('the data is saved in csv')
 
     datapackage_json = {
@@ -116,12 +116,15 @@ if __name__ == '__main__':
         "description": "Contain data for 59 countries at a quarterly frequency (real series are the nominal price series deflated by the consumer price index), both in levels and in growth rates (ie four series per country). These indicators have been selected from the detailed data set to facilitate access for users and enhance comparability. The BIS has made the selection based on the Handbook on Residential Property Prices and the experience and metadata of central banks. An analysis based on these selected indicators is also released on a quarterly basis, with a particular focus on longer-term developments in the May release.",
         "Frequency": "Quarterly",
         "Retrieved Date": original_table[1][1],
-        "sources": {
-            "name": "Bank For International Settlements BIS",
-            "web": "https://www.bis.org/statistics/pp_selected.htm",
-            "url": "https://www.bis.org/statistics/full_bis_selected_pp_csv.zip"
-        },
-        "resources": resources
+        "sources": [
+            {
+                "title": "BIS Selected property prices",
+                "name": "Bank For International Settlements BIS",
+                "web": "https://www.bis.org/statistics/pp_selected.htm",
+                "url": "https://www.bis.org/statistics/full_bis_selected_pp_csv.zip"
+            }
+        ],
+        "resources": [csv_metadata]
     }
 
     # at last save the metadata
