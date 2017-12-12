@@ -18,16 +18,27 @@ Here we use *Selected series* set, reasons are:
 #### Data format
 
 The csv table contains the date column and the price indicator columns.
- A column name looks like *Q:4T:N:771, Q:4T:R:628, Q:4T:R:771, Q:5R:N:628*.  
- Each column name encodes (example for "Q:AU:N:628"):
- - "Frequency": "Q:Quarterly",
- - "Reference area": "AU:Australia",
- - "Value": "N:Nominal",
- - "Unit of measure": "628:Index, 2010 = 100",
+ A column name consist of four fields and looks like this: *Q:4T:N:771, Q:4T:R:628, Q:4T:R:771, Q:5R:N:628, Q:AU:N:628*.  
+ #### column name format 
+ The column name encodes information about the:
+ - "Frequency": could be *Q:Quarterly*,
+ - "Reference area": could be *4T:Emerging market economies* or *5R:Advanced economies* or some country code, e.g. *AU:Australia*),
+ - "Value": could be *N:Nominal* or *R:Real*,
+ - "Unit of measure": could be *771:Year-on-year changes, in per cent* or *628:Index, 2010 = 100*, or another, depending of the base year (mostly 2010)
  
- Each column name detailed decoding is stored in the datapackage.json
-  ('resources' > 'schema' > 'fields').  
-  All this coding system is taken from and is equal to the Bank For International Settlements standards. 
+ Each column name is decoded in the datapackage.json ( in the 'resources' > 'schema' > 'fields'), e.g. 
+```json
+{
+  "Frequency": "Q:Quarterly",
+  "Reference area": "AE:United Arab Emirates",
+  "Unit of measure": "771:Year-on-year changes, in per cent",
+  "Value": "N:Nominal",
+  "name": "Q:AE:N:771"
+}
+```
+which is useful for extracting this data in your programs.  
+
+The coding system is taken from and is equal to the Bank For International Settlements standards. 
   
 
 #### Detailed Data Description:
