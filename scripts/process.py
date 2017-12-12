@@ -6,7 +6,7 @@ from urllib.request import urlopen
 from zipfile import ZipFile
 
 source_url = 'https://www.bis.org/statistics/full_bis_selected_pp_csv.zip'
-os.chdir('../')  # go to root datapackage folder
+#os.chdir('../')  # go to root datapackage folder
 
 
 def download_source(url):
@@ -18,8 +18,6 @@ def download_source(url):
         with ZipFile(BytesIO(zipresp.read())) as zfile:
             archived_files = zfile.namelist()
             zfile.extractall('archive/')
-
-    print('source file downloaded and saved:', 'archive/' + archived_files[0])
     return 'archive/' + archived_files[0]  # now there is only one file in a source zip
 
 
@@ -99,10 +97,17 @@ def save_data(table):
 
 if __name__ == '__main__':
     source_file_name = download_source(source_url)
+    print('source file downloaded and saved.')
+
     original_table = parse_csv(source_file_name)
     clean_table = original_table[5:]
+    print('the table is parsed and cleaned')
+
     out_table = pivot_table(clean_table)
+    print('the table is pivoted')
+
     resources = save_data(out_table)  # this function also saves the data.csv file
+    print('the data is saved in csv')
 
     datapackage_json = {
         "name": "residential-property-price-statistics-from-different-countries",
@@ -120,4 +125,6 @@ if __name__ == '__main__':
 
     # at last save the metadata
     with open('datapackage.json', 'w') as file:
-        file.write(json.dumps(datapackage_json, indent=4, sort_keys=True))
+        file.write(json.dumps(datapackage_json, indent=2, sort_keys=True))
+
+    print('The metadata is saved. The work is finished.')

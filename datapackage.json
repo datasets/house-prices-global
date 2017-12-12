@@ -1,1736 +1,1736 @@
 {
-    "Frequency": "Quarterly",
-    "Retrieved Date": "Tue Nov 21 13:14:54 GMT 2017",
-    "description": "Contain data for 59 countries at a quarterly frequency (real series are the nominal price series deflated by the consumer price index), both in levels and in growth rates (ie four series per country). These indicators have been selected from the detailed data set to facilitate access for users and enhance comparability. The BIS has made the selection based on the Handbook on Residential Property Prices and the experience and metadata of central banks. An analysis based on these selected indicators is also released on a quarterly basis, with a particular focus on longer-term developments in the May release.",
-    "name": "residential-property-price-statistics-from-different-countries",
-    "resources": {
-        "encoding": "utf-8",
-        "format": "csv",
-        "mediatype": "text/csv",
-        "name": "data",
-        "path": "data/data.csv",
-        "profile": "tabular-data-resource",
-        "schema": {
-            "fields": [
-                {
-                    "name": "Time Period",
-                    "type": "string"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "4T:Emerging market economies",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:4T:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "4T:Emerging market economies",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:4T:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "4T:Emerging market economies",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:4T:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "4T:Emerging market economies",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:4T:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "5R:Advanced economies",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:5R:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "5R:Advanced economies",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:5R:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "5R:Advanced economies",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:5R:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "5R:Advanced economies",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:5R:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AE:United Arab Emirates",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:AE:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AE:United Arab Emirates",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:AE:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AE:United Arab Emirates",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:AE:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AE:United Arab Emirates",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:AE:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AT:Austria",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:AT:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AT:Austria",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:AT:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AT:Austria",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:AT:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AT:Austria",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:AT:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AU:Australia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:AU:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AU:Australia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:AU:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AU:Australia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:AU:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "AU:Australia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:AU:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BE:Belgium",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:BE:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BE:Belgium",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:BE:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BE:Belgium",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:BE:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BE:Belgium",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:BE:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BG:Bulgaria",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:BG:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BG:Bulgaria",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:BG:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BG:Bulgaria",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:BG:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BG:Bulgaria",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:BG:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BR:Brazil",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:BR:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BR:Brazil",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:BR:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BR:Brazil",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:BR:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "BR:Brazil",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:BR:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CA:Canada",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:CA:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CA:Canada",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:CA:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CA:Canada",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:CA:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CA:Canada",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:CA:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CH:Switzerland",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:CH:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CH:Switzerland",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:CH:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CH:Switzerland",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:CH:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CH:Switzerland",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:CH:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CL:Chile",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:CL:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CL:Chile",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:CL:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CL:Chile",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:CL:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CL:Chile",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:CL:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CN:China",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:CN:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CN:China",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:CN:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CN:China",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:CN:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CN:China",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:CN:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CO:Colombia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:CO:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CO:Colombia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:CO:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CO:Colombia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:CO:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CO:Colombia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:CO:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CY:Cyprus",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:CY:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CY:Cyprus",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:CY:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CY:Cyprus",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:CY:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CY:Cyprus",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:CY:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CZ:Czech Republic",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:CZ:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CZ:Czech Republic",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:CZ:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CZ:Czech Republic",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:CZ:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "CZ:Czech Republic",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:CZ:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "DE:Germany",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:DE:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "DE:Germany",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:DE:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "DE:Germany",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:DE:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "DE:Germany",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:DE:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "DK:Denmark",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:DK:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "DK:Denmark",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:DK:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "DK:Denmark",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:DK:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "DK:Denmark",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:DK:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "EE:Estonia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:EE:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "EE:Estonia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:EE:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "EE:Estonia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:EE:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "EE:Estonia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:EE:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ES:Spain",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:ES:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ES:Spain",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:ES:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ES:Spain",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:ES:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ES:Spain",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:ES:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "FI:Finland",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:FI:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "FI:Finland",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:FI:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "FI:Finland",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:FI:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "FI:Finland",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:FI:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "FR:France",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:FR:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "FR:France",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:FR:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "FR:France",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:FR:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "FR:France",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:FR:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "GB:United Kingdom",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:GB:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "GB:United Kingdom",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:GB:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "GB:United Kingdom",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:GB:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "GB:United Kingdom",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:GB:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "GR:Greece",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:GR:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "GR:Greece",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:GR:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "GR:Greece",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:GR:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "GR:Greece",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:GR:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HK:Hong Kong SAR",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:HK:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HK:Hong Kong SAR",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:HK:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HK:Hong Kong SAR",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:HK:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HK:Hong Kong SAR",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:HK:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HR:Croatia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:HR:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HR:Croatia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:HR:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HR:Croatia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:HR:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HR:Croatia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:HR:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HU:Hungary",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:HU:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HU:Hungary",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:HU:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HU:Hungary",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:HU:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "HU:Hungary",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:HU:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ID:Indonesia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:ID:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ID:Indonesia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:ID:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ID:Indonesia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:ID:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ID:Indonesia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:ID:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IE:Ireland",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:IE:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IE:Ireland",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:IE:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IE:Ireland",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:IE:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IE:Ireland",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:IE:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IL:Israel",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:IL:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IL:Israel",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:IL:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IL:Israel",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:IL:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IL:Israel",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:IL:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IN:India",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:IN:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IN:India",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:IN:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IN:India",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:IN:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IN:India",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:IN:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IS:Iceland",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:IS:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IS:Iceland",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:IS:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IS:Iceland",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:IS:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IS:Iceland",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:IS:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IT:Italy",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:IT:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IT:Italy",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:IT:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IT:Italy",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:IT:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "IT:Italy",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:IT:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "JP:Japan",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:JP:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "JP:Japan",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:JP:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "JP:Japan",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:JP:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "JP:Japan",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:JP:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "KR:Korea",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:KR:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "KR:Korea",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:KR:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "KR:Korea",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:KR:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "KR:Korea",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:KR:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LT:Lithuania",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:LT:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LT:Lithuania",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:LT:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LT:Lithuania",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:LT:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LT:Lithuania",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:LT:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LU:Luxembourg",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:LU:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LU:Luxembourg",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:LU:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LU:Luxembourg",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:LU:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LU:Luxembourg",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:LU:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LV:Latvia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:LV:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LV:Latvia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:LV:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LV:Latvia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:LV:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "LV:Latvia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:LV:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MA:Morocco",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:MA:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MA:Morocco",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:MA:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MA:Morocco",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:MA:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MA:Morocco",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:MA:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MK:Macedonia, FYR",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:MK:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MK:Macedonia, FYR",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:MK:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MK:Macedonia, FYR",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:MK:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MK:Macedonia, FYR",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:MK:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MT:Malta",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:MT:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MT:Malta",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:MT:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MT:Malta",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:MT:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MT:Malta",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:MT:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MX:Mexico",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:MX:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MX:Mexico",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:MX:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MX:Mexico",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:MX:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MX:Mexico",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:MX:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MY:Malaysia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:MY:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MY:Malaysia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:MY:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MY:Malaysia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:MY:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "MY:Malaysia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:MY:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NL:Netherlands",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:NL:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NL:Netherlands",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:NL:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NL:Netherlands",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:NL:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NL:Netherlands",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:NL:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NO:Norway",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:NO:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NO:Norway",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:NO:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NO:Norway",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:NO:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NO:Norway",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:NO:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NZ:New Zealand",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:NZ:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NZ:New Zealand",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:NZ:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NZ:New Zealand",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:NZ:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "NZ:New Zealand",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:NZ:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PE:Peru",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:PE:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PE:Peru",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:PE:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PE:Peru",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:PE:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PE:Peru",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:PE:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PH:Philippines",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:PH:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PH:Philippines",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:PH:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PH:Philippines",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:PH:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PH:Philippines",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:PH:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PL:Poland",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:PL:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PL:Poland",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:PL:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PL:Poland",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:PL:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PL:Poland",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:PL:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PT:Portugal",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:PT:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PT:Portugal",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:PT:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PT:Portugal",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:PT:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "PT:Portugal",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:PT:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RO:Romania",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:RO:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RO:Romania",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:RO:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RO:Romania",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:RO:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RO:Romania",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:RO:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RS:Serbia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:RS:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RS:Serbia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:RS:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RS:Serbia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:RS:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RS:Serbia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:RS:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RU:Russia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:RU:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RU:Russia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:RU:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RU:Russia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:RU:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "RU:Russia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:RU:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SE:Sweden",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:SE:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SE:Sweden",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:SE:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SE:Sweden",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:SE:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SE:Sweden",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:SE:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SG:Singapore",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:SG:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SG:Singapore",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:SG:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SG:Singapore",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:SG:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SG:Singapore",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:SG:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SI:Slovenia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:SI:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SI:Slovenia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:SI:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SI:Slovenia",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:SI:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SI:Slovenia",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:SI:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SK:Slovak Republic",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:SK:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SK:Slovak Republic",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:SK:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SK:Slovak Republic",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:SK:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "SK:Slovak Republic",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:SK:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "TH:Thailand",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:TH:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "TH:Thailand",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:TH:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "TH:Thailand",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:TH:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "TH:Thailand",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:TH:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "TR:Turkey",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:TR:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "TR:Turkey",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:TR:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "TR:Turkey",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:TR:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "TR:Turkey",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:TR:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "US:United States",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:US:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "US:United States",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:US:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "US:United States",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:US:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "US:United States",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:US:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "XM:Euro area",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:XM:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "XM:Euro area",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:XM:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "XM:Euro area",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:XM:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "XM:Euro area",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:XM:R:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ZA:South Africa",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "N:Nominal",
-                    "name": "Q:ZA:N:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ZA:South Africa",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "N:Nominal",
-                    "name": "Q:ZA:N:771"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ZA:South Africa",
-                    "Unit of measure": "628:Index, 2010 = 100",
-                    "Value": "R:Real",
-                    "name": "Q:ZA:R:628"
-                },
-                {
-                    "Frequency": "Q:Quarterly",
-                    "Reference area": "ZA:South Africa",
-                    "Unit of measure": "771:Year-on-year changes, in per cent",
-                    "Value": "R:Real",
-                    "name": "Q:ZA:R:771"
-                }
-            ]
+  "Frequency": "Quarterly",
+  "Retrieved Date": "Tue Nov 21 13:14:54 GMT 2017",
+  "description": "Contain data for 59 countries at a quarterly frequency (real series are the nominal price series deflated by the consumer price index), both in levels and in growth rates (ie four series per country). These indicators have been selected from the detailed data set to facilitate access for users and enhance comparability. The BIS has made the selection based on the Handbook on Residential Property Prices and the experience and metadata of central banks. An analysis based on these selected indicators is also released on a quarterly basis, with a particular focus on longer-term developments in the May release.",
+  "name": "residential-property-price-statistics-from-different-countries",
+  "resources": {
+    "encoding": "utf-8",
+    "format": "csv",
+    "mediatype": "text/csv",
+    "name": "data",
+    "path": "data/data.csv",
+    "profile": "tabular-data-resource",
+    "schema": {
+      "fields": [
+        {
+          "name": "Time Period",
+          "type": "string"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "4T:Emerging market economies",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:4T:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "4T:Emerging market economies",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:4T:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "4T:Emerging market economies",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:4T:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "4T:Emerging market economies",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:4T:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "5R:Advanced economies",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:5R:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "5R:Advanced economies",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:5R:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "5R:Advanced economies",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:5R:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "5R:Advanced economies",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:5R:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AE:United Arab Emirates",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:AE:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AE:United Arab Emirates",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:AE:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AE:United Arab Emirates",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:AE:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AE:United Arab Emirates",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:AE:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AT:Austria",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:AT:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AT:Austria",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:AT:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AT:Austria",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:AT:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AT:Austria",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:AT:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AU:Australia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:AU:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AU:Australia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:AU:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AU:Australia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:AU:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "AU:Australia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:AU:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BE:Belgium",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:BE:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BE:Belgium",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:BE:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BE:Belgium",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:BE:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BE:Belgium",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:BE:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BG:Bulgaria",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:BG:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BG:Bulgaria",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:BG:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BG:Bulgaria",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:BG:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BG:Bulgaria",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:BG:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BR:Brazil",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:BR:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BR:Brazil",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:BR:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BR:Brazil",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:BR:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "BR:Brazil",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:BR:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CA:Canada",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:CA:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CA:Canada",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:CA:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CA:Canada",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:CA:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CA:Canada",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:CA:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CH:Switzerland",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:CH:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CH:Switzerland",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:CH:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CH:Switzerland",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:CH:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CH:Switzerland",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:CH:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CL:Chile",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:CL:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CL:Chile",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:CL:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CL:Chile",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:CL:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CL:Chile",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:CL:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CN:China",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:CN:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CN:China",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:CN:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CN:China",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:CN:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CN:China",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:CN:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CO:Colombia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:CO:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CO:Colombia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:CO:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CO:Colombia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:CO:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CO:Colombia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:CO:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CY:Cyprus",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:CY:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CY:Cyprus",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:CY:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CY:Cyprus",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:CY:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CY:Cyprus",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:CY:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CZ:Czech Republic",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:CZ:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CZ:Czech Republic",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:CZ:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CZ:Czech Republic",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:CZ:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "CZ:Czech Republic",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:CZ:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "DE:Germany",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:DE:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "DE:Germany",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:DE:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "DE:Germany",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:DE:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "DE:Germany",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:DE:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "DK:Denmark",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:DK:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "DK:Denmark",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:DK:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "DK:Denmark",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:DK:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "DK:Denmark",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:DK:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "EE:Estonia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:EE:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "EE:Estonia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:EE:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "EE:Estonia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:EE:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "EE:Estonia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:EE:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ES:Spain",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:ES:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ES:Spain",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:ES:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ES:Spain",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:ES:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ES:Spain",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:ES:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "FI:Finland",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:FI:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "FI:Finland",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:FI:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "FI:Finland",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:FI:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "FI:Finland",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:FI:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "FR:France",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:FR:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "FR:France",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:FR:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "FR:France",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:FR:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "FR:France",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:FR:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "GB:United Kingdom",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:GB:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "GB:United Kingdom",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:GB:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "GB:United Kingdom",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:GB:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "GB:United Kingdom",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:GB:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "GR:Greece",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:GR:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "GR:Greece",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:GR:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "GR:Greece",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:GR:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "GR:Greece",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:GR:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HK:Hong Kong SAR",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:HK:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HK:Hong Kong SAR",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:HK:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HK:Hong Kong SAR",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:HK:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HK:Hong Kong SAR",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:HK:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HR:Croatia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:HR:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HR:Croatia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:HR:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HR:Croatia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:HR:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HR:Croatia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:HR:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HU:Hungary",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:HU:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HU:Hungary",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:HU:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HU:Hungary",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:HU:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "HU:Hungary",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:HU:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ID:Indonesia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:ID:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ID:Indonesia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:ID:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ID:Indonesia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:ID:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ID:Indonesia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:ID:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IE:Ireland",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:IE:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IE:Ireland",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:IE:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IE:Ireland",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:IE:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IE:Ireland",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:IE:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IL:Israel",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:IL:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IL:Israel",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:IL:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IL:Israel",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:IL:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IL:Israel",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:IL:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IN:India",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:IN:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IN:India",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:IN:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IN:India",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:IN:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IN:India",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:IN:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IS:Iceland",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:IS:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IS:Iceland",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:IS:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IS:Iceland",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:IS:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IS:Iceland",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:IS:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IT:Italy",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:IT:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IT:Italy",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:IT:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IT:Italy",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:IT:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "IT:Italy",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:IT:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "JP:Japan",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:JP:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "JP:Japan",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:JP:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "JP:Japan",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:JP:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "JP:Japan",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:JP:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "KR:Korea",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:KR:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "KR:Korea",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:KR:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "KR:Korea",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:KR:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "KR:Korea",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:KR:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LT:Lithuania",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:LT:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LT:Lithuania",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:LT:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LT:Lithuania",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:LT:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LT:Lithuania",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:LT:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LU:Luxembourg",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:LU:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LU:Luxembourg",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:LU:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LU:Luxembourg",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:LU:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LU:Luxembourg",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:LU:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LV:Latvia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:LV:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LV:Latvia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:LV:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LV:Latvia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:LV:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "LV:Latvia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:LV:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MA:Morocco",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:MA:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MA:Morocco",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:MA:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MA:Morocco",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:MA:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MA:Morocco",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:MA:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MK:Macedonia, FYR",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:MK:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MK:Macedonia, FYR",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:MK:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MK:Macedonia, FYR",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:MK:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MK:Macedonia, FYR",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:MK:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MT:Malta",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:MT:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MT:Malta",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:MT:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MT:Malta",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:MT:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MT:Malta",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:MT:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MX:Mexico",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:MX:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MX:Mexico",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:MX:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MX:Mexico",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:MX:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MX:Mexico",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:MX:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MY:Malaysia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:MY:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MY:Malaysia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:MY:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MY:Malaysia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:MY:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "MY:Malaysia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:MY:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NL:Netherlands",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:NL:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NL:Netherlands",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:NL:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NL:Netherlands",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:NL:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NL:Netherlands",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:NL:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NO:Norway",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:NO:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NO:Norway",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:NO:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NO:Norway",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:NO:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NO:Norway",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:NO:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NZ:New Zealand",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:NZ:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NZ:New Zealand",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:NZ:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NZ:New Zealand",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:NZ:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "NZ:New Zealand",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:NZ:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PE:Peru",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:PE:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PE:Peru",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:PE:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PE:Peru",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:PE:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PE:Peru",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:PE:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PH:Philippines",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:PH:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PH:Philippines",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:PH:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PH:Philippines",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:PH:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PH:Philippines",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:PH:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PL:Poland",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:PL:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PL:Poland",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:PL:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PL:Poland",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:PL:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PL:Poland",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:PL:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PT:Portugal",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:PT:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PT:Portugal",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:PT:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PT:Portugal",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:PT:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "PT:Portugal",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:PT:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RO:Romania",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:RO:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RO:Romania",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:RO:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RO:Romania",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:RO:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RO:Romania",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:RO:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RS:Serbia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:RS:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RS:Serbia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:RS:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RS:Serbia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:RS:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RS:Serbia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:RS:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RU:Russia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:RU:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RU:Russia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:RU:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RU:Russia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:RU:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "RU:Russia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:RU:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SE:Sweden",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:SE:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SE:Sweden",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:SE:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SE:Sweden",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:SE:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SE:Sweden",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:SE:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SG:Singapore",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:SG:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SG:Singapore",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:SG:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SG:Singapore",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:SG:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SG:Singapore",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:SG:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SI:Slovenia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:SI:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SI:Slovenia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:SI:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SI:Slovenia",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:SI:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SI:Slovenia",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:SI:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SK:Slovak Republic",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:SK:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SK:Slovak Republic",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:SK:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SK:Slovak Republic",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:SK:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "SK:Slovak Republic",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:SK:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "TH:Thailand",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:TH:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "TH:Thailand",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:TH:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "TH:Thailand",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:TH:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "TH:Thailand",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:TH:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "TR:Turkey",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:TR:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "TR:Turkey",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:TR:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "TR:Turkey",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:TR:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "TR:Turkey",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:TR:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "US:United States",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:US:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "US:United States",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:US:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "US:United States",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:US:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "US:United States",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:US:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "XM:Euro area",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:XM:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "XM:Euro area",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:XM:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "XM:Euro area",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:XM:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "XM:Euro area",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:XM:R:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ZA:South Africa",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "N:Nominal",
+          "name": "Q:ZA:N:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ZA:South Africa",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "N:Nominal",
+          "name": "Q:ZA:N:771"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ZA:South Africa",
+          "Unit of measure": "628:Index, 2010 = 100",
+          "Value": "R:Real",
+          "name": "Q:ZA:R:628"
+        },
+        {
+          "Frequency": "Q:Quarterly",
+          "Reference area": "ZA:South Africa",
+          "Unit of measure": "771:Year-on-year changes, in per cent",
+          "Value": "R:Real",
+          "name": "Q:ZA:R:771"
         }
-    },
-    "sources": {
-        "name": "Bank For International Settlements BIS",
-        "url": "https://www.bis.org/statistics/full_bis_selected_pp_csv.zip",
-        "web": "https://www.bis.org/statistics/pp_selected.htm"
-    },
-    "title": "BIS Selected property prices"
+      ]
+    }
+  },
+  "sources": {
+    "name": "Bank For International Settlements BIS",
+    "url": "https://www.bis.org/statistics/full_bis_selected_pp_csv.zip",
+    "web": "https://www.bis.org/statistics/pp_selected.htm"
+  },
+  "title": "BIS Selected property prices"
 }
