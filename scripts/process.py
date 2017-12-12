@@ -76,12 +76,21 @@ def save_data(table):
 
     # then we go through columns[1:] and create description for each column.
     for column_index in range(1, len(table[0])):
+        name = table[4][column_index]  # Q:4T:N:628 - the column code from original csv file from bis.org
+        frequency = table[0][column_index]  # in this file is always 'Q: Quarterly'
+        reference_area = table[1][column_index]  # country or 'Emerging market economic', 'Advanced market economic',
+        value = table[2][column_index]  # N:Nominal or R:Real
+        unit = table[3][column_index]
+        # human readable description for datahub.io
+        description = "%s; %s value; unit of measure: %s" % (reference_area, value, unit)
+
         fields.append({
-            "name": table[4][column_index],  # Q:4T:N:628 - the column code from original csv file from bis.org
-            "Frequency": table[0][column_index],  # in this file is always 'Q: Quarterly'
-            "Reference area": table[1][column_index],  # country or 'Emerging market economic', 'Advanced market economic',
-            "Value": table[2][column_index],  # N:Nominal or R:Real
-            "Unit of measure": table[3][column_index]
+            "name": name,
+            "Frequency": frequency,
+            "Reference area": reference_area,
+            "Value": value,
+            "Unit of measure": unit,
+            "description": description
         })
 
     # file description
