@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 import json
 import csv
@@ -6,7 +7,7 @@ from urllib.request import urlopen
 from zipfile import ZipFile
 
 source_url = 'https://www.bis.org/statistics/full_bis_selected_pp_csv.zip'
-os.chdir('../')  # go to root datapackage folder
+#os.chdir('../')  # go to root datapackage folder
 
 
 def download_source(url):
@@ -18,8 +19,6 @@ def download_source(url):
         with ZipFile(BytesIO(zipresp.read())) as zfile:
             archived_files = zfile.namelist()
             zfile.extractall('archive/')
-
-    print('source file downloaded and saved:', 'archive/' + archived_files[0])
     return 'archive/' + archived_files[0]  # now there is only one file in a source zip
 
 
@@ -77,16 +76,25 @@ def save_data(table):
 
     # then we go through columns[1:] and create description for each column.
     for column_index in range(1, len(table[0])):
+        name = table[4][column_index]  # Q:4T:N:628 - the column code from original csv file from bis.org
+        frequency = table[0][column_index]  # in this file is always 'Q: Quarterly'
+        reference_area = table[1][column_index]  # country or 'Emerging market economic', 'Advanced market economic',
+        value = table[2][column_index]  # N:Nominal or R:Real
+        unit = table[3][column_index]
+        # human readable description for datahub.io
+        description = "%s; %s value; unit of measure: %s" % (reference_area, value, unit)
+
         fields.append({
-            "name": table[4][column_index],  # Q:4T:N:628 - the column code from original csv file from bis.org
-            "Frequency": table[0][column_index],  # in this file is always 'Q: Quarterly'
-            "Reference area": table[1][column_index],  # country or 'Emerging market economic', 'Advanced market economic',
-            "Value": table[2][column_index],  # N:Nominal or R:Real
-            "Unit of measure": table[3][column_index]
+            "name": name,
+            "Frequency": frequency,
+            "Reference area": reference_area,
+            "Value": value,
+            "Unit of measure": unit,
+            "description": description
         })
 
     # file description
-    resources = {
+    file_metadata = {
         "encoding": "utf-8",
         "format": "csv",
         "mediatype": "text/csv",
@@ -95,14 +103,21 @@ def save_data(table):
         "profile": "tabular-data-resource",
         "schema": {'fields': fields}
     }
-    return resources
+    return file_metadata
 
 if __name__ == '__main__':
     source_file_name = download_source(source_url)
+    print('source file downloaded and saved.')
+
     original_table = parse_csv(source_file_name)
     clean_table = original_table[5:]
+    print('the table is parsed and cleaned')
+
     out_table = pivot_table(clean_table)
-    resources = save_data(out_table)  # this function also saves the data.csv file
+    print('the table is pivoted')
+
+    csv_metadata = save_data(out_table)  # this function saves the data.csv file
+    print('the data is saved in csv')
 
     datapackage_json = {
         "name": "residential-property-price-statistics-from-different-countries",
@@ -110,14 +125,19 @@ if __name__ == '__main__':
         "description": "Contain data for 59 countries at a quarterly frequency (real series are the nominal price series deflated by the consumer price index), both in levels and in growth rates (ie four series per country). These indicators have been selected from the detailed data set to facilitate access for users and enhance comparability. The BIS has made the selection based on the Handbook on Residential Property Prices and the experience and metadata of central banks. An analysis based on these selected indicators is also released on a quarterly basis, with a particular focus on longer-term developments in the May release.",
         "Frequency": "Quarterly",
         "Retrieved Date": original_table[1][1],
-        "sources": {
-            "name": "Bank For International Settlements BIS",
-            "web": "https://www.bis.org/statistics/pp_selected.htm",
-            "url": "https://www.bis.org/statistics/full_bis_selected_pp_csv.zip"
-        },
-        "resources": resources
+        "sources": [
+            {
+                "title": "BIS Selected property prices",
+                "name": "Bank For International Settlements BIS",
+                "web": "https://www.bis.org/statistics/pp_selected.htm",
+                "url": "https://www.bis.org/statistics/full_bis_selected_pp_csv.zip"
+            }
+        ],
+        "resources": [csv_metadata]
     }
 
     # at last save the metadata
     with open('datapackage.json', 'w') as file:
-        file.write(json.dumps(datapackage_json, indent=4, sort_keys=True))
+        file.write(json.dumps(datapackage_json, indent=2, sort_keys=True))
+
+    print('The metadata is saved. The work is finished.')
