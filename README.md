@@ -17,40 +17,39 @@ Here we use *Selected series* set, reasons are:
 
 #### Data format
 
-The csv table contains the date column and the price indicator columns.
- A column name consist of four fields and looks like this: *Q:4T:N:771, Q:4T:R:628, Q:4T:R:771, Q:5R:N:628, Q:AU:N:628*.  
- #### column name format 
- The column name encodes information about the:
- - "Frequency": could be *Q:Quarterly*,
- - "Reference area": could be *4T:Emerging market economies* or *5R:Advanced economies* or some country code, e.g. *AU:Australia*),
- - "Value": could be *N:Nominal* or *R:Real*,
- - "Unit of measure": could be *771:Year-on-year changes, in per cent* or *628:Index, 2010 = 100*, or another, depending of the base year (mostly 2010)
- 
- Each column name is decoded in the datapackage.json ( in the 'resources' > 'schema' > 'fields'), e.g. 
-```json
-{
-  "Frequency": "Q:Quarterly",
-  "Reference area": "AE:United Arab Emirates",
-  "Unit of measure": "771:Year-on-year changes, in per cent",
-  "Value": "N:Nominal",
-  "name": "Q:AE:N:771"
-}
-```
-which is useful for extracting this data in your programs.  
+Output is four files with different metrics:
+* `data/nominal_index.csv` Nominal Index, 2010 = 100 
+* `data/nominal_year.csv` Nominal Year-on-year changes, in per cent
+* `data/real_index.csv` Real Index, 2010 = 100
+* `data/real_year.csv` Real Year-on-year changes, in per cent
 
-The coding system is taken from and is equal to the Bank For International Settlements standards. 
-  
+Each file structure is like this:
+```
+date,country,price
+2012-06-30,Philippines,114.5
+2012-06-30,Poland,97.36
+2012-06-30,Portugal,88.15
+2012-06-30,Romania,84.61
+2012-06-30,Serbia,96.48
+2012-06-30,Russia,89.81
+2012-06-30,Sweden,103.47
+```
 
 #### Detailed Data Description:
 
 Contains data for 59 countries at a quarterly frequency (real series are the nominal price series deflated by the consumer price index), both in levels and in growth rates (ie four series per country). These indicators have been selected from the detailed data set to facilitate access for users and enhance comparability. The BIS has made the selection based on the Handbook on Residential Property Prices and the experience and metadata of central banks. An analysis based on these selected indicators is also released on a quarterly basis, with a particular focus on longer-term developments in the May release.
 
 ## Preparation 
-You will need python3 installed to run the data downloading and processing script.
+You will need `git`, `python`, `pip` and `virtualenv` installed to run the data downloading and processing script.
+
 ``` bash
 git clone https://github.com/datasets/global-house-prices.git
 cd global-house-prices
-python3 scripts/process.py
+# activate virtual environment
+virtualenv venv
+source venv/bin/activate
+pip install tabulator
+python scripts/process.py
 ```
 
 ## license
