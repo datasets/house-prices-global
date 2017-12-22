@@ -47,9 +47,14 @@ Contains data for 59 countries at a quarterly frequency (real series are the nom
 
 ## Preparation 
 You will need python3 installed to run the data downloading and processing script.
+
 ``` bash
 git clone https://github.com/datasets/global-house-prices.git
 cd global-house-prices
+# activate virtual environment
+virtualenv venv
+source venv/bin/activate
+pip install tabulator
 python3 scripts/process.py
 ```
 
