@@ -7,7 +7,7 @@
       "encoding": "utf-8", 
       "format": "csv", 
       "mediatype": "text/csv", 
-      "name": "nominal_index", 
+      "name": "nominal-index", 
       "path": "data/nominal_index.csv", 
       "profile": "tabular-data-resource", 
       "schema": {
@@ -37,7 +37,7 @@
       "encoding": "utf-8", 
       "format": "csv", 
       "mediatype": "text/csv", 
-      "name": "nominal_year", 
+      "name": "nominal-year", 
       "path": "data/nominal_year.csv", 
       "profile": "tabular-data-resource", 
       "schema": {
@@ -67,7 +67,7 @@
       "encoding": "utf-8", 
       "format": "csv", 
       "mediatype": "text/csv", 
-      "name": "real_index", 
+      "name": "real-index", 
       "path": "data/real_index.csv", 
       "profile": "tabular-data-resource", 
       "schema": {
@@ -97,7 +97,7 @@
       "encoding": "utf-8", 
       "format": "csv", 
       "mediatype": "text/csv", 
-      "name": "real_year", 
+      "name": "real-year", 
       "path": "data/real_year.csv", 
       "profile": "tabular-data-resource", 
       "schema": {
@@ -132,5 +132,5 @@
       "web": "https://www.bis.org/statistics/pp_selected.htm"
     }
   ], 
-  "title": "residential-property-price-statistics-from-different-countries"
+  "title": "Residential property price statistics from different countries"
 }
