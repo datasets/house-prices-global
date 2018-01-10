@@ -53,4 +53,7 @@ python scripts/process.py
 
 ## license
 
-Sources: National sources, BIS Residential Property Price database, www.bis.org/statistics/pp.htm.
+The data source is National sources, Bank for International Settlements ("BIS") Residential Property Price database, www.bis.org/statistics/pp.htm.  
+You can use this data following BIS rules:  
+https://www.bis.org/terms_conditions.htm#Copyright_and_Permissions  
+https://www.bis.org/terms_statistics.htm
