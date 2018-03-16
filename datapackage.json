@@ -128,8 +128,7 @@
     {
       "name": "Bank For International Settlements BIS", 
       "title": "BIS Selected property prices", 
-      "url": "https://www.bis.org/statistics/full_bis_selected_pp_csv.zip", 
-      "web": "https://www.bis.org/statistics/pp_selected.htm"
+      "path": "https://www.bis.org/statistics/full_bis_selected_pp_csv.zip"
     }
   ], 
   "title": "Residential property price statistics from different countries"
