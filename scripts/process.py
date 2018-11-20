@@ -25,9 +25,9 @@ def parse_date(date):
 
 def parse(filename):
     """ Read csv file and parse it into 4 different csv files with unpivoted data."""
-    input_table = Stream(filename, skip_rows=[1, 2, 3, 4, 5]).open().read()
+    input_table = Stream(filename).open().read()
     headers = input_table.pop(0)
-    dates = headers[5:]
+    dates = headers[9:]
 
     output = {
         # "description": "Nominal Index, 2010 = 100",
@@ -42,14 +42,15 @@ def parse(filename):
 
     # headers
     for csv_file in output.values():
-        csv_file.writerow(['date', 'country', 'price'])
+        csv_file.writerow(['date', 'country_code', 'country', 'price'])
 
     # processing
     for date in dates:
         for row in input_table:
-            country = row[1]
-            value = row[2]
-            unit = row[3]
+            country_code = row[2]
+            country = row[3]
+            value = row[5]
+            unit = row[7]
             price = row[headers.index(date)]
 
             category = ''
@@ -61,8 +62,7 @@ def parse(filename):
                 category = 'real_index'
             elif 'Real' in value and 'Year' in unit:
                 category = 'real_year'
-
-            output[category].writerow([parse_date(date), country[3:], price])
+            output[category].writerow([parse_date(date), country_code, country, price])
 
 
 def extract_csv_structure():
@@ -79,4 +79,5 @@ def extract_csv_structure():
 
 if __name__ == "__main__":
     data_file = download_source()
+    print(data_file)
     parse(data_file)
