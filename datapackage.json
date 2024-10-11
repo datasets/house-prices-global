@@ -1,135 +1,136 @@
 {
-  "Frequency": "Quarterly", 
-  "description": "Contain data for 59 countries at a quarterly frequency (real series are the nominal price series deflated by the consumer price index), both in levels and in growth rates (ie four series per country). These indicators have been selected from the detailed data set to facilitate access for users and enhance comparability. The BIS has made the selection based on the Handbook on Residential Property Prices and the experience and metadata of central banks. An analysis based on these selected indicators is also released on a quarterly basis, with a particular focus on longer-term developments in the May release.", 
-  "name": "house-prices-global", 
+  "Frequency": "Quarterly",
+  "description": "Contain data for 59 countries at a quarterly frequency (real series are the nominal price series deflated by the consumer price index), both in levels and in growth rates (ie four series per country). These indicators have been selected from the detailed data set to facilitate access for users and enhance comparability. The BIS has made the selection based on the Handbook on Residential Property Prices and the experience and metadata of central banks. An analysis based on these selected indicators is also released on a quarterly basis, with a particular focus on longer-term developments in the May release.",
+  "name": "house-prices-global",
   "resources": [
     {
-      "encoding": "utf-8", 
-      "format": "csv", 
-      "mediatype": "text/csv", 
-      "name": "nominal-index", 
-      "path": "data/nominal_index.csv", 
-      "profile": "tabular-data-resource", 
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "nominal-index",
+      "path": "data/nominal_index.csv",
+      "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
-            "format": "default", 
-            "name": "date", 
+            "format": "default",
+            "name": "date",
             "type": "date"
-          }, 
+          },
           {
-            "format": "default", 
-            "name": "country", 
+            "format": "default",
+            "name": "country",
             "type": "string"
-          }, 
+          },
           {
-            "format": "default", 
-            "name": "price", 
+            "format": "default",
+            "name": "price",
             "type": "string"
           }
-        ], 
+        ],
         "missingValues": [
           ""
         ]
       }
-    }, 
+    },
     {
-      "encoding": "utf-8", 
-      "format": "csv", 
-      "mediatype": "text/csv", 
-      "name": "nominal-year", 
-      "path": "data/nominal_year.csv", 
-      "profile": "tabular-data-resource", 
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "nominal-year",
+      "path": "data/nominal_year.csv",
+      "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
-            "format": "default", 
-            "name": "date", 
+            "format": "default",
+            "name": "date",
             "type": "date"
-          }, 
+          },
           {
-            "format": "default", 
-            "name": "country", 
+            "format": "default",
+            "name": "country",
             "type": "string"
-          }, 
+          },
           {
-            "format": "default", 
-            "name": "price", 
+            "format": "default",
+            "name": "price",
             "type": "string"
           }
-        ], 
+        ],
         "missingValues": [
           ""
         ]
       }
-    }, 
+    },
     {
-      "encoding": "utf-8", 
-      "format": "csv", 
-      "mediatype": "text/csv", 
-      "name": "real-index", 
-      "path": "data/real_index.csv", 
-      "profile": "tabular-data-resource", 
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "real-index",
+      "path": "data/real_index.csv",
+      "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
-            "format": "default", 
-            "name": "date", 
+            "format": "default",
+            "name": "date",
             "type": "date"
-          }, 
+          },
           {
-            "format": "default", 
-            "name": "country", 
+            "format": "default",
+            "name": "country",
             "type": "string"
-          }, 
+          },
           {
-            "format": "default", 
-            "name": "price", 
+            "format": "default",
+            "name": "price",
             "type": "string"
           }
-        ], 
+        ],
         "missingValues": [
           ""
         ]
       }
-    }, 
+    },
     {
-      "encoding": "utf-8", 
-      "format": "csv", 
-      "mediatype": "text/csv", 
-      "name": "real-year", 
-      "path": "data/real_year.csv", 
-      "profile": "tabular-data-resource", 
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "name": "real-year",
+      "path": "data/real_year.csv",
+      "profile": "tabular-data-resource",
       "schema": {
         "fields": [
           {
-            "format": "default", 
-            "name": "date", 
+            "format": "default",
+            "name": "date",
             "type": "date"
-          }, 
+          },
           {
-            "format": "default", 
-            "name": "country", 
+            "format": "default",
+            "name": "country",
             "type": "string"
-          }, 
+          },
           {
-            "format": "default", 
-            "name": "price", 
+            "format": "default",
+            "name": "price",
             "type": "string"
           }
-        ], 
+        ],
         "missingValues": [
           ""
         ]
       }
     }
-  ], 
+  ],
   "sources": [
     {
-      "name": "Bank For International Settlements BIS", 
-      "title": "BIS Selected property prices", 
+      "name": "Bank For International Settlements BIS",
+      "title": "BIS Selected property prices",
       "path": "https://www.bis.org/statistics/full_bis_selected_pp_csv.zip"
     }
-  ], 
-  "title": "Residential property price statistics from different countries"
+  ],
+  "title": "Residential property price statistics from different countries",
+  "collection": "property-prices"
 }
