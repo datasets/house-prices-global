@@ -1,4 +1,4 @@
-<a href="https://datahub.io/core/house-prices-global"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25)" alt="badge" /></a>
+<a className="gh-badge" href="https://datahub.io/core/house-prices-global"><img src="https://badgen.net/badge/icon/View%20on%20datahub.io/orange?icon=https://datahub.io/datahub-cube-badge-icon.svg&label&scale=1.25" alt="badge" /></a>
 
 Residential property price statistics from different countries. Contains property price indicators (real series are the nominal price series deflated by the consumer price index), both in levels and in growth rates. Can be used for property market analysis.
 
