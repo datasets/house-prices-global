@@ -47,12 +47,15 @@ You will need `python` and `pip` installed to run the data downloading and proce
 
 ``` bash
 # if you don't have "git" you can download and unzip the datapackage directly from this page.
-git clone https://github.com/datasets/global-house-prices.git
+git clone https://github.com/datasets/house-prices-global.git
 
-cd global-house-prices
-pip install tabulator
+pip -r scripts/requirements.txt
 python scripts/process.py
 ```
+
+## Automation
+
+Up-to-date (auto-updates every month) house-prices-global dataset could be found on the datahub.io: https://datahub.io/core/house-prices-global
 
 ## License
 
