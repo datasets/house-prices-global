@@ -4,7 +4,7 @@ Residential property price statistics from different countries. Contains propert
 
 ## Data
 
- This data comes from [Bank For International Settlements BIS](http://www.bis.org/statistics/pp.htm).
+ This data comes from [Bank For International Settlements BIS](https://www.bis.org/statistics/dataportal/pp.htm).
  There are several series of data on the BIS site:
    - detailed data set. Format: xlsx
    - [source of this repo] selected series (nominal and real). Format: xlsx, csv. 
@@ -14,7 +14,7 @@ Residential property price statistics from different countries. Contains propert
 Here we use *Selected series* set, reasons are: 
 
  - 'Selected series' dataset covers most of the countries
- - has the csv source https://www.bis.org/statistics/full_bis_selected_pp_csv.zip  
+ - has the csv source https://www.bis.org/statistics/full_spp_csv.zip  
  - facilitates access for users and enhance comparability.
 
 #### Data format
@@ -27,19 +27,25 @@ Output is four files with different metrics:
 
 Each file structure is like this:
 ```
-date,country,price
-2012-06-30,Philippines,114.5
-2012-06-30,Poland,97.36
-2012-06-30,Portugal,88.15
-2012-06-30,Romania,84.61
-2012-06-30,Serbia,96.48
-2012-06-30,Russia,89.81
-2012-06-30,Sweden,103.47
+date,country_code,country,price
+2012-06-30,PH,Philippines,114.5
+2012-06-30,PL,Poland,97.36
+2012-06-30,PT,Portugal,88.15
+2012-06-30,RO,Romania,84.61
+2012-06-30,RS,Serbia,96.48
+2012-06-30,RU,Russia,89.81
+2012-06-30,SE,Sweden,103.47
 ```
 
 #### Detailed Data Description:
 
-Contains data for 59 countries at a quarterly frequency (real series are the nominal price series deflated by the consumer price index), both in levels and in growth rates (ie four series per country). These indicators have been selected from the detailed data set to facilitate access for users and enhance comparability. The BIS has made the selection based on the Handbook on Residential Property Prices and the experience and metadata of central banks. An analysis based on these selected indicators is also released on a quarterly basis, with a particular focus on longer-term developments in the May release.
+Contains data for 60+ countries and regions at a quarterly frequency (real series are the nominal price series deflated by the consumer price index), both in levels and in growth rates (ie four series per country). These indicators have been selected from the detailed data set to facilitate access for users and enhance comparability. The BIS has made the selection based on the Handbook on Residential Property Prices and the experience and metadata of central banks. An analysis based on these selected indicators is also released on a quarterly basis, with a particular focus on longer-term developments in the May release.
+
+#### Data quirks
+
+- **Dates** are the last day of each quarter (e.g. `2023-09-30` for Q3 2023).
+- **`country_code`** uses ISO 3166-1 alpha-2 codes for individual countries plus BIS aggregate codes: `XM` (Euro area), `XW` (World), `4T` (Emerging market economies), `5R` (Advanced economies).
+- **Early rows** (roughly pre-1970 for most countries) have an empty `price` field because source data does not extend that far back; the BIS source file contains columns for all quarters from 1927 onward.
 
 ## Preparation
 
@@ -49,7 +55,7 @@ You will need `python` and `pip` installed to run the data downloading and proce
 # if you don't have "git" you can download and unzip the datapackage directly from this page.
 git clone https://github.com/datasets/house-prices-global.git
 
-pip -r scripts/requirements.txt
+pip install -r scripts/requirements.txt
 python scripts/process.py
 ```
 
@@ -59,7 +65,7 @@ Up-to-date (auto-updates every month) house-prices-global dataset could be found
 
 ## License
 
-The data source is National sources, Bank for International Settlements ("BIS") Residential Property Price database, www.bis.org/statistics/pp.htm.  
-You can use this data following BIS rules:  
+The data source is National sources, Bank for International Settlements ("BIS") Residential Property Price database, https://www.bis.org/statistics/dataportal/pp.htm.  
+You can use this data following BIS rules (attribution to BIS as source is required):  
 https://www.bis.org/terms_conditions.htm#Copyright_and_Permissions  
 https://www.bis.org/terms_statistics.htm
