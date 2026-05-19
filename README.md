@@ -7,14 +7,14 @@ Residential property price statistics from different countries. Contains propert
  This data comes from [Bank For International Settlements BIS](https://www.bis.org/statistics/dataportal/pp.htm).
  There are several series of data on the BIS site:
    - detailed data set. Format: xlsx
-   - [source of this repo] selected series (nominal and real). Format: xlsx, csv. 
+   - [source of this repo] selected series (nominal and real), available via the BIS SDMX REST API
    - long series. Formats: xlsx, csv
    - Commercial property price series. Format: xlsx
  
 Here we use *Selected series* set, reasons are: 
 
  - 'Selected series' dataset covers most of the countries
- - has the csv source https://www.bis.org/statistics/full_spp_csv.zip  
+ - available via the BIS SDMX API: https://stats.bis.org/api/v2/data/dataflow/BIS/WS_SPP/1.0
  - facilitates access for users and enhance comparability.
 
 #### Data format
@@ -55,7 +55,6 @@ You will need `python` and `pip` installed to run the data downloading and proce
 # if you don't have "git" you can download and unzip the datapackage directly from this page.
 git clone https://github.com/datasets/house-prices-global.git
 
-pip install -r scripts/requirements.txt
 python scripts/process.py
 ```
 
