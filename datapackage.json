@@ -13,7 +13,7 @@
     {
       "name": "bis-selected-property-prices",
       "title": "BIS Selected Residential Property Prices",
-      "path": "https://www.bis.org/statistics/full_spp_csv.zip"
+      "path": "https://stats.bis.org/api/v2/data/dataflow/BIS/WS_SPP/1.0?format=csv&labels=both"
     }
   ],
   "resources": [
@@ -166,5 +166,5 @@
       }
     }
   ],
-  "collection": "property-prices"
+"collection": "property-prices"
 }
