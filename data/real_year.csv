@@ -546,7 +546,7 @@ date,country_code,country,price
 1975-12-31,AU,Australia,-1.6875
 1975-12-31,BE,Belgium,6.0136
 1975-12-31,CA,Canada,6.2829
-1975-12-31,CH,Switzerland,-9.9235
+1975-12-31,CH,Switzerland,-9.9236
 1975-12-31,DE,Germany,-3.7732
 1975-12-31,DK,Denmark,10.7938
 1975-12-31,ES,Spain,-6.8375
@@ -578,7 +578,7 @@ date,country_code,country,price
 1976-03-31,NL,Netherlands,9.2448
 1976-03-31,NZ,New Zealand,-9.6083
 1976-03-31,SE,Sweden,5.4929
-1976-03-31,US,United States,-2.4414
+1976-03-31,US,United States,-2.4502
 1976-03-31,XM,Euro area,-1.7286
 1976-03-31,ZA,South Africa,-3.9922
 1976-06-30,AU,Australia,0.5191
@@ -598,8 +598,8 @@ date,country_code,country,price
 1976-06-30,NL,Netherlands,15.7437
 1976-06-30,NZ,New Zealand,-8.2983
 1976-06-30,SE,Sweden,4.9644
-1976-06-30,US,United States,-1.8042
-1976-06-30,XM,Euro area,0.8907
+1976-06-30,US,United States,-1.7861
+1976-06-30,XM,Euro area,0.8892
 1976-06-30,ZA,South Africa,-4.0707
 1976-09-30,AU,Australia,-4.0761
 1976-09-30,BE,Belgium,11.6532
@@ -618,13 +618,13 @@ date,country_code,country,price
 1976-09-30,NL,Netherlands,20.346
 1976-09-30,NZ,New Zealand,-8.1646
 1976-09-30,SE,Sweden,8.8247
-1976-09-30,US,United States,-0.5673
-1976-09-30,XM,Euro area,2.9917
+1976-09-30,US,United States,-0.5811
+1976-09-30,XM,Euro area,2.991
 1976-09-30,ZA,South Africa,-4.1239
 1976-12-31,AU,Australia,-4.0264
 1976-12-31,BE,Belgium,12.425
 1976-12-31,CA,Canada,3.5233
-1976-12-31,CH,Switzerland,-0.8792
+1976-12-31,CH,Switzerland,-0.8791
 1976-12-31,DE,Germany,0.1818
 1976-12-31,DK,Denmark,-1.8631
 1976-12-31,ES,Spain,2.5456
@@ -638,7 +638,7 @@ date,country_code,country,price
 1976-12-31,NL,Netherlands,22.93
 1976-12-31,NZ,New Zealand,-7.4594
 1976-12-31,SE,Sweden,5.1929
-1976-12-31,US,United States,2.0188
+1976-12-31,US,United States,2.0235
 1976-12-31,XM,Euro area,3.1944
 1976-12-31,ZA,South Africa,-6.022
 1977-03-31,AU,Australia,-4.966
@@ -658,7 +658,7 @@ date,country_code,country,price
 1977-03-31,NL,Netherlands,31.688
 1977-03-31,NZ,New Zealand,-5.7875
 1977-03-31,SE,Sweden,6.0283
-1977-03-31,US,United States,8.4061
+1977-03-31,US,United States,8.4147
 1977-03-31,XM,Euro area,3.154
 1977-03-31,ZA,South Africa,-8.1183
 1977-06-30,AU,Australia,-4.6485
@@ -678,8 +678,8 @@ date,country_code,country,price
 1977-06-30,NL,Netherlands,36.4869
 1977-06-30,NZ,New Zealand,-5.8383
 1977-06-30,SE,Sweden,5.1529
-1977-06-30,US,United States,8.8893
-1977-06-30,XM,Euro area,2.1365
+1977-06-30,US,United States,8.8666
+1977-06-30,XM,Euro area,2.1372
 1977-06-30,ZA,South Africa,-8.904
 1977-09-30,AU,Australia,-3.6671
 1977-09-30,BE,Belgium,8.5575
@@ -698,7 +698,7 @@ date,country_code,country,price
 1977-09-30,NL,Netherlands,29.358
 1977-09-30,NZ,New Zealand,-6.6096
 1977-09-30,SE,Sweden,0.372
-1977-09-30,US,United States,10.1814
+1977-09-30,US,United States,10.2078
 1977-09-30,XM,Euro area,1.6756
 1977-09-30,ZA,South Africa,-8.2412
 1977-12-31,AU,Australia,-1.7564
@@ -718,7 +718,7 @@ date,country_code,country,price
 1977-12-31,NL,Netherlands,24.2059
 1977-12-31,NZ,New Zealand,-9.0207
 1977-12-31,SE,Sweden,3.0535
-1977-12-31,US,United States,8.9387
+1977-12-31,US,United States,8.9944
 1977-12-31,XM,Euro area,2.992
 1977-12-31,ZA,South Africa,-7.9021
 1978-03-31,AU,Australia,-0.7794
@@ -738,8 +738,8 @@ date,country_code,country,price
 1978-03-31,NL,Netherlands,14.96
 1978-03-31,NZ,New Zealand,-10.3145
 1978-03-31,SE,Sweden,-0.8995
-1978-03-31,US,United States,9.0692
-1978-03-31,XM,Euro area,4.3799
+1978-03-31,US,United States,9.1025
+1978-03-31,XM,Euro area,4.3805
 1978-03-31,ZA,South Africa,-6.6033
 1978-06-30,AU,Australia,-3.2109
 1978-06-30,BE,Belgium,7.5744
@@ -758,7 +758,7 @@ date,country_code,country,price
 1978-06-30,NL,Netherlands,7.6296
 1978-06-30,NZ,New Zealand,-9.8784
 1978-06-30,SE,Sweden,1.9615
-1978-06-30,US,United States,7.3868
+1978-06-30,US,United States,7.4183
 1978-06-30,XM,Euro area,3.9598
 1978-06-30,ZA,South Africa,-6.5581
 1978-09-30,AU,Australia,-2.9027
@@ -778,8 +778,8 @@ date,country_code,country,price
 1978-09-30,NL,Netherlands,-1.5787
 1978-09-30,NZ,New Zealand,-8.6011
 1978-09-30,SE,Sweden,6.5792
-1978-09-30,US,United States,6.9324
-1978-09-30,XM,Euro area,3.731
+1978-09-30,US,United States,6.9548
+1978-09-30,XM,Euro area,3.7316
 1978-09-30,ZA,South Africa,-6.9913
 1978-12-31,AU,Australia,-3.4956
 1978-12-31,BE,Belgium,4.1069
@@ -798,7 +798,7 @@ date,country_code,country,price
 1978-12-31,NL,Netherlands,-3.0903
 1978-12-31,NZ,New Zealand,-6.5124
 1978-12-31,SE,Sweden,4.4891
-1978-12-31,US,United States,6.004
+1978-12-31,US,United States,6.0004
 1978-12-31,XM,Euro area,4.1664
 1978-12-31,ZA,South Africa,-4.6063
 1979-03-31,AU,Australia,-1.2781
@@ -818,8 +818,8 @@ date,country_code,country,price
 1979-03-31,NL,Netherlands,-7.0814
 1979-03-31,NZ,New Zealand,-5.1766
 1979-03-31,SE,Sweden,6.3735
-1979-03-31,US,United States,5.414
-1979-03-31,XM,Euro area,5.2883
+1979-03-31,US,United States,5.4023
+1979-03-31,XM,Euro area,5.2882
 1979-03-31,ZA,South Africa,-3.5449
 1979-06-30,AU,Australia,4.6994
 1979-06-30,BE,Belgium,5.0814
@@ -838,7 +838,7 @@ date,country_code,country,price
 1979-06-30,NL,Netherlands,-11.6058
 1979-06-30,NZ,New Zealand,-6.2182
 1979-06-30,SE,Sweden,5.0922
-1979-06-30,US,United States,5.5513
+1979-06-30,US,United States,5.5437
 1979-06-30,XM,Euro area,5.6325
 1979-06-30,ZA,South Africa,-0.835
 1979-09-30,AU,Australia,5.8776
@@ -858,7 +858,7 @@ date,country_code,country,price
 1979-09-30,NL,Netherlands,-6.952
 1979-09-30,NZ,New Zealand,-8.3555
 1979-09-30,SE,Sweden,2.5537
-1979-09-30,US,United States,4.1583
+1979-09-30,US,United States,4.1532
 1979-09-30,XM,Euro area,4.1193
 1979-09-30,ZA,South Africa,-0.098
 1979-12-31,AU,Australia,5.8228
@@ -878,7 +878,7 @@ date,country_code,country,price
 1979-12-31,NL,Netherlands,-10.1582
 1979-12-31,NZ,New Zealand,-9.3005
 1979-12-31,SE,Sweden,0.3601
-1979-12-31,US,United States,4.0005
+1979-12-31,US,United States,3.9794
 1979-12-31,XM,Euro area,0.7375
 1979-12-31,ZA,South Africa,0.3221
 1980-03-31,AU,Australia,2.1201
@@ -898,8 +898,8 @@ date,country_code,country,price
 1980-03-31,NL,Netherlands,-10.9354
 1980-03-31,NZ,New Zealand,-10.4625
 1980-03-31,SE,Sweden,-5.223
-1980-03-31,US,United States,0.3458
-1980-03-31,XM,Euro area,-2.6703
+1980-03-31,US,United States,0.3403
+1980-03-31,XM,Euro area,-2.6708
 1980-03-31,ZA,South Africa,2.3646
 1980-06-30,AU,Australia,0.8051
 1980-06-30,BE,Belgium,-3.6352
@@ -918,7 +918,7 @@ date,country_code,country,price
 1980-06-30,NL,Netherlands,-12.8721
 1980-06-30,NZ,New Zealand,-8.4591
 1980-06-30,SE,Sweden,-8.7503
-1980-06-30,US,United States,-2.9226
+1980-06-30,US,United States,-2.9194
 1980-06-30,XM,Euro area,-2.3221
 1980-06-30,ZA,South Africa,5.1343
 1980-09-30,AU,Australia,2.4344
@@ -938,8 +938,8 @@ date,country_code,country,price
 1980-09-30,NL,Netherlands,-17.0736
 1980-09-30,NZ,New Zealand,-5.1763
 1980-09-30,SE,Sweden,-10.8687
-1980-09-30,US,United States,-1.9602
-1980-09-30,XM,Euro area,1.0384
+1980-09-30,US,United States,-1.9647
+1980-09-30,XM,Euro area,1.0388
 1980-09-30,ZA,South Africa,12.1096
 1980-12-31,AU,Australia,4.9686
 1980-12-31,BE,Belgium,-10.6402
@@ -959,7 +959,7 @@ date,country_code,country,price
 1980-12-31,NL,Netherlands,-14.8101
 1980-12-31,NZ,New Zealand,-3.259
 1980-12-31,SE,Sweden,-13.5189
-1980-12-31,US,United States,-3.1307
+1980-12-31,US,United States,-3.1155
 1980-12-31,XM,Euro area,4.7722
 1980-12-31,ZA,South Africa,15.2283
 1981-03-31,AU,Australia,9.025
@@ -980,7 +980,7 @@ date,country_code,country,price
 1981-03-31,NL,Netherlands,-13.3999
 1981-03-31,NZ,New Zealand,-0.6605
 1981-03-31,SE,Sweden,-10.5249
-1981-03-31,US,United States,-2.3024
+1981-03-31,US,United States,-2.2659
 1981-03-31,XM,Euro area,7.3646
 1981-03-31,ZA,South Africa,19.4605
 1981-06-30,AU,Australia,7.758
@@ -1001,8 +1001,8 @@ date,country_code,country,price
 1981-06-30,NL,Netherlands,-15.9775
 1981-06-30,NZ,New Zealand,4.7245
 1981-06-30,SE,Sweden,-11.5904
-1981-06-30,US,United States,-1.0202
-1981-06-30,XM,Euro area,5.9881
+1981-06-30,US,United States,-1.0223
+1981-06-30,XM,Euro area,5.9877
 1981-06-30,ZA,South Africa,22.6524
 1981-09-30,AU,Australia,2.2588
 1981-09-30,BE,Belgium,-12.6005
@@ -1022,8 +1022,8 @@ date,country_code,country,price
 1981-09-30,NL,Netherlands,-14.2548
 1981-09-30,NZ,New Zealand,8.71
 1981-09-30,SE,Sweden,-13.5583
-1981-09-30,US,United States,-4.1282
-1981-09-30,XM,Euro area,0.6137
+1981-09-30,US,United States,-4.1243
+1981-09-30,XM,Euro area,0.6133
 1981-09-30,ZA,South Africa,20.1895
 1981-12-31,AU,Australia,1.4982
 1981-12-31,BE,Belgium,-10.3075
@@ -1043,7 +1043,7 @@ date,country_code,country,price
 1981-12-31,NL,Netherlands,-19.518
 1981-12-31,NZ,New Zealand,13.7137
 1981-12-31,SE,Sweden,-10.8416
-1981-12-31,US,United States,-3.8431
+1981-12-31,US,United States,-3.8556
 1981-12-31,XM,Euro area,-3.5847
 1981-12-31,ZA,South Africa,17.8495
 1982-03-31,AU,Australia,-5.0628
@@ -1065,7 +1065,7 @@ date,country_code,country,price
 1982-03-31,NL,Netherlands,-21.8613
 1982-03-31,NZ,New Zealand,18.4056
 1982-03-31,SE,Sweden,-9.655
-1982-03-31,US,United States,-3.4937
+1982-03-31,US,United States,-3.5317
 1982-03-31,XM,Euro area,-6.0332
 1982-03-31,ZA,South Africa,13.0318
 1982-06-30,AU,Australia,-5.3591
@@ -1087,8 +1087,8 @@ date,country_code,country,price
 1982-06-30,NL,Netherlands,-18.628
 1982-06-30,NZ,New Zealand,17.0063
 1982-06-30,SE,Sweden,-7.6303
-1982-06-30,US,United States,-3.7374
-1982-06-30,XM,Euro area,-7.3842
+1982-06-30,US,United States,-3.7303
+1982-06-30,XM,Euro area,-7.3839
 1982-06-30,ZA,South Africa,5.5833
 1982-09-30,AU,Australia,-6.7136
 1982-09-30,BE,Belgium,-9.6771
@@ -1109,7 +1109,7 @@ date,country_code,country,price
 1982-09-30,NL,Netherlands,-13.2151
 1982-09-30,NZ,New Zealand,11.5793
 1982-09-30,SE,Sweden,-5.1157
-1982-09-30,US,United States,-3.6643
+1982-09-30,US,United States,-3.6533
 1982-09-30,XM,Euro area,-5.7404
 1982-09-30,ZA,South Africa,2.9093
 1982-12-31,AU,Australia,-10.1774
@@ -1131,7 +1131,7 @@ date,country_code,country,price
 1982-12-31,NL,Netherlands,-9.1086
 1982-12-31,NZ,New Zealand,6.6673
 1982-12-31,SE,Sweden,-5.0735
-1982-12-31,US,United States,-3.019
+1982-12-31,US,United States,-3.0103
 1982-12-31,XM,Euro area,-4.4275
 1982-12-31,ZA,South Africa,-0.2686
 1983-03-31,AU,Australia,-7.0808
@@ -1153,7 +1153,7 @@ date,country_code,country,price
 1983-03-31,NL,Netherlands,-4.0296
 1983-03-31,NZ,New Zealand,2.002
 1983-03-31,SE,Sweden,-6.6059
-1983-03-31,US,United States,-1.5015
+1983-03-31,US,United States,-1.4774
 1983-03-31,XM,Euro area,-3.4999
 1983-03-31,ZA,South Africa,1.3385
 1983-06-30,AU,Australia,-6.5108
@@ -1175,7 +1175,7 @@ date,country_code,country,price
 1983-06-30,NL,Netherlands,0.7911
 1983-06-30,NZ,New Zealand,-0.3118
 1983-06-30,SE,Sweden,-7.7687
-1983-06-30,US,United States,-0.1716
+1983-06-30,US,United States,-0.1772
 1983-06-30,XM,Euro area,-2.7915
 1983-06-30,ZA,South Africa,5.5023
 1983-09-30,AU,Australia,-3.7734
@@ -1197,8 +1197,8 @@ date,country_code,country,price
 1983-09-30,NL,Netherlands,0.0692
 1983-09-30,NZ,New Zealand,2.6422
 1983-09-30,SE,Sweden,-8.8991
-1983-09-30,US,United States,1.8161
-1983-09-30,XM,Euro area,-2.499
+1983-09-30,US,United States,1.8189
+1983-09-30,XM,Euro area,-2.4986
 1983-09-30,ZA,South Africa,8.1564
 1983-12-31,AU,Australia,1.6407
 1983-12-31,BE,Belgium,-8.6682
@@ -1219,7 +1219,7 @@ date,country_code,country,price
 1983-12-31,NL,Netherlands,-0.6442
 1983-12-31,NZ,New Zealand,5.5007
 1983-12-31,SE,Sweden,-6.7909
-1983-12-31,US,United States,1.7422
+1983-12-31,US,United States,1.7405
 1983-12-31,XM,Euro area,-3.485
 1983-12-31,ZA,South Africa,12.7812
 1984-03-31,AU,Australia,4.9434
@@ -1241,7 +1241,7 @@ date,country_code,country,price
 1984-03-31,NL,Netherlands,-2.0827
 1984-03-31,NZ,New Zealand,7.8491
 1984-03-31,SE,Sweden,-5.7869
-1984-03-31,US,United States,0.6534
+1984-03-31,US,United States,0.6501
 1984-03-31,XM,Euro area,-4.6934
 1984-03-31,ZA,South Africa,9.4345
 1984-06-30,AU,Australia,5.6936
@@ -1263,7 +1263,7 @@ date,country_code,country,price
 1984-06-30,NL,Netherlands,-5.6047
 1984-06-30,NZ,New Zealand,8.0987
 1984-06-30,SE,Sweden,-4.187
-1984-06-30,US,United States,0.8421
+1984-06-30,US,United States,0.8558
 1984-06-30,XM,Euro area,-5.1871
 1984-06-30,ZA,South Africa,1.7861
 1984-09-30,AU,Australia,11.3405
@@ -1285,7 +1285,7 @@ date,country_code,country,price
 1984-09-30,NL,Netherlands,-4.538
 1984-09-30,NZ,New Zealand,6.1278
 1984-09-30,SE,Sweden,-2.5041
-1984-09-30,US,United States,1.0504
+1984-09-30,US,United States,1.059
 1984-09-30,XM,Euro area,-5.4214
 1984-09-30,ZA,South Africa,-4.5551
 1984-12-31,AU,Australia,7.1747
@@ -1307,7 +1307,7 @@ date,country_code,country,price
 1984-12-31,NL,Netherlands,-2.9908
 1984-12-31,NZ,New Zealand,3.3321
 1984-12-31,SE,Sweden,-3.1335
-1984-12-31,US,United States,0.6426
+1984-12-31,US,United States,0.6411
 1984-12-31,XM,Euro area,-4.6958
 1984-12-31,ZA,South Africa,-13.2089
 1985-03-31,AU,Australia,7.1291
@@ -1329,7 +1329,7 @@ date,country_code,country,price
 1985-03-31,NL,Netherlands,-2.9952
 1985-03-31,NZ,New Zealand,-0.3347
 1985-03-31,SE,Sweden,-2.4973
-1985-03-31,US,United States,1.1534
+1985-03-31,US,United States,1.1564
 1985-03-31,XM,Euro area,-4.2828
 1985-03-31,ZA,South Africa,-19.2949
 1985-06-30,AU,Australia,3.5737
@@ -1351,7 +1351,7 @@ date,country_code,country,price
 1985-06-30,NL,Netherlands,-1.4124
 1985-06-30,NZ,New Zealand,-2.5906
 1985-06-30,SE,Sweden,-3.0866
-1985-06-30,US,United States,1.9022
+1985-06-30,US,United States,1.8992
 1985-06-30,XM,Euro area,-4.2025
 1985-06-30,ZA,South Africa,-21.3576
 1985-09-30,AU,Australia,0.6853
@@ -1373,7 +1373,7 @@ date,country_code,country,price
 1985-09-30,NL,Netherlands,-2.9988
 1985-09-30,NZ,New Zealand,-1.3164
 1985-09-30,SE,Sweden,-3.0934
-1985-09-30,US,United States,1.6436
+1985-09-30,US,United States,1.6342
 1985-09-30,XM,Euro area,-3.0138
 1985-09-30,ZA,South Africa,-21.6195
 1985-12-31,AU,Australia,1.8095
@@ -1395,7 +1395,7 @@ date,country_code,country,price
 1985-12-31,NL,Netherlands,-0.7277
 1985-12-31,NZ,New Zealand,-0.0861
 1985-12-31,SE,Sweden,-3.3072
-1985-12-31,US,United States,2.7299
+1985-12-31,US,United States,2.723
 1985-12-31,XM,Euro area,-1.9443
 1985-12-31,ZA,South Africa,-20.2503
 1986-03-31,AU,Australia,-1.9162
@@ -1413,11 +1413,11 @@ date,country_code,country,price
 1986-03-31,IS,Iceland,-15.7308
 1986-03-31,IT,Italy,-4.7644
 1986-03-31,JP,Japan,0.5679
-1986-03-31,KR,Korea,7.7023
+1986-03-31,KR,Korea,7.7022
 1986-03-31,NL,Netherlands,2.4544
 1986-03-31,NZ,New Zealand,0.4976
 1986-03-31,SE,Sweden,-1.6495
-1986-03-31,US,United States,4
+1986-03-31,US,United States,3.9975
 1986-03-31,XM,Euro area,-1.1399
 1986-03-31,ZA,South Africa,-20.0148
 1986-06-30,AU,Australia,0.4499
@@ -1439,7 +1439,7 @@ date,country_code,country,price
 1986-06-30,NL,Netherlands,3.0324
 1986-06-30,NZ,New Zealand,0.3883
 1986-06-30,SE,Sweden,-1.0323
-1986-06-30,US,United States,5.2237
+1986-06-30,US,United States,5.225
 1986-06-30,XM,Euro area,0.7234
 1986-06-30,ZA,South Africa,-18.7011
 1986-09-30,AU,Australia,-4.8386
@@ -1457,12 +1457,12 @@ date,country_code,country,price
 1986-09-30,IS,Iceland,-3.762
 1986-09-30,IT,Italy,-2.3373
 1986-09-30,JP,Japan,2.2683
-1986-09-30,KR,Korea,2.9738
+1986-09-30,KR,Korea,2.9739
 1986-09-30,NL,Netherlands,7.1437
 1986-09-30,NZ,New Zealand,-1.7578
 1986-09-30,SE,Sweden,1.1618
-1986-09-30,US,United States,6.703
-1986-09-30,XM,Euro area,1.3429
+1986-09-30,US,United States,6.7171
+1986-09-30,XM,Euro area,1.3426
 1986-09-30,ZA,South Africa,-19.1916
 1986-12-31,AU,Australia,-5.8993
 1986-12-31,BE,Belgium,4.558
@@ -1483,7 +1483,7 @@ date,country_code,country,price
 1986-12-31,NL,Netherlands,6.0965
 1986-12-31,NZ,New Zealand,-8.7265
 1986-12-31,SE,Sweden,5.0329
-1986-12-31,US,United States,6.6984
+1986-12-31,US,United States,6.7036
 1986-12-31,XM,Euro area,2.3583
 1986-12-31,ZA,South Africa,-18.3392
 1987-03-31,AU,Australia,-6.6214
@@ -1501,12 +1501,12 @@ date,country_code,country,price
 1987-03-31,IS,Iceland,16.1742
 1987-03-31,IT,Italy,-0.4834
 1987-03-31,JP,Japan,5.3771
-1987-03-31,KR,Korea,-3.8244
+1987-03-31,KR,Korea,-3.8245
 1987-03-31,NL,Netherlands,6.6389
 1987-03-31,NZ,New Zealand,-5.4804
 1987-03-31,SE,Sweden,8.0347
-1987-03-31,US,United States,7.0621
-1987-03-31,XM,Euro area,4.2651
+1987-03-31,US,United States,7.0746
+1987-03-31,XM,Euro area,4.2647
 1987-03-31,ZA,South Africa,-12.7949
 1987-06-30,AU,Australia,-7.9178
 1987-06-30,BE,Belgium,4.9733
@@ -1523,14 +1523,14 @@ date,country_code,country,price
 1987-06-30,IS,Iceland,15.8828
 1987-06-30,IT,Italy,0.4614
 1987-06-30,JP,Japan,6.7957
-1987-06-30,KR,Korea,-4.2896
+1987-06-30,KR,Korea,-4.2897
 1987-06-30,NL,Netherlands,7.0794
 1987-06-30,NZ,New Zealand,-2.6662
 1987-06-30,SE,Sweden,8.716
-1987-06-30,US,United States,5.7233
+1987-06-30,US,United States,5.7421
 1987-06-30,XM,Euro area,4.3254
 1987-06-30,ZA,South Africa,-7.8867
-1987-09-30,AT,Austria,-2.7321
+1987-09-30,AT,Austria,-2.6891
 1987-09-30,AU,Australia,-2.8005
 1987-09-30,BE,Belgium,2.927
 1987-09-30,CA,Canada,9.5286
@@ -1546,14 +1546,14 @@ date,country_code,country,price
 1987-09-30,IS,Iceland,14.165
 1987-09-30,IT,Italy,1.4144
 1987-09-30,JP,Japan,8.9437
-1987-09-30,KR,Korea,-2.8767
+1987-09-30,KR,Korea,-2.8769
 1987-09-30,NL,Netherlands,3.6153
 1987-09-30,NZ,New Zealand,1.5488
 1987-09-30,SE,Sweden,7.8289
-1987-09-30,US,United States,5.1926
-1987-09-30,XM,Euro area,3.6324
+1987-09-30,US,United States,5.1892
+1987-09-30,XM,Euro area,3.6327
 1987-09-30,ZA,South Africa,-2.9007
-1987-12-31,AT,Austria,12.8734
+1987-12-31,AT,Austria,12.8892
 1987-12-31,AU,Australia,1.7445
 1987-12-31,BE,Belgium,4.5298
 1987-12-31,CA,Canada,8.4336
@@ -1569,14 +1569,14 @@ date,country_code,country,price
 1987-12-31,IS,Iceland,13.1084
 1987-12-31,IT,Italy,2.4617
 1987-12-31,JP,Japan,8.0482
-1987-12-31,KR,Korea,0.6305
+1987-12-31,KR,Korea,0.6304
 1987-12-31,NL,Netherlands,4.5968
 1987-12-31,NZ,New Zealand,11.0552
 1987-12-31,SE,Sweden,8.6566
-1987-12-31,US,United States,5.3316
+1987-12-31,US,United States,5.3493
 1987-12-31,XM,Euro area,5.2413
 1987-12-31,ZA,South Africa,1.6076
-1988-03-31,AT,Austria,-0.9733
+1988-03-31,AT,Austria,-0.9751
 1988-03-31,AU,Australia,5.3247
 1988-03-31,BE,Belgium,4.1621
 1988-03-31,CA,Canada,9.3599
@@ -1596,10 +1596,10 @@ date,country_code,country,price
 1988-03-31,NL,Netherlands,2.2792
 1988-03-31,NZ,New Zealand,8.6983
 1988-03-31,SE,Sweden,9.7007
-1988-03-31,US,United States,4.0868
-1988-03-31,XM,Euro area,4.8222
+1988-03-31,US,United States,4.1035
+1988-03-31,XM,Euro area,4.8225
 1988-03-31,ZA,South Africa,3.1378
-1988-06-30,AT,Austria,-2.6806
+1988-06-30,AT,Austria,-2.7389
 1988-06-30,AU,Australia,9.4696
 1988-06-30,BE,Belgium,7.3789
 1988-06-30,CA,Canada,13.2203
@@ -1615,14 +1615,14 @@ date,country_code,country,price
 1988-06-30,IS,Iceland,9.5716
 1988-06-30,IT,Italy,6.6192
 1988-06-30,JP,Japan,5.9713
-1988-06-30,KR,Korea,9.6364
+1988-06-30,KR,Korea,9.6365
 1988-06-30,NL,Netherlands,3.6326
 1988-06-30,NZ,New Zealand,9.1562
 1988-06-30,SE,Sweden,10.2153
-1988-06-30,US,United States,4.4318
+1988-06-30,US,United States,4.4427
 1988-06-30,XM,Euro area,5.7949
 1988-06-30,ZA,South Africa,1.8028
-1988-09-30,AT,Austria,30.9521
+1988-09-30,AT,Austria,30.8049
 1988-09-30,AU,Australia,17.8762
 1988-09-30,BE,Belgium,7.4494
 1988-09-30,CA,Canada,14.3423
@@ -1638,14 +1638,14 @@ date,country_code,country,price
 1988-09-30,IS,Iceland,-0.7308
 1988-09-30,IT,Italy,8.6305
 1988-09-30,JP,Japan,3.5167
-1988-09-30,KR,Korea,11.6084
+1988-09-30,KR,Korea,11.6085
 1988-09-30,NL,Netherlands,4.812
 1988-09-30,NZ,New Zealand,5.4982
 1988-09-30,SE,Sweden,13.9801
-1988-09-30,US,United States,4.8412
-1988-09-30,XM,Euro area,7.4962
+1988-09-30,US,United States,4.8506
+1988-09-30,XM,Euro area,7.4959
 1988-09-30,ZA,South Africa,2.2306
-1988-12-31,AT,Austria,11.9134
+1988-12-31,AT,Austria,11.8986
 1988-12-31,AU,Australia,23.4653
 1988-12-31,BE,Belgium,8.1296
 1988-12-31,CA,Canada,17.0895
@@ -1661,14 +1661,14 @@ date,country_code,country,price
 1988-12-31,IS,Iceland,4.5368
 1988-12-31,IT,Italy,10.1642
 1988-12-31,JP,Japan,3.6797
-1988-12-31,KR,Korea,6.5929
+1988-12-31,KR,Korea,6.5928
 1988-12-31,NL,Netherlands,4.5807
 1988-12-31,NZ,New Zealand,2.3668
 1988-12-31,SE,Sweden,12.491
-1988-12-31,US,United States,5.1746
+1988-12-31,US,United States,5.1922
 1988-12-31,XM,Euro area,6.5219
 1988-12-31,ZA,South Africa,1.1214
-1989-03-31,AT,Austria,20.117
+1989-03-31,AT,Austria,20.1483
 1989-03-31,AU,Australia,28.8311
 1989-03-31,BE,Belgium,10.5708
 1989-03-31,CA,Canada,17.4858
@@ -1689,12 +1689,12 @@ date,country_code,country,price
 1989-03-31,MY,Malaysia,3.0612
 1989-03-31,NL,Netherlands,5.8141
 1989-03-31,NZ,New Zealand,2.7118
-1989-03-31,PT,Portugal,5.6991
+1989-03-31,PT,Portugal,5.6999
 1989-03-31,SE,Sweden,12.9503
-1989-03-31,US,United States,5.2423
+1989-03-31,US,United States,5.2518
 1989-03-31,XM,Euro area,7.7074
 1989-03-31,ZA,South Africa,-0.4786
-1989-06-30,AT,Austria,16.6224
+1989-06-30,AT,Austria,16.6422
 1989-06-30,AU,Australia,23.7481
 1989-06-30,BE,Belgium,9.547
 1989-06-30,CA,Canada,4.6523
@@ -1715,12 +1715,12 @@ date,country_code,country,price
 1989-06-30,MY,Malaysia,2.8949
 1989-06-30,NL,Netherlands,5.17
 1989-06-30,NZ,New Zealand,0.3451
-1989-06-30,PT,Portugal,3.8143
+1989-06-30,PT,Portugal,3.8139
 1989-06-30,SE,Sweden,13.4212
-1989-06-30,US,United States,3.8319
+1989-06-30,US,United States,3.8367
 1989-06-30,XM,Euro area,7.0821
 1989-06-30,ZA,South Africa,0.8207
-1989-09-30,AT,Austria,8.1329
+1989-09-30,AT,Austria,8.1528
 1989-09-30,AU,Australia,12.2987
 1989-09-30,BE,Belgium,9.5087
 1989-09-30,CA,Canada,5.6924
@@ -1741,12 +1741,12 @@ date,country_code,country,price
 1989-09-30,MY,Malaysia,0.6183
 1989-09-30,NL,Netherlands,5.6067
 1989-09-30,NZ,New Zealand,-0.9862
-1989-09-30,PT,Portugal,5.7213
+1989-09-30,PT,Portugal,5.721
 1989-09-30,SE,Sweden,11.3627
-1989-09-30,US,United States,2.9184
-1989-09-30,XM,Euro area,7.0373
+1989-09-30,US,United States,2.9375
+1989-09-30,XM,Euro area,7.037
 1989-09-30,ZA,South Africa,0.2554
-1989-12-31,AT,Austria,17.4743
+1989-12-31,AT,Austria,17.4109
 1989-12-31,AU,Australia,2.5386
 1989-12-31,BE,Belgium,12.022
 1989-12-31,CA,Canada,3.4236
@@ -1767,12 +1767,12 @@ date,country_code,country,price
 1989-12-31,MY,Malaysia,-0.7856
 1989-12-31,NL,Netherlands,5.4147
 1989-12-31,NZ,New Zealand,0.1022
-1989-12-31,PT,Portugal,4.7372
+1989-12-31,PT,Portugal,4.739
 1989-12-31,SE,Sweden,8.9479
-1989-12-31,US,United States,1.7314
+1989-12-31,US,United States,1.7329
 1989-12-31,XM,Euro area,7.2483
 1989-12-31,ZA,South Africa,-0.6956
-1990-03-31,AT,Austria,15.5501
+1990-03-31,AT,Austria,15.5718
 1990-03-31,AU,Australia,-5.3913
 1990-03-31,BE,Belgium,10.4658
 1990-03-31,CA,Canada,-7.8783
@@ -1793,12 +1793,12 @@ date,country_code,country,price
 1990-03-31,MY,Malaysia,-1.3772
 1990-03-31,NL,Netherlands,2.476
 1990-03-31,NZ,New Zealand,-0.121
-1990-03-31,PT,Portugal,2.946
+1990-03-31,PT,Portugal,2.9458
 1990-03-31,SE,Sweden,6.0702
-1990-03-31,US,United States,0.3919
-1990-03-31,XM,Euro area,7.626
+1990-03-31,US,United States,0.3778
+1990-03-31,XM,Euro area,7.6282
 1990-03-31,ZA,South Africa,0.3614
-1990-06-30,AT,Austria,24.5689
+1990-06-30,AT,Austria,24.5151
 1990-06-30,AU,Australia,-5.5503
 1990-06-30,BE,Belgium,7.761
 1990-06-30,CA,Canada,-5.2048
@@ -1815,16 +1815,16 @@ date,country_code,country,price
 1990-06-30,IS,Iceland,-4.3686
 1990-06-30,IT,Italy,11.1962
 1990-06-30,JP,Japan,11.1918
-1990-06-30,KR,Korea,5.6582
+1990-06-30,KR,Korea,5.6581
 1990-06-30,MY,Malaysia,-2.1608
 1990-06-30,NL,Netherlands,2.2454
 1990-06-30,NZ,New Zealand,-0.5648
-1990-06-30,PT,Portugal,2.6862
+1990-06-30,PT,Portugal,2.6859
 1990-06-30,SE,Sweden,2.503
-1990-06-30,US,United States,-0.3721
-1990-06-30,XM,Euro area,8.3105
+1990-06-30,US,United States,-0.3688
+1990-06-30,XM,Euro area,8.3074
 1990-06-30,ZA,South Africa,1.3287
-1990-09-30,AT,Austria,24.419
+1990-09-30,AT,Austria,24.3594
 1990-09-30,AU,Australia,-4.9743
 1990-09-30,BE,Belgium,6.5439
 1990-09-30,CA,Canada,-6.4789
@@ -1841,16 +1841,16 @@ date,country_code,country,price
 1990-09-30,IS,Iceland,-0.4423
 1990-09-30,IT,Italy,8.8915
 1990-09-30,JP,Japan,12.3466
-1990-09-30,KR,Korea,7.5355
+1990-09-30,KR,Korea,7.5356
 1990-09-30,MY,Malaysia,-0.8795
 1990-09-30,NL,Netherlands,-2.4537
 1990-09-30,NZ,New Zealand,0.206
-1990-09-30,PT,Portugal,0.0403
+1990-09-30,PT,Portugal,0.0409
 1990-09-30,SE,Sweden,-0.3838
-1990-09-30,US,United States,-2.8319
-1990-09-30,XM,Euro area,7.9472
+1990-09-30,US,United States,-2.8415
+1990-09-30,XM,Euro area,7.9482
 1990-09-30,ZA,South Africa,0.3456
-1990-12-31,AT,Austria,23.4282
+1990-12-31,AT,Austria,23.4328
 1990-12-31,AU,Australia,-5.3911
 1990-12-31,BE,Belgium,3.288
 1990-12-31,CA,Canada,-11.515
@@ -1871,12 +1871,12 @@ date,country_code,country,price
 1990-12-31,MY,Malaysia,7.9558
 1990-12-31,NL,Netherlands,-3.7565
 1990-12-31,NZ,New Zealand,-1.9551
-1990-12-31,PT,Portugal,-0.3153
+1990-12-31,PT,Portugal,-0.315
 1990-12-31,SE,Sweden,-2.4052
-1990-12-31,US,United States,-5.1182
-1990-12-31,XM,Euro area,6.5005
+1990-12-31,US,United States,-5.1234
+1990-12-31,XM,Euro area,6.5009
 1990-12-31,ZA,South Africa,-0.6813
-1991-03-31,AT,Austria,25.3145
+1991-03-31,AT,Austria,25.3061
 1991-03-31,AU,Australia,-4.1488
 1991-03-31,BE,Belgium,0.7372
 1991-03-31,CA,Canada,-6.8712
@@ -1893,16 +1893,16 @@ date,country_code,country,price
 1991-03-31,IS,Iceland,4.0061
 1991-03-31,IT,Italy,10.5804
 1991-03-31,JP,Japan,5.6799
-1991-03-31,KR,Korea,7.0741
+1991-03-31,KR,Korea,7.074
 1991-03-31,MY,Malaysia,15.1968
 1991-03-31,NL,Netherlands,-2.3284
 1991-03-31,NZ,New Zealand,-5.4237
-1991-03-31,PT,Portugal,4.5639
+1991-03-31,PT,Portugal,4.564
 1991-03-31,SE,Sweden,-1.5757
-1991-03-31,US,United States,-6.2786
-1991-03-31,XM,Euro area,5.2549
+1991-03-31,US,United States,-6.2723
+1991-03-31,XM,Euro area,5.2535
 1991-03-31,ZA,South Africa,-1.5962
-1991-06-30,AT,Austria,18.1025
+1991-06-30,AT,Austria,18.146
 1991-06-30,AU,Australia,-2.5286
 1991-06-30,BE,Belgium,-0.0756
 1991-06-30,CA,Canada,3.5763
@@ -1919,16 +1919,16 @@ date,country_code,country,price
 1991-06-30,IS,Iceland,5.8198
 1991-06-30,IT,Italy,9.9821
 1991-06-30,JP,Japan,2.346
-1991-06-30,KR,Korea,4.1732
+1991-06-30,KR,Korea,4.1733
 1991-06-30,MY,Malaysia,23.4974
 1991-06-30,NL,Netherlands,-2.7535
 1991-06-30,NZ,New Zealand,-5.8215
-1991-06-30,PT,Portugal,6.9689
+1991-06-30,PT,Portugal,6.9695
 1991-06-30,SE,Sweden,-3.0723
-1991-06-30,US,United States,-5.3331
-1991-06-30,XM,Euro area,4.4494
+1991-06-30,US,United States,-5.3355
+1991-06-30,XM,Euro area,4.4493
 1991-06-30,ZA,South Africa,-2.5228
-1991-09-30,AT,Austria,11.1509
+1991-09-30,AT,Austria,11.3046
 1991-09-30,AU,Australia,1.5645
 1991-09-30,BE,Belgium,1.2596
 1991-09-30,CA,Canada,-2.4047
@@ -1949,12 +1949,12 @@ date,country_code,country,price
 1991-09-30,MY,Malaysia,25.2161
 1991-09-30,NL,Netherlands,-0.109
 1991-09-30,NZ,New Zealand,-4.5943
-1991-09-30,PT,Portugal,6.9853
+1991-09-30,PT,Portugal,6.9861
 1991-09-30,SE,Sweden,-2.8739
-1991-09-30,US,United States,-4.5141
-1991-09-30,XM,Euro area,3.1244
+1991-09-30,US,United States,-4.5165
+1991-09-30,XM,Euro area,3.1229
 1991-09-30,ZA,South Africa,-1.4995
-1991-12-31,AT,Austria,13.8052
+1991-12-31,AT,Austria,13.8733
 1991-12-31,AU,Australia,2.6202
 1991-12-31,BE,Belgium,2.0936
 1991-12-31,CA,Canada,-0.399
@@ -1975,12 +1975,12 @@ date,country_code,country,price
 1991-12-31,MY,Malaysia,17.4115
 1991-12-31,NL,Netherlands,2.9989
 1991-12-31,NZ,New Zealand,-3.4299
-1991-12-31,PT,Portugal,8.5232
+1991-12-31,PT,Portugal,8.5222
 1991-12-31,SE,Sweden,-1.8624
-1991-12-31,US,United States,-3.4968
-1991-12-31,XM,Euro area,3.7157
+1991-12-31,US,United States,-3.498
+1991-12-31,XM,Euro area,3.7125
 1991-12-31,ZA,South Africa,-1.0798
-1992-03-31,AT,Austria,17.7033
+1992-03-31,AT,Austria,17.7084
 1992-03-31,AU,Australia,1.8405
 1992-03-31,BE,Belgium,3.1289
 1992-03-31,CA,Canada,-1.0235
@@ -1997,17 +1997,17 @@ date,country_code,country,price
 1992-03-31,IS,Iceland,0.1027
 1992-03-31,IT,Italy,8.5154
 1992-03-31,JP,Japan,-4.2843
-1992-03-31,KR,Korea,-9.5785
+1992-03-31,KR,Korea,-9.5784
 1992-03-31,MY,Malaysia,12.0135
 1992-03-31,NL,Netherlands,5.893
 1992-03-31,NZ,New Zealand,-2.0001
 1992-03-31,PT,Portugal,6.7893
 1992-03-31,SE,Sweden,-8.5938
 1992-03-31,TH,Thailand,18.2108
-1992-03-31,US,United States,-2.4523
-1992-03-31,XM,Euro area,2.3023
+1992-03-31,US,United States,-2.4562
+1992-03-31,XM,Euro area,2.3004
 1992-03-31,ZA,South Africa,-3.4585
-1992-06-30,AT,Austria,16.1346
+1992-06-30,AT,Austria,16.1021
 1992-06-30,AU,Australia,1.4184
 1992-06-30,BE,Belgium,6.926
 1992-06-30,CA,Canada,-3.4728
@@ -2024,17 +2024,17 @@ date,country_code,country,price
 1992-06-30,IS,Iceland,-2.0209
 1992-06-30,IT,Italy,9.1468
 1992-06-30,JP,Japan,-5.6971
-1992-06-30,KR,Korea,-14.2148
+1992-06-30,KR,Korea,-14.2149
 1992-06-30,MY,Malaysia,7.3175
 1992-06-30,NL,Netherlands,0.8645
 1992-06-30,NZ,New Zealand,0.3033
-1992-06-30,PT,Portugal,4.5299
+1992-06-30,PT,Portugal,4.5304
 1992-06-30,SE,Sweden,-8.8709
 1992-06-30,TH,Thailand,7.5894
-1992-06-30,US,United States,-3.5303
-1992-06-30,XM,Euro area,1.135
+1992-06-30,US,United States,-3.5366
+1992-06-30,XM,Euro area,1.1332
 1992-06-30,ZA,South Africa,-8.3791
-1992-09-30,AT,Austria,7.5132
+1992-09-30,AT,Austria,7.533
 1992-09-30,AU,Australia,-1.0343
 1992-09-30,BE,Belgium,3.8758
 1992-09-30,CA,Canada,2.7026
@@ -2051,17 +2051,17 @@ date,country_code,country,price
 1992-09-30,IS,Iceland,0.4868
 1992-09-30,IT,Italy,10.1095
 1992-09-30,JP,Japan,-6.3291
-1992-09-30,KR,Korea,-13.7907
+1992-09-30,KR,Korea,-13.7908
 1992-09-30,MY,Malaysia,5.2371
 1992-09-30,NL,Netherlands,7.618
 1992-09-30,NZ,New Zealand,0.0978
-1992-09-30,PT,Portugal,1.3327
+1992-09-30,PT,Portugal,1.3319
 1992-09-30,SE,Sweden,-11.9917
 1992-09-30,TH,Thailand,6.2386
-1992-09-30,US,United States,-3.3528
-1992-09-30,XM,Euro area,0.8734
+1992-09-30,US,United States,-3.3567
+1992-09-30,XM,Euro area,0.8738
 1992-09-30,ZA,South Africa,-11.7494
-1992-12-31,AT,Austria,5.6247
+1992-12-31,AT,Austria,5.67
 1992-12-31,AU,Australia,0.4003
 1992-12-31,BE,Belgium,2.7223
 1992-12-31,CA,Canada,3.056
@@ -2082,13 +2082,13 @@ date,country_code,country,price
 1992-12-31,MY,Malaysia,4.2069
 1992-12-31,NL,Netherlands,5.7845
 1992-12-31,NZ,New Zealand,0.3944
-1992-12-31,PT,Portugal,-1.6636
+1992-12-31,PT,Portugal,-1.6629
 1992-12-31,SE,Sweden,-16.7962
 1992-12-31,TH,Thailand,5.646
-1992-12-31,US,United States,-2.7722
-1992-12-31,XM,Euro area,-0.2157
+1992-12-31,US,United States,-2.7787
+1992-12-31,XM,Euro area,-0.2112
 1992-12-31,ZA,South Africa,-9.4442
-1993-03-31,AT,Austria,-4.0513
+1993-03-31,AT,Austria,-4.0326
 1993-03-31,AU,Australia,1.0876
 1993-03-31,BE,Belgium,1.2731
 1993-03-31,CA,Canada,1.9326
@@ -2114,10 +2114,10 @@ date,country_code,country,price
 1993-03-31,PT,Portugal,-4.6944
 1993-03-31,SE,Sweden,-19.0533
 1993-03-31,TH,Thailand,4.6605
-1993-03-31,US,United States,-2.8325
-1993-03-31,XM,Euro area,-1.2169
+1993-03-31,US,United States,-2.8312
+1993-03-31,XM,Euro area,-1.2165
 1993-03-31,ZA,South Africa,-7.2221
-1993-06-30,AT,Austria,-4.69
+1993-06-30,AT,Austria,-4.6415
 1993-06-30,AU,Australia,0.8021
 1993-06-30,BE,Belgium,1.8486
 1993-06-30,CA,Canada,1.4751
@@ -2140,13 +2140,13 @@ date,country_code,country,price
 1993-06-30,NL,Netherlands,8.1389
 1993-06-30,NO,Norway,-3.4356
 1993-06-30,NZ,New Zealand,1.4361
-1993-06-30,PT,Portugal,-5.3862
+1993-06-30,PT,Portugal,-5.3868
 1993-06-30,SE,Sweden,-17.4606
 1993-06-30,TH,Thailand,8.7363
-1993-06-30,US,United States,-2.1195
-1993-06-30,XM,Euro area,-0.9522
+1993-06-30,US,United States,-2.1234
+1993-06-30,XM,Euro area,-0.9472
 1993-06-30,ZA,South Africa,-5.7813
-1993-09-30,AT,Austria,-2.2473
+1993-09-30,AT,Austria,-2.2912
 1993-09-30,AU,Australia,0.4322
 1993-09-30,BE,Belgium,1.6645
 1993-09-30,CA,Canada,-0.9575
@@ -2169,13 +2169,13 @@ date,country_code,country,price
 1993-09-30,NL,Netherlands,4.3007
 1993-09-30,NO,Norway,0.0097
 1993-09-30,NZ,New Zealand,2.5496
-1993-09-30,PT,Portugal,-5.2283
+1993-09-30,PT,Portugal,-5.2285
 1993-09-30,SE,Sweden,-15.1067
 1993-09-30,TH,Thailand,8.0915
-1993-09-30,US,United States,-0.9157
-1993-09-30,XM,Euro area,-0.9932
+1993-09-30,US,United States,-0.921
+1993-09-30,XM,Euro area,-0.9944
 1993-09-30,ZA,South Africa,-1.8853
-1993-12-31,AT,Austria,-1.4083
+1993-12-31,AT,Austria,-1.575
 1993-12-31,AU,Australia,0.677
 1993-12-31,BE,Belgium,5.1342
 1993-12-31,CA,Canada,-1.9265
@@ -2193,18 +2193,18 @@ date,country_code,country,price
 1993-12-31,IS,Iceland,-7.3031
 1993-12-31,IT,Italy,-2.6421
 1993-12-31,JP,Japan,-4.6279
-1993-12-31,KR,Korea,-8.3089
+1993-12-31,KR,Korea,-8.309
 1993-12-31,MY,Malaysia,0.9759
 1993-12-31,NL,Netherlands,6.4069
 1993-12-31,NO,Norway,6.0482
 1993-12-31,NZ,New Zealand,4.8474
-1993-12-31,PT,Portugal,-5.3619
+1993-12-31,PT,Portugal,-5.3633
 1993-12-31,SE,Sweden,-7.8866
 1993-12-31,TH,Thailand,3.8657
-1993-12-31,US,United States,-0.2751
-1993-12-31,XM,Euro area,-0.8994
+1993-12-31,US,United States,-0.2831
+1993-12-31,XM,Euro area,-0.9011
 1993-12-31,ZA,South Africa,-2.3284
-1994-03-31,AT,Austria,2.1132
+1994-03-31,AT,Austria,2.1303
 1994-03-31,AU,Australia,1.4139
 1994-03-31,BE,Belgium,4.9508
 1994-03-31,CA,Canada,2.8869
@@ -2222,18 +2222,18 @@ date,country_code,country,price
 1994-03-31,IS,Iceland,-3.0592
 1994-03-31,IT,Italy,-4.2109
 1994-03-31,JP,Japan,-4.1009
-1994-03-31,KR,Korea,-8.8453
+1994-03-31,KR,Korea,-8.8452
 1994-03-31,MY,Malaysia,2.1977
 1994-03-31,NL,Netherlands,8.1249
 1994-03-31,NO,Norway,14.2623
 1994-03-31,NZ,New Zealand,9.7031
-1994-03-31,PT,Portugal,-4.0701
+1994-03-31,PT,Portugal,-4.0695
 1994-03-31,SE,Sweden,0.6392
 1994-03-31,TH,Thailand,-4.0569
-1994-03-31,US,United States,-0.0698
-1994-03-31,XM,Euro area,-0.531
+1994-03-31,US,United States,-0.0777
+1994-03-31,XM,Euro area,-0.5293
 1994-03-31,ZA,South Africa,-1.5159
-1994-06-30,AT,Austria,-3.3491
+1994-06-30,AT,Austria,-3.458
 1994-06-30,AU,Australia,1.5804
 1994-06-30,BE,Belgium,3.4628
 1994-06-30,CA,Canada,2.588
@@ -2256,13 +2256,13 @@ date,country_code,country,price
 1994-06-30,NL,Netherlands,6.958
 1994-06-30,NO,Norway,12.3369
 1994-06-30,NZ,New Zealand,12.5563
-1994-06-30,PT,Portugal,-4.4809
+1994-06-30,PT,Portugal,-4.4805
 1994-06-30,SE,Sweden,3.0582
 1994-06-30,TH,Thailand,-5.9171
-1994-06-30,US,United States,0.1481
-1994-06-30,XM,Euro area,-0.9836
+1994-06-30,US,United States,0.1415
+1994-06-30,XM,Euro area,-0.9871
 1994-06-30,ZA,South Africa,3.8177
-1994-09-30,AT,Austria,-1.9729
+1994-09-30,AT,Austria,-2.1102
 1994-09-30,AU,Australia,2.8827
 1994-09-30,BE,Belgium,5.2437
 1994-09-30,CA,Canada,3.0873
@@ -2285,13 +2285,13 @@ date,country_code,country,price
 1994-09-30,NL,Netherlands,8.272
 1994-09-30,NO,Norway,12.0929
 1994-09-30,NZ,New Zealand,13.0022
-1994-09-30,PT,Portugal,-2.4916
+1994-09-30,PT,Portugal,-2.4912
 1994-09-30,SE,Sweden,4.1915
 1994-09-30,TH,Thailand,-6.4997
-1994-09-30,US,United States,-0.5532
-1994-09-30,XM,Euro area,-0.9504
+1994-09-30,US,United States,-0.5583
+1994-09-30,XM,Euro area,-0.9498
 1994-09-30,ZA,South Africa,2.5683
-1994-12-31,AT,Austria,-6.5057
+1994-12-31,AT,Austria,-6.4535
 1994-12-31,AU,Australia,0.8476
 1994-12-31,BE,Belgium,2.1949
 1994-12-31,CA,Canada,3.2482
@@ -2314,13 +2314,13 @@ date,country_code,country,price
 1994-12-31,NL,Netherlands,4.8766
 1994-12-31,NO,Norway,8.018
 1994-12-31,NZ,New Zealand,11.4516
-1994-12-31,PT,Portugal,-0.8807
+1994-12-31,PT,Portugal,-0.88
 1994-12-31,SE,Sweden,1.5706
 1994-12-31,TH,Thailand,-3.5763
-1994-12-31,US,United States,-0.8109
-1994-12-31,XM,Euro area,-1.1345
+1994-12-31,US,United States,-0.816
+1994-12-31,XM,Euro area,-1.132
 1994-12-31,ZA,South Africa,1.5589
-1995-03-31,AT,Austria,-4.7013
+1995-03-31,AT,Austria,-4.709
 1995-03-31,AU,Australia,-0.5778
 1995-03-31,BE,Belgium,3.1031
 1995-03-31,CA,Canada,-5.3318
@@ -2339,18 +2339,18 @@ date,country_code,country,price
 1995-03-31,IS,Iceland,-5.9706
 1995-03-31,IT,Italy,-5.3957
 1995-03-31,JP,Japan,-1.7259
-1995-03-31,KR,Korea,-4.7646
+1995-03-31,KR,Korea,-4.7647
 1995-03-31,MY,Malaysia,11.5571
 1995-03-31,NL,Netherlands,2.858
 1995-03-31,NO,Norway,4.5553
 1995-03-31,NZ,New Zealand,6.313
-1995-03-31,PT,Portugal,-2.0657
+1995-03-31,PT,Portugal,-2.067
 1995-03-31,SE,Sweden,-0.3395
 1995-03-31,TH,Thailand,1.7046
-1995-03-31,US,United States,-0.9519
-1995-03-31,XM,Euro area,-1.0667
+1995-03-31,US,United States,-0.9557
+1995-03-31,XM,Euro area,-1.0706
 1995-03-31,ZA,South Africa,0.8145
-1995-06-30,AT,Austria,-4.6112
+1995-06-30,AT,Austria,-4.468
 1995-06-30,AU,Australia,-3.0037
 1995-06-30,BE,Belgium,2.5321
 1995-06-30,CA,Canada,-8.0307
@@ -2369,18 +2369,18 @@ date,country_code,country,price
 1995-06-30,IS,Iceland,-5.7762
 1995-06-30,IT,Italy,-4.4131
 1995-06-30,JP,Japan,-1.4633
-1995-06-30,KR,Korea,-4.6669
+1995-06-30,KR,Korea,-4.6668
 1995-06-30,MY,Malaysia,15.8414
 1995-06-30,NL,Netherlands,3.1253
 1995-06-30,NO,Norway,5.6064
 1995-06-30,NZ,New Zealand,4.0911
-1995-06-30,PT,Portugal,-2.1627
+1995-06-30,PT,Portugal,-2.1632
 1995-06-30,SE,Sweden,-1.6173
 1995-06-30,TH,Thailand,-0.5391
-1995-06-30,US,United States,-1.1317
-1995-06-30,XM,Euro area,-1.1591
+1995-06-30,US,United States,-1.1341
+1995-06-30,XM,Euro area,-1.1561
 1995-06-30,ZA,South Africa,-1.7819
-1995-09-30,AT,Austria,0.8827
+1995-09-30,AT,Austria,0.951
 1995-09-30,AU,Australia,-4.8395
 1995-09-30,BE,Belgium,2.8985
 1995-09-30,CA,Canada,-5.3234
@@ -2404,13 +2404,13 @@ date,country_code,country,price
 1995-09-30,NL,Netherlands,2.3462
 1995-09-30,NO,Norway,3.4334
 1995-09-30,NZ,New Zealand,4.9205
-1995-09-30,PT,Portugal,-2.7557
+1995-09-30,PT,Portugal,-2.7555
 1995-09-30,SE,Sweden,-3.3095
 1995-09-30,TH,Thailand,2.5296
-1995-09-30,US,United States,-0.2905
-1995-09-30,XM,Euro area,-0.7603
+1995-09-30,US,United States,-0.2867
+1995-09-30,XM,Euro area,-0.7645
 1995-09-30,ZA,South Africa,-1.5025
-1995-12-31,AT,Austria,-4.148
+1995-12-31,AT,Austria,-4.0287
 1995-12-31,AU,Australia,-4.5441
 1995-12-31,BE,Belgium,3.4884
 1995-12-31,CA,Canada,-6.0351
@@ -2434,13 +2434,13 @@ date,country_code,country,price
 1995-12-31,NL,Netherlands,5.156
 1995-12-31,NO,Norway,5.5332
 1995-12-31,NZ,New Zealand,5.8064
-1995-12-31,PT,Portugal,-3.3148
+1995-12-31,PT,Portugal,-3.3145
 1995-12-31,SE,Sweden,-3.2165
 1995-12-31,TH,Thailand,-1.3476
-1995-12-31,US,United States,-0.2182
-1995-12-31,XM,Euro area,-0.6124
+1995-12-31,US,United States,-0.2193
+1995-12-31,XM,Euro area,-0.6188
 1995-12-31,ZA,South Africa,-1.544
-1996-03-31,AT,Austria,-0.0167
+1996-03-31,AT,Austria,0.0241
 1996-03-31,AU,Australia,-4.4624
 1996-03-31,BE,Belgium,-0.0185
 1996-03-31,CA,Canada,-4.0407
@@ -2464,13 +2464,13 @@ date,country_code,country,price
 1996-03-31,NL,Netherlands,5.8755
 1996-03-31,NO,Norway,7.1878
 1996-03-31,NZ,New Zealand,9.3842
-1996-03-31,PT,Portugal,-1.7671
+1996-03-31,PT,Portugal,-1.7664
 1996-03-31,SE,Sweden,-1.9546
 1996-03-31,TH,Thailand,-2.2134
-1996-03-31,US,United States,0.1949
-1996-03-31,XM,Euro area,-0.0713
+1996-03-31,US,United States,0.1938
+1996-03-31,XM,Euro area,-0.0723
 1996-03-31,ZA,South Africa,-2.2435
-1996-06-30,AT,Austria,2.8144
+1996-06-30,AT,Austria,2.7883
 1996-06-30,AU,Australia,-1.9712
 1996-06-30,BE,Belgium,0.7283
 1996-06-30,CA,Canada,0.5898
@@ -2494,13 +2494,13 @@ date,country_code,country,price
 1996-06-30,NL,Netherlands,7.2196
 1996-06-30,NO,Norway,7.6681
 1996-06-30,NZ,New Zealand,9.3948
-1996-06-30,PT,Portugal,-1.3773
+1996-06-30,PT,Portugal,-1.3774
 1996-06-30,SE,Sweden,-1.8458
 1996-06-30,TH,Thailand,0.4151
-1996-06-30,US,United States,0.1494
-1996-06-30,XM,Euro area,-0.0865
+1996-06-30,US,United States,0.1532
+1996-06-30,XM,Euro area,-0.0892
 1996-06-30,ZA,South Africa,-2.7594
-1996-09-30,AT,Austria,-6.2345
+1996-09-30,AT,Austria,-6.2045
 1996-09-30,AU,Australia,-0.8746
 1996-09-30,BE,Belgium,-0.0263
 1996-09-30,CA,Canada,-1.7015
@@ -2524,13 +2524,13 @@ date,country_code,country,price
 1996-09-30,NL,Netherlands,8.0729
 1996-09-30,NO,Norway,7.5116
 1996-09-30,NZ,New Zealand,6.156
-1996-09-30,PT,Portugal,-1.5413
+1996-09-30,PT,Portugal,-1.5412
 1996-09-30,SE,Sweden,1.4702
 1996-09-30,TH,Thailand,-6.3124
-1996-09-30,US,United States,-0.2721
-1996-09-30,XM,Euro area,0.1303
+1996-09-30,US,United States,-0.2758
+1996-09-30,XM,Euro area,0.1448
 1996-09-30,ZA,South Africa,-4.0252
-1996-12-31,AT,Austria,-1.406
+1996-12-31,AT,Austria,-1.4723
 1996-12-31,AU,Australia,0.1533
 1996-12-31,BE,Belgium,-0.2775
 1996-12-31,CA,Canada,-1.8469
@@ -2549,18 +2549,18 @@ date,country_code,country,price
 1996-12-31,IS,Iceland,2.4394
 1996-12-31,IT,Italy,0.726
 1996-12-31,JP,Japan,-2.2584
-1996-12-31,KR,Korea,-3.5316
+1996-12-31,KR,Korea,-3.5317
 1996-12-31,MY,Malaysia,6.217
 1996-12-31,NL,Netherlands,9.2279
 1996-12-31,NO,Norway,8.1443
 1996-12-31,NZ,New Zealand,5.3951
-1996-12-31,PT,Portugal,-0.8973
+1996-12-31,PT,Portugal,-0.8977
 1996-12-31,SE,Sweden,3.5635
 1996-12-31,TH,Thailand,-5.9209
-1996-12-31,US,United States,-0.4005
-1996-12-31,XM,Euro area,0.5475
+1996-12-31,US,United States,-0.3967
+1996-12-31,XM,Euro area,0.5503
 1996-12-31,ZA,South Africa,-4.8487
-1997-03-31,AT,Austria,-2.4752
+1997-03-31,AT,Austria,-2.5551
 1997-03-31,AU,Australia,1.4815
 1997-03-31,BE,Belgium,-1.6521
 1997-03-31,CA,Canada,0.3871
@@ -2579,18 +2579,18 @@ date,country_code,country,price
 1997-03-31,IS,Iceland,0.3538
 1997-03-31,IT,Italy,1.8249
 1997-03-31,JP,Japan,-2.0922
-1997-03-31,KR,Korea,-1.6259
+1997-03-31,KR,Korea,-1.6258
 1997-03-31,MY,Malaysia,4.19
 1997-03-31,NL,Netherlands,9.7626
 1997-03-31,NO,Norway,7.5831
 1997-03-31,NZ,New Zealand,4.9458
-1997-03-31,PT,Portugal,-0.298
+1997-03-31,PT,Portugal,-0.2981
 1997-03-31,SE,Sweden,4.5876
 1997-03-31,TH,Thailand,-1.8403
-1997-03-31,US,United States,-0.1981
-1997-03-31,XM,Euro area,-0.406
+1997-03-31,US,United States,-0.1955
+1997-03-31,XM,Euro area,-0.3998
 1997-03-31,ZA,South Africa,-5.3922
-1997-06-30,AT,Austria,-5.2535
+1997-06-30,AT,Austria,-5.2633
 1997-06-30,AU,Australia,2.4625
 1997-06-30,BE,Belgium,1.0174
 1997-06-30,CA,Canada,1.2527
@@ -2614,13 +2614,13 @@ date,country_code,country,price
 1997-06-30,NL,Netherlands,9.8093
 1997-06-30,NO,Norway,10.6125
 1997-06-30,NZ,New Zealand,5.0265
-1997-06-30,PT,Portugal,0.7724
+1997-06-30,PT,Portugal,0.7727
 1997-06-30,SE,Sweden,6.856
 1997-06-30,TH,Thailand,0.8031
-1997-06-30,US,United States,0.7005
-1997-06-30,XM,Euro area,1.0964
+1997-06-30,US,United States,0.6957
+1997-06-30,XM,Euro area,1.098
 1997-06-30,ZA,South Africa,-3.2191
-1997-09-30,AT,Austria,3.8211
+1997-09-30,AT,Austria,3.7135
 1997-09-30,AU,Australia,4.6365
 1997-09-30,BE,Belgium,1.7956
 1997-09-30,CA,Canada,0.7678
@@ -2639,18 +2639,18 @@ date,country_code,country,price
 1997-09-30,IS,Iceland,0.3386
 1997-09-30,IT,Italy,1.0505
 1997-09-30,JP,Japan,-3.2079
-1997-09-30,KR,Korea,-0.7962
+1997-09-30,KR,Korea,-0.7961
 1997-09-30,MY,Malaysia,-1.6946
 1997-09-30,NL,Netherlands,8.9535
 1997-09-30,NO,Norway,9.7267
 1997-09-30,NZ,New Zealand,5.3222
-1997-09-30,PT,Portugal,2.203
+1997-09-30,PT,Portugal,2.2034
 1997-09-30,SE,Sweden,6.3412
 1997-09-30,TH,Thailand,3.9223
-1997-09-30,US,United States,1.511
-1997-09-30,XM,Euro area,0.3633
+1997-09-30,US,United States,1.5099
+1997-09-30,XM,Euro area,0.3512
 1997-09-30,ZA,South Africa,1.9083
-1997-12-31,AT,Austria,1.9642
+1997-12-31,AT,Austria,2.0036
 1997-12-31,AU,Australia,6.316
 1997-12-31,BE,Belgium,1.8023
 1997-12-31,CA,Canada,0.7395
@@ -2669,18 +2669,18 @@ date,country_code,country,price
 1997-12-31,IS,Iceland,-0.0535
 1997-12-31,IT,Italy,0.3375
 1997-12-31,JP,Japan,-3.2658
-1997-12-31,KR,Korea,-2.4622
+1997-12-31,KR,Korea,-2.4623
 1997-12-31,MY,Malaysia,-7.0282
 1997-12-31,NL,Netherlands,8.3294
 1997-12-31,NO,Norway,8.7193
 1997-12-31,NZ,New Zealand,3.9962
-1997-12-31,PT,Portugal,2.3468
+1997-12-31,PT,Portugal,2.3467
 1997-12-31,SE,Sweden,5.8338
 1997-12-31,TH,Thailand,0.6528
-1997-12-31,US,United States,2.7198
-1997-12-31,XM,Euro area,0.6641
+1997-12-31,US,United States,2.7211
+1997-12-31,XM,Euro area,0.6578
 1997-12-31,ZA,South Africa,7.8615
-1998-03-31,AT,Austria,-3.6559
+1998-03-31,AT,Austria,-3.6801
 1998-03-31,AU,Australia,7.8807
 1998-03-31,BE,Belgium,7.5818
 1998-03-31,CA,Canada,-1.3581
@@ -2701,18 +2701,18 @@ date,country_code,country,price
 1998-03-31,IS,Iceland,3.8772
 1998-03-31,IT,Italy,-2.6368
 1998-03-31,JP,Japan,-3.17
-1998-03-31,KR,Korea,-10.3635
+1998-03-31,KR,Korea,-10.3636
 1998-03-31,MY,Malaysia,-11.2612
 1998-03-31,NL,Netherlands,8.0626
 1998-03-31,NO,Norway,11.5313
 1998-03-31,NZ,New Zealand,-1.0579
-1998-03-31,PT,Portugal,2.1587
+1998-03-31,PT,Portugal,2.1583
 1998-03-31,SE,Sweden,8.3497
 1998-03-31,TH,Thailand,-0.7662
-1998-03-31,US,United States,4.3462
-1998-03-31,XM,Euro area,1.2441
+1998-03-31,US,United States,4.3465
+1998-03-31,XM,Euro area,1.2343
 1998-03-31,ZA,South Africa,11.5137
-1998-06-30,AT,Austria,-5.6225
+1998-06-30,AT,Austria,-5.5996
 1998-06-30,AU,Australia,7.9316
 1998-06-30,BE,Belgium,3.2697
 1998-06-30,CA,Canada,-2.9139
@@ -2733,18 +2733,18 @@ date,country_code,country,price
 1998-06-30,IS,Iceland,3.6653
 1998-06-30,IT,Italy,-1.7924
 1998-06-30,JP,Japan,-1.8404
-1998-06-30,KR,Korea,-16.5677
+1998-06-30,KR,Korea,-16.5678
 1998-06-30,MY,Malaysia,-15.5969
 1998-06-30,NL,Netherlands,7.6657
 1998-06-30,NO,Norway,10.5568
 1998-06-30,NZ,New Zealand,-4.0746
-1998-06-30,PT,Portugal,1.669
+1998-06-30,PT,Portugal,1.6693
 1998-06-30,SE,Sweden,8.4881
 1998-06-30,TH,Thailand,-16.7339
-1998-06-30,US,United States,4.5347
-1998-06-30,XM,Euro area,0.6268
+1998-06-30,US,United States,4.5362
+1998-06-30,XM,Euro area,0.6254
 1998-06-30,ZA,South Africa,10.8308
-1998-09-30,AT,Austria,-6.895
+1998-09-30,AT,Austria,-6.7723
 1998-09-30,AU,Australia,5.2934
 1998-09-30,BE,Belgium,5.508
 1998-09-30,CA,Canada,-3.0082
@@ -2770,13 +2770,13 @@ date,country_code,country,price
 1998-09-30,NL,Netherlands,8.6199
 1998-09-30,NO,Norway,8.5516
 1998-09-30,NZ,New Zealand,-4.2903
-1998-09-30,PT,Portugal,1.5224
+1998-09-30,PT,Portugal,1.5212
 1998-09-30,SE,Sweden,10.1494
 1998-09-30,TH,Thailand,-10.9524
-1998-09-30,US,United States,5.0905
-1998-09-30,XM,Euro area,1.5042
+1998-09-30,US,United States,5.0966
+1998-09-30,XM,Euro area,1.5012
 1998-09-30,ZA,South Africa,5.5197
-1998-12-31,AT,Austria,-6.7973
+1998-12-31,AT,Austria,-6.8153
 1998-12-31,AU,Australia,4.8052
 1998-12-31,BE,Belgium,5.1693
 1998-12-31,CA,Canada,-1.7534
@@ -2802,13 +2802,13 @@ date,country_code,country,price
 1998-12-31,NL,Netherlands,9.21
 1998-12-31,NO,Norway,4.1733
 1998-12-31,NZ,New Zealand,-2.6363
-1998-12-31,PT,Portugal,2.0034
+1998-12-31,PT,Portugal,2.0039
 1998-12-31,SE,Sweden,12.192
 1998-12-31,TH,Thailand,-8.2918
 1998-12-31,US,United States,5.5453
-1998-12-31,XM,Euro area,2.1088
+1998-12-31,XM,Euro area,2.1104
 1998-12-31,ZA,South Africa,-0.8705
-1999-03-31,AT,Austria,-4.8985
+1999-03-31,AT,Austria,-4.8026
 1999-03-31,AU,Australia,4.4433
 1999-03-31,BE,Belgium,5.7484
 1999-03-31,BG,Bulgaria,2.6955
@@ -2836,14 +2836,14 @@ date,country_code,country,price
 1999-03-31,NO,Norway,3.9398
 1999-03-31,NZ,New Zealand,0.5501
 1999-03-31,PE,Peru,15.4042
-1999-03-31,PT,Portugal,5.2824
+1999-03-31,PT,Portugal,5.2827
 1999-03-31,SE,Sweden,9.2501
 1999-03-31,SG,Singapore,-22.7373
 1999-03-31,TH,Thailand,-9.8717
-1999-03-31,US,United States,4.9477
-1999-03-31,XM,Euro area,3.4009
+1999-03-31,US,United States,4.9491
+1999-03-31,XM,Euro area,3.4057
 1999-03-31,ZA,South Africa,-3.6484
-1999-06-30,AT,Austria,-0.6922
+1999-06-30,AT,Austria,-0.7755
 1999-06-30,AU,Australia,4.6908
 1999-06-30,BE,Belgium,7.4146
 1999-06-30,BG,Bulgaria,0.3384
@@ -2871,14 +2871,14 @@ date,country_code,country,price
 1999-06-30,NO,Norway,5.521
 1999-06-30,NZ,New Zealand,3.3855
 1999-06-30,PE,Peru,13.1662
-1999-06-30,PT,Portugal,6.0396
+1999-06-30,PT,Portugal,6.0388
 1999-06-30,SE,Sweden,9.5992
 1999-06-30,SG,Singapore,-6.4224
 1999-06-30,TH,Thailand,-18.3664
-1999-06-30,US,United States,5.1569
-1999-06-30,XM,Euro area,3.4447
+1999-06-30,US,United States,5.1583
+1999-06-30,XM,Euro area,3.452
 1999-06-30,ZA,South Africa,-2.2891
-1999-09-30,AT,Austria,-4.3229
+1999-09-30,AT,Austria,-4.3956
 1999-09-30,AU,Australia,5.9731
 1999-09-30,BE,Belgium,6.4206
 1999-09-30,BG,Bulgaria,-4.6876
@@ -2910,10 +2910,10 @@ date,country_code,country,price
 1999-09-30,SE,Sweden,9.2759
 1999-09-30,SG,Singapore,15.9735
 1999-09-30,TH,Thailand,-4.5701
-1999-09-30,US,United States,5.1202
-1999-09-30,XM,Euro area,4.1283
+1999-09-30,US,United States,5.1179
+1999-09-30,XM,Euro area,4.1427
 1999-09-30,ZA,South Africa,0.238
-1999-12-31,AT,Austria,-2.1708
+1999-12-31,AT,Austria,-2.1338
 1999-12-31,AU,Australia,7.5725
 1999-12-31,BE,Belgium,4.1405
 1999-12-31,BG,Bulgaria,-4.8032
@@ -2935,21 +2935,21 @@ date,country_code,country,price
 1999-12-31,IS,Iceland,15.9036
 1999-12-31,IT,Italy,-0.5852
 1999-12-31,JP,Japan,-2.4665
-1999-12-31,KR,Korea,2.4614
+1999-12-31,KR,Korea,2.4615
 1999-12-31,LT,Lithuania,-15.1745
 1999-12-31,MY,Malaysia,0.318
 1999-12-31,NL,Netherlands,16.2167
 1999-12-31,NO,Norway,15.6719
 1999-12-31,NZ,New Zealand,1.7713
 1999-12-31,PE,Peru,8.1672
-1999-12-31,PT,Portugal,6.9376
+1999-12-31,PT,Portugal,6.9368
 1999-12-31,SE,Sweden,7.3836
 1999-12-31,SG,Singapore,33.4366
 1999-12-31,TH,Thailand,-7.7586
-1999-12-31,US,United States,5.0987
-1999-12-31,XM,Euro area,3.5982
+1999-12-31,US,United States,5.0988
+1999-12-31,XM,Euro area,3.6004
 1999-12-31,ZA,South Africa,4.6667
-2000-03-31,AT,Austria,0.1515
+2000-03-31,AT,Austria,0.037
 2000-03-31,AU,Australia,6.6028
 2000-03-31,BE,Belgium,4.8421
 2000-03-31,BG,Bulgaria,-8.5791
@@ -2978,14 +2978,14 @@ date,country_code,country,price
 2000-03-31,NO,Norway,17.7597
 2000-03-31,NZ,New Zealand,-0.6657
 2000-03-31,PE,Peru,-11.7883
-2000-03-31,PT,Portugal,5.394
+2000-03-31,PT,Portugal,5.3944
 2000-03-31,SE,Sweden,9.3008
 2000-03-31,SG,Singapore,29.695
 2000-03-31,TH,Thailand,-7.2738
-2000-03-31,US,United States,5.4162
-2000-03-31,XM,Euro area,4.1084
+2000-03-31,US,United States,5.4174
+2000-03-31,XM,Euro area,4.1099
 2000-03-31,ZA,South Africa,19.7004
-2000-06-30,AT,Austria,-2.2311
+2000-06-30,AT,Austria,-2.2104
 2000-06-30,AU,Australia,6.3512
 2000-06-30,BE,Belgium,2.9863
 2000-06-30,BG,Bulgaria,-11.7801
@@ -3007,21 +3007,21 @@ date,country_code,country,price
 2000-06-30,IS,Iceland,12.5554
 2000-06-30,IT,Italy,0.8593
 2000-06-30,JP,Japan,-3.0505
-2000-06-30,KR,Korea,0.8846
+2000-06-30,KR,Korea,0.8845
 2000-06-30,LT,Lithuania,-10.122
 2000-06-30,MY,Malaysia,5.7511
 2000-06-30,NL,Netherlands,16.2378
 2000-06-30,NO,Norway,16.1691
 2000-06-30,NZ,New Zealand,-2.1757
 2000-06-30,PE,Peru,-3.1316
-2000-06-30,PT,Portugal,5.4478
+2000-06-30,PT,Portugal,5.4482
 2000-06-30,SE,Sweden,10.1247
 2000-06-30,SG,Singapore,18.1511
 2000-06-30,TH,Thailand,20.1926
-2000-06-30,US,United States,5.9382
-2000-06-30,XM,Euro area,4.2915
+2000-06-30,US,United States,5.9394
+2000-06-30,XM,Euro area,4.2902
 2000-06-30,ZA,South Africa,13.8775
-2000-09-30,AT,Austria,-3.9616
+2000-09-30,AT,Austria,-3.9444
 2000-09-30,AU,Australia,1.4263
 2000-09-30,BE,Belgium,0.2351
 2000-09-30,BG,Bulgaria,-7.6074
@@ -3043,21 +3043,21 @@ date,country_code,country,price
 2000-09-30,IS,Iceland,9.0836
 2000-09-30,IT,Italy,1.5841
 2000-09-30,JP,Japan,-3.2729
-2000-09-30,KR,Korea,-1.5804
+2000-09-30,KR,Korea,-1.5803
 2000-09-30,LT,Lithuania,-9.7927
 2000-09-30,MY,Malaysia,4.7245
 2000-09-30,NL,Netherlands,14.7816
 2000-09-30,NO,Norway,10.0379
 2000-09-30,NZ,New Zealand,-3.7252
 2000-09-30,PE,Peru,-6.477
-2000-09-30,PT,Portugal,3.5936
+2000-09-30,PT,Portugal,3.5941
 2000-09-30,SE,Sweden,10.6359
 2000-09-30,SG,Singapore,5.5633
 2000-09-30,TH,Thailand,-4.7807
-2000-09-30,US,United States,5.9577
-2000-09-30,XM,Euro area,3.3136
+2000-09-30,US,United States,5.9587
+2000-09-30,XM,Euro area,3.3008
 2000-09-30,ZA,South Africa,8.4189
-2000-12-31,AT,Austria,-3.167
+2000-12-31,AT,Austria,-3.2134
 2000-12-31,AU,Australia,0.7269
 2000-12-31,BE,Belgium,3.3023
 2000-12-31,BG,Bulgaria,-12.0578
@@ -3086,14 +3086,14 @@ date,country_code,country,price
 2000-12-31,NO,Norway,6.5018
 2000-12-31,NZ,New Zealand,-4.9352
 2000-12-31,PE,Peru,-9.8896
-2000-12-31,PT,Portugal,4.6156
+2000-12-31,PT,Portugal,4.6162
 2000-12-31,SE,Sweden,10.785
 2000-12-31,SG,Singapore,-2.9495
 2000-12-31,TH,Thailand,1.4679
-2000-12-31,US,United States,6.1685
-2000-12-31,XM,Euro area,3.0909
+2000-12-31,US,United States,6.1686
+2000-12-31,XM,Euro area,3.0886
 2000-12-31,ZA,South Africa,3.5891
-2001-03-31,AT,Austria,-1.7554
+2001-03-31,AT,Austria,-1.7518
 2001-03-31,AU,Australia,0.9056
 2001-03-31,BE,Belgium,2.3773
 2001-03-31,BG,Bulgaria,-7.0118
@@ -3123,15 +3123,15 @@ date,country_code,country,price
 2001-03-31,NO,Norway,3.5717
 2001-03-31,NZ,New Zealand,-2.941
 2001-03-31,PE,Peru,-13.4053
-2001-03-31,PT,Portugal,2.7766
+2001-03-31,PT,Portugal,2.7767
 2001-03-31,RS,Serbia,-30.967
 2001-03-31,SE,Sweden,10.3737
 2001-03-31,SG,Singapore,-9.4405
 2001-03-31,TH,Thailand,2.8274
-2001-03-31,US,United States,6.1312
-2001-03-31,XM,Euro area,3.1194
+2001-03-31,US,United States,6.1303
+2001-03-31,XM,Euro area,3.1208
 2001-03-31,ZA,South Africa,-8.9761
-2001-06-30,AT,Austria,-4.651
+2001-06-30,AT,Austria,-4.5969
 2001-06-30,AU,Australia,2.0216
 2001-06-30,BE,Belgium,2.1232
 2001-06-30,BG,Bulgaria,-9.298
@@ -3161,15 +3161,15 @@ date,country_code,country,price
 2001-06-30,NO,Norway,0.8232
 2001-06-30,NZ,New Zealand,-2.4531
 2001-06-30,PE,Peru,-4.6177
-2001-06-30,PT,Portugal,1.8046
+2001-06-30,PT,Portugal,1.8045
 2001-06-30,RS,Serbia,-44.1559
 2001-06-30,SE,Sweden,5.5478
 2001-06-30,SG,Singapore,-11.5685
 2001-06-30,TH,Thailand,-4.8123
-2001-06-30,US,United States,5.3103
-2001-06-30,XM,Euro area,2.15
+2001-06-30,US,United States,5.3114
+2001-06-30,XM,Euro area,2.1395
 2001-06-30,ZA,South Africa,-5.6202
-2001-09-30,AT,Austria,1.3619
+2001-09-30,AT,Austria,1.4192
 2001-09-30,AU,Australia,11.1935
 2001-09-30,BE,Belgium,2.8981
 2001-09-30,BG,Bulgaria,-5.8967
@@ -3204,10 +3204,10 @@ date,country_code,country,price
 2001-09-30,SE,Sweden,3.7224
 2001-09-30,SG,Singapore,-11.0024
 2001-09-30,TH,Thailand,-3.1007
-2001-09-30,US,United States,5.742
-2001-09-30,XM,Euro area,2.6063
+2001-09-30,US,United States,5.7455
+2001-09-30,XM,Euro area,2.6037
 2001-09-30,ZA,South Africa,0.8699
-2001-12-31,AT,Austria,-2.0609
+2001-12-31,AT,Austria,-2.1008
 2001-12-31,AU,Australia,12.0269
 2001-12-31,BE,Belgium,1.8385
 2001-12-31,BG,Bulgaria,-4.0139
@@ -3237,15 +3237,15 @@ date,country_code,country,price
 2001-12-31,NO,Norway,5.5932
 2001-12-31,NZ,New Zealand,2.5317
 2001-12-31,PE,Peru,-7.0754
-2001-12-31,PT,Portugal,-1.3083
+2001-12-31,PT,Portugal,-1.3082
 2001-12-31,RS,Serbia,-27.9544
 2001-12-31,SE,Sweden,2.1999
 2001-12-31,SG,Singapore,-11.5225
 2001-12-31,TH,Thailand,-2.1809
-2001-12-31,US,United States,5.9722
-2001-12-31,XM,Euro area,2.7521
+2001-12-31,US,United States,5.974
+2001-12-31,XM,Euro area,2.7539
 2001-12-31,ZA,South Africa,6.1554
-2002-03-31,AT,Austria,-3.3839
+2002-03-31,AT,Austria,-3.371
 2002-03-31,AU,Australia,13.9705
 2002-03-31,BE,Belgium,2.0955
 2002-03-31,BG,Bulgaria,-8.3642
@@ -3276,16 +3276,16 @@ date,country_code,country,price
 2002-03-31,NO,Norway,6.361
 2002-03-31,NZ,New Zealand,4.3645
 2002-03-31,PE,Peru,-0.0566
-2002-03-31,PT,Portugal,-1.5997
+2002-03-31,PT,Portugal,-1.6
 2002-03-31,RS,Serbia,-22.7815
 2002-03-31,RU,Russia,13.8733
 2002-03-31,SE,Sweden,0.8909
 2002-03-31,SG,Singapore,-8.3131
 2002-03-31,TH,Thailand,-3.3107
-2002-03-31,US,United States,6.0022
-2002-03-31,XM,Euro area,3.1771
+2002-03-31,US,United States,6.004
+2002-03-31,XM,Euro area,3.1731
 2002-03-31,ZA,South Africa,6.5996
-2002-06-30,AT,Austria,-0.5168
+2002-06-30,AT,Austria,-0.5843
 2002-06-30,AU,Australia,16.7253
 2002-06-30,BE,Belgium,4.4568
 2002-06-30,BG,Bulgaria,-4.8462
@@ -3316,16 +3316,16 @@ date,country_code,country,price
 2002-06-30,NO,Norway,6.1685
 2002-06-30,NZ,New Zealand,6.3047
 2002-06-30,PE,Peru,-8.9531
-2002-06-30,PT,Portugal,-2.6933
+2002-06-30,PT,Portugal,-2.6932
 2002-06-30,RS,Serbia,-13.4624
 2002-06-30,RU,Russia,17.5132
 2002-06-30,SE,Sweden,3.2639
 2002-06-30,SG,Singapore,-8.585
 2002-06-30,TH,Thailand,1.2799
-2002-06-30,US,United States,6.8343
-2002-06-30,XM,Euro area,4.1807
+2002-06-30,US,United States,6.8334
+2002-06-30,XM,Euro area,4.1851
 2002-06-30,ZA,South Africa,5.4937
-2002-09-30,AT,Austria,-1.0881
+2002-09-30,AT,Austria,-1.1413
 2002-09-30,AU,Australia,15.1051
 2002-09-30,BE,Belgium,5.3707
 2002-09-30,BG,Bulgaria,-2.4545
@@ -3356,16 +3356,16 @@ date,country_code,country,price
 2002-09-30,NO,Norway,1.7111
 2002-09-30,NZ,New Zealand,8.8123
 2002-09-30,PE,Peru,17.4078
-2002-09-30,PT,Portugal,-3.4417
+2002-09-30,PT,Portugal,-3.4418
 2002-09-30,RS,Serbia,-14.3888
 2002-09-30,RU,Russia,15.9438
 2002-09-30,SE,Sweden,5.3515
 2002-09-30,SG,Singapore,-5.3026
 2002-09-30,TH,Thailand,3.0272
-2002-09-30,US,United States,7.1986
-2002-09-30,XM,Euro area,4.4882
+2002-09-30,US,United States,7.2041
+2002-09-30,XM,Euro area,4.4926
 2002-09-30,ZA,South Africa,2.863
-2002-12-31,AT,Austria,0.2998
+2002-12-31,AT,Austria,0.3846
 2002-12-31,AU,Australia,15.279
 2002-12-31,BE,Belgium,6.7596
 2002-12-31,BG,Bulgaria,0.8021
@@ -3396,16 +3396,16 @@ date,country_code,country,price
 2002-12-31,NO,Norway,0.509
 2002-12-31,NZ,New Zealand,10.9389
 2002-12-31,PE,Peru,-3.0245
-2002-12-31,PT,Portugal,-3.7188
+2002-12-31,PT,Portugal,-3.719
 2002-12-31,RS,Serbia,-4.683
 2002-12-31,RU,Russia,10.7552
 2002-12-31,SE,Sweden,6.8534
 2002-12-31,SG,Singapore,-1.943
 2002-12-31,TH,Thailand,-0.7736
 2002-12-31,US,United States,6.9516
-2002-12-31,XM,Euro area,4.329
+2002-12-31,XM,Euro area,4.3319
 2002-12-31,ZA,South Africa,0.8481
-2003-03-31,AT,Austria,-1.2055
+2003-03-31,AT,Austria,-1.1799
 2003-03-31,AU,Australia,13.594
 2003-03-31,BE,Belgium,5.7043
 2003-03-31,BG,Bulgaria,4.4815
@@ -3431,7 +3431,7 @@ date,country_code,country,price
 2003-03-31,IS,Iceland,7.4984
 2003-03-31,IT,Italy,3.6411
 2003-03-31,JP,Japan,-5.6605
-2003-03-31,KR,Korea,6.9145
+2003-03-31,KR,Korea,6.9144
 2003-03-31,LT,Lithuania,25.9164
 2003-03-31,MK,North Macedonia,12.0849
 2003-03-31,MY,Malaysia,3.3945
@@ -3439,16 +3439,16 @@ date,country_code,country,price
 2003-03-31,NO,Norway,-2.7292
 2003-03-31,NZ,New Zealand,12.7917
 2003-03-31,PE,Peru,-14.6847
-2003-03-31,PT,Portugal,-3.2847
+2003-03-31,PT,Portugal,-3.2851
 2003-03-31,RS,Serbia,14.0151
 2003-03-31,RU,Russia,10.6197
 2003-03-31,SE,Sweden,4.8327
 2003-03-31,SG,Singapore,-2.1123
 2003-03-31,TH,Thailand,0.1327
-2003-03-31,US,United States,6.4857
-2003-03-31,XM,Euro area,3.7101
+2003-03-31,US,United States,6.4889
+2003-03-31,XM,Euro area,3.7055
 2003-03-31,ZA,South Africa,3.744
-2003-06-30,AT,Austria,0.1426
+2003-06-30,AT,Austria,0.1138
 2003-06-30,AU,Australia,13.8114
 2003-06-30,BE,Belgium,4.9998
 2003-06-30,BG,Bulgaria,7.0621
@@ -3482,16 +3482,16 @@ date,country_code,country,price
 2003-06-30,NO,Norway,-3.1691
 2003-06-30,NZ,New Zealand,15.1217
 2003-06-30,PE,Peru,-9.104
-2003-06-30,PT,Portugal,-2.5647
+2003-06-30,PT,Portugal,-2.5648
 2003-06-30,RS,Serbia,24.671
 2003-06-30,RU,Russia,6.8947
 2003-06-30,SE,Sweden,5.0921
 2003-06-30,SG,Singapore,-1.4867
 2003-06-30,TH,Thailand,-0.4285
-2003-06-30,US,United States,6.7726
-2003-06-30,XM,Euro area,3.9132
+2003-06-30,US,United States,6.7774
+2003-06-30,XM,Euro area,3.9149
 2003-06-30,ZA,South Africa,8.5878
-2003-09-30,AT,Austria,-4.2796
+2003-09-30,AT,Austria,-4.1879
 2003-09-30,AU,Australia,15.8123
 2003-09-30,BE,Belgium,4.8334
 2003-09-30,BG,Bulgaria,10.6753
@@ -3517,7 +3517,7 @@ date,country_code,country,price
 2003-09-30,IS,Iceland,11.7867
 2003-09-30,IT,Italy,3.4983
 2003-09-30,JP,Japan,-6.2039
-2003-09-30,KR,Korea,4.9998
+2003-09-30,KR,Korea,4.9997
 2003-09-30,LT,Lithuania,10.354
 2003-09-30,MK,North Macedonia,-4.9111
 2003-09-30,MY,Malaysia,3.7782
@@ -3531,10 +3531,10 @@ date,country_code,country,price
 2003-09-30,SE,Sweden,3.862
 2003-09-30,SG,Singapore,-2.7583
 2003-09-30,TH,Thailand,1.0973
-2003-09-30,US,United States,7.0753
-2003-09-30,XM,Euro area,3.691
+2003-09-30,US,United States,7.0737
+2003-09-30,XM,Euro area,3.6937
 2003-09-30,ZA,South Africa,14.8991
-2003-12-31,AT,Austria,1.1234
+2003-12-31,AT,Austria,1.0345
 2003-12-31,AU,Australia,16.1102
 2003-12-31,BE,Belgium,5.3459
 2003-12-31,BG,Bulgaria,15.6353
@@ -3560,7 +3560,7 @@ date,country_code,country,price
 2003-12-31,IS,Iceland,9.583
 2003-12-31,IT,Italy,3.5882
 2003-12-31,JP,Japan,-6.1291
-2003-12-31,KR,Korea,2.9744
+2003-12-31,KR,Korea,2.9745
 2003-12-31,LT,Lithuania,12.9056
 2003-12-31,MK,North Macedonia,3.9925
 2003-12-31,MY,Malaysia,2.4454
@@ -3574,10 +3574,10 @@ date,country_code,country,price
 2003-12-31,SE,Sweden,4.7939
 2003-12-31,SG,Singapore,-2.6992
 2003-12-31,TH,Thailand,3.6827
-2003-12-31,US,United States,8.6987
-2003-12-31,XM,Euro area,4.1989
+2003-12-31,US,United States,8.7017
+2003-12-31,XM,Euro area,4.2047
 2003-12-31,ZA,South Africa,24.2496
-2004-03-31,AT,Austria,-8.2008
+2004-03-31,AT,Austria,-8.179
 2004-03-31,AU,Australia,13.0635
 2004-03-31,BE,Belgium,6.9486
 2004-03-31,BG,Bulgaria,26.4642
@@ -3611,16 +3611,16 @@ date,country_code,country,price
 2004-03-31,NO,Norway,10.7653
 2004-03-31,NZ,New Zealand,21.2513
 2004-03-31,PE,Peru,14.5475
-2004-03-31,PT,Portugal,-1.0837
+2004-03-31,PT,Portugal,-1.0835
 2004-03-31,RS,Serbia,12.4304
 2004-03-31,RU,Russia,13.3269
 2004-03-31,SE,Sweden,7.6316
 2004-03-31,SG,Singapore,-2.7864
 2004-03-31,TH,Thailand,2.8061
-2004-03-31,US,United States,10.2705
-2004-03-31,XM,Euro area,4.1998
+2004-03-31,US,United States,10.2686
+2004-03-31,XM,Euro area,4.206
 2004-03-31,ZA,South Africa,30.051
-2004-06-30,AT,Austria,-3.0792
+2004-06-30,AT,Austria,-3.0165
 2004-06-30,AU,Australia,5.7292
 2004-06-30,BE,Belgium,5.4813
 2004-06-30,BG,Bulgaria,35.3411
@@ -3654,16 +3654,16 @@ date,country_code,country,price
 2004-06-30,NO,Norway,9.2409
 2004-06-30,NZ,New Zealand,18.3216
 2004-06-30,PE,Peru,6.4738
-2004-06-30,PT,Portugal,-1.8767
+2004-06-30,PT,Portugal,-1.8766
 2004-06-30,RS,Serbia,5.3465
 2004-06-30,RU,Russia,16.7951
 2004-06-30,SE,Sweden,9.2783
 2004-06-30,SG,Singapore,-2.7034
 2004-06-30,TH,Thailand,3.2697
-2004-06-30,US,United States,11.0496
-2004-06-30,XM,Euro area,4.0718
+2004-06-30,US,United States,11.0477
+2004-06-30,XM,Euro area,4.0725
 2004-06-30,ZA,South Africa,32.8191
-2004-09-30,AT,Austria,-1.662
+2004-09-30,AT,Austria,-1.7813
 2004-09-30,AU,Australia,0.009
 2004-09-30,BE,Belgium,6.5885
 2004-09-30,BG,Bulgaria,41.6471
@@ -3689,7 +3689,7 @@ date,country_code,country,price
 2004-09-30,IS,Iceland,5.3855
 2004-09-30,IT,Italy,4.1082
 2004-09-30,JP,Japan,-5.9768
-2004-09-30,KR,Korea,-4.3801
+2004-09-30,KR,Korea,-4.38
 2004-09-30,LT,Lithuania,20.5087
 2004-09-30,MK,North Macedonia,3.5817
 2004-09-30,MY,Malaysia,1.0073
@@ -3697,16 +3697,16 @@ date,country_code,country,price
 2004-09-30,NO,Norway,9.4443
 2004-09-30,NZ,New Zealand,12.9542
 2004-09-30,PE,Peru,7.7706
-2004-09-30,PT,Portugal,-1.9027
+2004-09-30,PT,Portugal,-1.9026
 2004-09-30,RS,Serbia,1.8396
 2004-09-30,RU,Russia,16.2193
 2004-09-30,SE,Sweden,9.2032
 2004-09-30,SG,Singapore,-1.8703
 2004-09-30,TH,Thailand,1.6986
-2004-09-30,US,United States,11.7337
-2004-09-30,XM,Euro area,4.4851
+2004-09-30,US,United States,11.7361
+2004-09-30,XM,Euro area,4.4796
 2004-09-30,ZA,South Africa,33.2655
-2004-12-31,AT,Austria,-2.6991
+2004-12-31,AT,Austria,-2.6659
 2004-12-31,AU,Australia,-2.2157
 2004-12-31,BE,Belgium,6.7592
 2004-12-31,BG,Bulgaria,50.4214
@@ -3732,7 +3732,7 @@ date,country_code,country,price
 2004-12-31,IS,Iceland,9.3179
 2004-12-31,IT,Italy,5.3134
 2004-12-31,JP,Japan,-6.2186
-2004-12-31,KR,Korea,-5.4944
+2004-12-31,KR,Korea,-5.4945
 2004-12-31,LT,Lithuania,26.7551
 2004-12-31,MK,North Macedonia,-0.1018
 2004-12-31,MY,Malaysia,0.3342
@@ -3740,21 +3740,21 @@ date,country_code,country,price
 2004-12-31,NO,Norway,9.2523
 2004-12-31,NZ,New Zealand,9.4544
 2004-12-31,PE,Peru,-1.4572
-2004-12-31,PT,Portugal,-1.8783
+2004-12-31,PT,Portugal,-1.8786
 2004-12-31,RS,Serbia,0.5572
 2004-12-31,RU,Russia,14.9736
 2004-12-31,SE,Sweden,9.5066
 2004-12-31,SG,Singapore,-0.7817
 2004-12-31,TH,Thailand,2.3857
-2004-12-31,US,United States,11.6256
-2004-12-31,XM,Euro area,4.7959
+2004-12-31,US,United States,11.6231
+2004-12-31,XM,Euro area,4.7869
 2004-12-31,ZA,South Africa,30.963
-2005-03-31,AT,Austria,5.5538
+2005-03-31,AT,Austria,5.5163
 2005-03-31,AU,Australia,-1.732
 2005-03-31,BE,Belgium,8.6115
 2005-03-31,BG,Bulgaria,49.1761
 2005-03-31,BR,Brazil,2.1893
-2005-03-31,CA,Canada,7.6597
+2005-03-31,CA,Canada,7.7149
 2005-03-31,CH,Switzerland,3.3256
 2005-03-31,CL,Chile,3.0416
 2005-03-31,CO,Colombia,4.5118
@@ -3775,7 +3775,7 @@ date,country_code,country,price
 2005-03-31,IS,Iceland,18.8817
 2005-03-31,IT,Italy,6.2843
 2005-03-31,JP,Japan,-5.4006
-2005-03-31,KR,Korea,-4.8933
+2005-03-31,KR,Korea,-4.8934
 2005-03-31,LT,Lithuania,36.0522
 2005-03-31,MK,North Macedonia,-1.9767
 2005-03-31,MY,Malaysia,-0.5621
@@ -3783,21 +3783,21 @@ date,country_code,country,price
 2005-03-31,NO,Norway,6.2008
 2005-03-31,NZ,New Zealand,9.5535
 2005-03-31,PE,Peru,-2.714
-2005-03-31,PT,Portugal,-1.9338
+2005-03-31,PT,Portugal,-1.9339
 2005-03-31,RS,Serbia,-2.0099
 2005-03-31,RU,Russia,11.2056
 2005-03-31,SE,Sweden,8.1477
 2005-03-31,SG,Singapore,1.723
 2005-03-31,TH,Thailand,5.0981
-2005-03-31,US,United States,12.7137
-2005-03-31,XM,Euro area,5.4602
+2005-03-31,US,United States,12.7174
+2005-03-31,XM,Euro area,5.4646
 2005-03-31,ZA,South Africa,29.8352
-2005-06-30,AT,Austria,1.6785
+2005-06-30,AT,Austria,1.6982
 2005-06-30,AU,Australia,-0.1945
 2005-06-30,BE,Belgium,10.382
 2005-06-30,BG,Bulgaria,37.5146
 2005-06-30,BR,Brazil,0.9761
-2005-06-30,CA,Canada,5.77
+2005-06-30,CA,Canada,5.8217
 2005-06-30,CH,Switzerland,3.2588
 2005-06-30,CL,Chile,4.3515
 2005-06-30,CO,Colombia,4.1824
@@ -3818,7 +3818,7 @@ date,country_code,country,price
 2005-06-30,IS,Iceland,24.9371
 2005-06-30,IT,Italy,6.1809
 2005-06-30,JP,Japan,-4.9237
-2005-06-30,KR,Korea,-3.3995
+2005-06-30,KR,Korea,-3.3996
 2005-06-30,LT,Lithuania,35.8761
 2005-06-30,MK,North Macedonia,2.3153
 2005-06-30,MY,Malaysia,0.3605
@@ -3826,21 +3826,21 @@ date,country_code,country,price
 2005-06-30,NO,Norway,6.8642
 2005-06-30,NZ,New Zealand,10.5851
 2005-06-30,PE,Peru,-13.9667
-2005-06-30,PT,Portugal,-0.1831
+2005-06-30,PT,Portugal,-0.1835
 2005-06-30,RS,Serbia,-0.1436
 2005-06-30,RU,Russia,7.7639
 2005-06-30,SE,Sweden,7.2519
 2005-06-30,SG,Singapore,2.3009
 2005-06-30,TH,Thailand,3.993
-2005-06-30,US,United States,12.816
-2005-06-30,XM,Euro area,5.098
+2005-06-30,US,United States,12.8119
+2005-06-30,XM,Euro area,5.0911
 2005-06-30,ZA,South Africa,26.7793
-2005-09-30,AT,Austria,1.4116
+2005-09-30,AT,Austria,1.4142
 2005-09-30,AU,Australia,-0.9081
 2005-09-30,BE,Belgium,9.6809
 2005-09-30,BG,Bulgaria,26.015
 2005-09-30,BR,Brazil,2.122
-2005-09-30,CA,Canada,9.4474
+2005-09-30,CA,Canada,9.3954
 2005-09-30,CH,Switzerland,2.8472
 2005-09-30,CL,Chile,3.4185
 2005-09-30,CO,Colombia,4.8618
@@ -3869,21 +3869,21 @@ date,country_code,country,price
 2005-09-30,NO,Norway,7.3244
 2005-09-30,NZ,New Zealand,11.223
 2005-09-30,PE,Peru,-10.6419
-2005-09-30,PT,Portugal,1.049
+2005-09-30,PT,Portugal,1.0492
 2005-09-30,RS,Serbia,5.3754
 2005-09-30,RU,Russia,8.0543
 2005-09-30,SE,Sweden,8.6488
 2005-09-30,SG,Singapore,2.7469
 2005-09-30,TH,Thailand,3.2704
-2005-09-30,US,United States,11.9156
-2005-09-30,XM,Euro area,4.6878
+2005-09-30,US,United States,11.9146
+2005-09-30,XM,Euro area,4.6856
 2005-09-30,ZA,South Africa,22.9731
-2005-12-31,AT,Austria,2.0805
+2005-12-31,AT,Austria,2.1491
 2005-12-31,AU,Australia,-0.428
 2005-12-31,BE,Belgium,10.0285
 2005-12-31,BG,Bulgaria,14.0706
 2005-12-31,BR,Brazil,2.4064
-2005-12-31,CA,Canada,7.21
+2005-12-31,CA,Canada,7.1591
 2005-12-31,CH,Switzerland,3.08
 2005-12-31,CL,Chile,3.4172
 2005-12-31,CO,Colombia,0.2867
@@ -3912,21 +3912,21 @@ date,country_code,country,price
 2005-12-31,NO,Norway,6.1385
 2005-12-31,NZ,New Zealand,11.7142
 2005-12-31,PE,Peru,4.154
-2005-12-31,PT,Portugal,1.0255
+2005-12-31,PT,Portugal,1.0256
 2005-12-31,RS,Serbia,1.606
 2005-12-31,RU,Russia,11.0725
 2005-12-31,SE,Sweden,10.029
 2005-12-31,SG,Singapore,2.8024
 2005-12-31,TH,Thailand,1.1809
-2005-12-31,US,United States,10.9492
-2005-12-31,XM,Euro area,4.5676
+2005-12-31,US,United States,10.9491
+2005-12-31,XM,Euro area,4.5759
 2005-12-31,ZA,South Africa,19.113
-2006-03-31,AT,Austria,3.3755
+2006-03-31,AT,Austria,3.4244
 2006-03-31,AU,Australia,0.6085
 2006-03-31,BE,Belgium,7.6888
 2006-03-31,BG,Bulgaria,6.5468
 2006-03-31,BR,Brazil,3.6604
-2006-03-31,CA,Canada,7.1511
+2006-03-31,CA,Canada,7.1417
 2006-03-31,CH,Switzerland,3.8306
 2006-03-31,CL,Chile,3.3975
 2006-03-31,CO,Colombia,4.2603
@@ -3958,21 +3958,21 @@ date,country_code,country,price
 2006-03-31,NO,Norway,7.9256
 2006-03-31,NZ,New Zealand,8.6497
 2006-03-31,PE,Peru,-4.7861
-2006-03-31,PT,Portugal,0.7033
+2006-03-31,PT,Portugal,0.7035
 2006-03-31,RS,Serbia,-5.748
 2006-03-31,RU,Russia,18.3972
 2006-03-31,SE,Sweden,13.107
 2006-03-31,SG,Singapore,3.3545
 2006-03-31,TH,Thailand,-0.7142
-2006-03-31,US,United States,8.6456
-2006-03-31,XM,Euro area,3.9135
+2006-03-31,US,United States,8.6462
+2006-03-31,XM,Euro area,3.9099
 2006-03-31,ZA,South Africa,14.8568
-2006-06-30,AT,Austria,2.7532
+2006-06-30,AT,Austria,2.7203
 2006-06-30,AU,Australia,2.5361
 2006-06-30,BE,Belgium,8.4288
 2006-06-30,BG,Bulgaria,3.4866
 2006-06-30,BR,Brazil,6.0132
-2006-06-30,CA,Canada,9.2447
+2006-06-30,CA,Canada,9.1396
 2006-06-30,CH,Switzerland,4.8641
 2006-06-30,CL,Chile,2.4758
 2006-06-30,CN,China,3.1256
@@ -4005,16 +4005,16 @@ date,country_code,country,price
 2006-06-30,NO,Norway,9.9918
 2006-06-30,NZ,New Zealand,5.9407
 2006-06-30,PE,Peru,2.3963
-2006-06-30,PT,Portugal,-0.739
+2006-06-30,PT,Portugal,-0.7389
 2006-06-30,RS,Serbia,-10.0998
 2006-06-30,RU,Russia,27.7724
 2006-06-30,SE,Sweden,11.7411
 2006-06-30,SG,Singapore,4.8342
 2006-06-30,TH,Thailand,-1.047
-2006-06-30,US,United States,3.4031
-2006-06-30,XM,Euro area,4.2731
+2006-06-30,US,United States,3.407
+2006-06-30,XM,Euro area,4.2737
 2006-06-30,ZA,South Africa,12.7987
-2006-09-30,AT,Austria,3.451
+2006-09-30,AT,Austria,3.5144
 2006-09-30,AU,Australia,4.6542
 2006-09-30,BE,Belgium,8.3968
 2006-09-30,BG,Bulgaria,6.8619
@@ -4052,16 +4052,16 @@ date,country_code,country,price
 2006-09-30,NO,Norway,12.7162
 2006-09-30,NZ,New Zealand,5.5379
 2006-09-30,PE,Peru,-5.658
-2006-09-30,PT,Portugal,-2.1844
+2006-09-30,PT,Portugal,-2.1849
 2006-09-30,RS,Serbia,-9.1541
 2006-09-30,RU,Russia,40.7799
 2006-09-30,SE,Sweden,10.3883
 2006-09-30,SG,Singapore,6.7822
 2006-09-30,TH,Thailand,-1.1883
-2006-09-30,US,United States,-0.1519
-2006-09-30,XM,Euro area,4.7055
+2006-09-30,US,United States,-0.1469
+2006-09-30,XM,Euro area,4.7047
 2006-09-30,ZA,South Africa,10.4094
-2006-12-31,AT,Austria,0.9286
+2006-12-31,AT,Austria,0.8946
 2006-12-31,AU,Australia,5.1577
 2006-12-31,BE,Belgium,7.0562
 2006-12-31,BG,Bulgaria,10.6167
@@ -4089,7 +4089,7 @@ date,country_code,country,price
 2006-12-31,IS,Iceland,0.62
 2006-12-31,IT,Italy,3.7273
 2006-12-31,JP,Japan,-2.4569
-2006-12-31,KR,Korea,7.0012
+2006-12-31,KR,Korea,7.0013
 2006-12-31,LT,Lithuania,24.532
 2006-12-31,MK,North Macedonia,-7.9919
 2006-12-31,MT,Malta,27.9136
@@ -4099,21 +4099,21 @@ date,country_code,country,price
 2006-12-31,NO,Norway,13.7717
 2006-12-31,NZ,New Zealand,6.1278
 2006-12-31,PE,Peru,-7.726
-2006-12-31,PT,Portugal,-1.5973
+2006-12-31,PT,Portugal,-1.5971
 2006-12-31,RS,Serbia,-6.2585
 2006-12-31,RU,Russia,51.4479
 2006-12-31,SE,Sweden,8.2739
 2006-12-31,SG,Singapore,9.5277
 2006-12-31,TH,Thailand,-0.792
-2006-12-31,US,United States,-1.5315
-2006-12-31,XM,Euro area,4.4507
+2006-12-31,US,United States,-1.53
+2006-12-31,XM,Euro area,4.442
 2006-12-31,ZA,South Africa,8.5868
-2007-03-31,AT,Austria,2.3824
+2007-03-31,AT,Austria,2.3064
 2007-03-31,AU,Australia,5.7511
 2007-03-31,BE,Belgium,7.1396
 2007-03-31,BG,Bulgaria,16.4814
 2007-03-31,BR,Brazil,11.8668
-2007-03-31,CA,Canada,9.4532
+2007-03-31,CA,Canada,9.4431
 2007-03-31,CH,Switzerland,8.3678
 2007-03-31,CL,Chile,4.9337
 2007-03-31,CN,China,2.4798
@@ -4147,17 +4147,17 @@ date,country_code,country,price
 2007-03-31,NO,Norway,15.26
 2007-03-31,NZ,New Zealand,8.5713
 2007-03-31,PE,Peru,-10.4941
-2007-03-31,PT,Portugal,-1.0377
+2007-03-31,PT,Portugal,-1.0375
 2007-03-31,RS,Serbia,-4.7787
 2007-03-31,RU,Russia,51.3045
 2007-03-31,SE,Sweden,8.1824
 2007-03-31,SG,Singapore,13.8939
 2007-03-31,SK,Slovakia,18.5351
 2007-03-31,TH,Thailand,-2.1217
-2007-03-31,US,United States,-4.7289
-2007-03-31,XM,Euro area,4.3881
+2007-03-31,US,United States,-4.7232
+2007-03-31,XM,Euro area,4.3824
 2007-03-31,ZA,South Africa,8.1734
-2007-06-30,AT,Austria,3.3213
+2007-06-30,AT,Austria,3.3275
 2007-06-30,AU,Australia,6.9789
 2007-06-30,BE,Belgium,6.7494
 2007-06-30,BG,Bulgaria,21.4344
@@ -4185,7 +4185,7 @@ date,country_code,country,price
 2007-06-30,IS,Iceland,2.8925
 2007-06-30,IT,Italy,3.3883
 2007-06-30,JP,Japan,-1.0737
-2007-06-30,KR,Korea,7.28
+2007-06-30,KR,Korea,7.2801
 2007-06-30,LT,Lithuania,26.4602
 2007-06-30,LV,Latvia,28.6427
 2007-06-30,MK,North Macedonia,1.8238
@@ -4203,10 +4203,10 @@ date,country_code,country,price
 2007-06-30,SG,Singapore,19.5954
 2007-06-30,SK,Slovakia,22.3942
 2007-06-30,TH,Thailand,-1.6094
-2007-06-30,US,United States,-7.1068
-2007-06-30,XM,Euro area,3.1746
+2007-06-30,US,United States,-7.1032
+2007-06-30,XM,Euro area,3.1795
 2007-06-30,ZA,South Africa,8.2446
-2007-09-30,AT,Austria,3.2897
+2007-09-30,AT,Austria,3.2405
 2007-09-30,AU,Australia,9.0316
 2007-09-30,BE,Belgium,5.6574
 2007-09-30,BG,Bulgaria,17.562
@@ -4234,7 +4234,7 @@ date,country_code,country,price
 2007-09-30,IS,Iceland,8.474
 2007-09-30,IT,Italy,2.8972
 2007-09-30,JP,Japan,-0.5955
-2007-09-30,KR,Korea,6.7754
+2007-09-30,KR,Korea,6.7755
 2007-09-30,LT,Lithuania,21.1579
 2007-09-30,LV,Latvia,23.6984
 2007-09-30,MK,North Macedonia,-3.1586
@@ -4252,15 +4252,15 @@ date,country_code,country,price
 2007-09-30,SG,Singapore,23.7847
 2007-09-30,SK,Slovakia,29.4072
 2007-09-30,TH,Thailand,1.0273
-2007-09-30,US,United States,-8.7288
-2007-09-30,XM,Euro area,2.4724
+2007-09-30,US,United States,-8.7263
+2007-09-30,XM,Euro area,2.4804
 2007-09-30,ZA,South Africa,7.7466
-2007-12-31,AT,Austria,0.8655
+2007-12-31,AT,Austria,0.8078
 2007-12-31,AU,Australia,10.0251
 2007-12-31,BE,Belgium,3.8763
 2007-12-31,BG,Bulgaria,19.727
 2007-12-31,BR,Brazil,14.5552
-2007-12-31,CA,Canada,7.5726
+2007-12-31,CA,Canada,7.6539
 2007-12-31,CH,Switzerland,1.8026
 2007-12-31,CL,Chile,1.8
 2007-12-31,CN,China,2.0936
@@ -4294,22 +4294,22 @@ date,country_code,country,price
 2007-12-31,NO,Norway,6.0949
 2007-12-31,NZ,New Zealand,4.3321
 2007-12-31,PE,Peru,12.7146
-2007-12-31,PT,Portugal,-3.5504
+2007-12-31,PT,Portugal,-3.5502
 2007-12-31,RS,Serbia,-3.9893
 2007-12-31,RU,Russia,15.7364
 2007-12-31,SE,Sweden,7.4992
 2007-12-31,SG,Singapore,25.7982
 2007-12-31,SK,Slovakia,30.8109
 2007-12-31,TH,Thailand,-1.4797
-2007-12-31,US,United States,-13.0021
-2007-12-31,XM,Euro area,0.9987
+2007-12-31,US,United States,-13.0014
+2007-12-31,XM,Euro area,1.001
 2007-12-31,ZA,South Africa,3.5951
-2008-03-31,AT,Austria,-1.4606
+2008-03-31,AT,Austria,-1.4028
 2008-03-31,AU,Australia,8.1912
 2008-03-31,BE,Belgium,1.4224
 2008-03-31,BG,Bulgaria,16.0664
 2008-03-31,BR,Brazil,15.4473
-2008-03-31,CA,Canada,6.5867
+2008-03-31,CA,Canada,6.5006
 2008-03-31,CH,Switzerland,0.9807
 2008-03-31,CL,Chile,2.1761
 2008-03-31,CN,China,1.2105
@@ -4345,7 +4345,7 @@ date,country_code,country,price
 2008-03-31,NO,Norway,0.0911
 2008-03-31,NZ,New Zealand,-0.6106
 2008-03-31,PE,Peru,11.9445
-2008-03-31,PT,Portugal,-7.8924
+2008-03-31,PT,Portugal,-7.8927
 2008-03-31,RS,Serbia,0.9496
 2008-03-31,RU,Russia,10.5272
 2008-03-31,SE,Sweden,3.7357
@@ -4353,10 +4353,10 @@ date,country_code,country,price
 2008-03-31,SI,Slovenia,4.9103
 2008-03-31,SK,Slovakia,28.2113
 2008-03-31,TH,Thailand,-9.9493
-2008-03-31,US,United States,-15.6747
-2008-03-31,XM,Euro area,0.3368
+2008-03-31,US,United States,-15.6704
+2008-03-31,XM,Euro area,0.3394
 2008-03-31,ZA,South Africa,-3.3389
-2008-06-30,AT,Austria,-4.4263
+2008-06-30,AT,Austria,-4.4216
 2008-06-30,AU,Australia,2.424
 2008-06-30,BE,Belgium,-0.4402
 2008-06-30,BG,Bulgaria,15.0298
@@ -4397,7 +4397,7 @@ date,country_code,country,price
 2008-06-30,NO,Norway,-1.9633
 2008-06-30,NZ,New Zealand,-8.1464
 2008-06-30,PE,Peru,19.5667
-2008-06-30,PT,Portugal,-7.1851
+2008-06-30,PT,Portugal,-7.1848
 2008-06-30,RS,Serbia,4.903
 2008-06-30,RU,Russia,10.1514
 2008-06-30,SE,Sweden,-0.8664
@@ -4405,10 +4405,10 @@ date,country_code,country,price
 2008-06-30,SI,Slovenia,2.5004
 2008-06-30,SK,Slovakia,23.0563
 2008-06-30,TH,Thailand,-9.4344
-2008-06-30,US,United States,-17.2422
-2008-06-30,XM,Euro area,-0.6411
+2008-06-30,US,United States,-17.2378
+2008-06-30,XM,Euro area,-0.6415
 2008-06-30,ZA,South Africa,-9.9725
-2008-09-30,AT,Austria,-3.3661
+2008-09-30,AT,Austria,-3.3415
 2008-09-30,AU,Australia,-3.754
 2008-09-30,BE,Belgium,-1.2029
 2008-09-30,BG,Bulgaria,12.9115
@@ -4436,7 +4436,7 @@ date,country_code,country,price
 2008-09-30,IS,Iceland,-11.3662
 2008-09-30,IT,Italy,-1.3052
 2008-09-30,JP,Japan,-3.8342
-2008-09-30,KR,Korea,-0.4667
+2008-09-30,KR,Korea,-0.4666
 2008-09-30,LT,Lithuania,-4.2101
 2008-09-30,LU,Luxembourg,-2.6823
 2008-09-30,LV,Latvia,-16.8813
@@ -4457,17 +4457,17 @@ date,country_code,country,price
 2008-09-30,SI,Slovenia,1.5126
 2008-09-30,SK,Slovakia,7.5687
 2008-09-30,TH,Thailand,-6.5726
-2008-09-30,US,United States,-19.3848
-2008-09-30,XM,Euro area,-2.3847
+2008-09-30,US,United States,-19.3834
+2008-09-30,XM,Euro area,-2.3942
 2008-09-30,ZA,South Africa,-15.0462
-2008-12-31,4T,Emerging market economies (aggregate),-0.4183
-2008-12-31,5R,Advanced economies,-9.5455
-2008-12-31,AT,Austria,1.026
+2008-12-31,4T,Emerging market economies (aggregate),-0.4304
+2008-12-31,5R,Advanced economies,-9.5429
+2008-12-31,AT,Austria,0.992
 2008-12-31,AU,Australia,-7.3794
 2008-12-31,BE,Belgium,-0.2664
 2008-12-31,BG,Bulgaria,2.2597
 2008-12-31,BR,Brazil,16.4668
-2008-12-31,CA,Canada,-5.509
+2008-12-31,CA,Canada,-5.5804
 2008-12-31,CH,Switzerland,3.5488
 2008-12-31,CL,Chile,1.7166
 2008-12-31,CN,China,-0.77
@@ -4490,7 +4490,7 @@ date,country_code,country,price
 2008-12-31,IS,Iceland,-16.8988
 2008-12-31,IT,Italy,-2.2088
 2008-12-31,JP,Japan,-3.5525
-2008-12-31,KR,Korea,-0.5344
+2008-12-31,KR,Korea,-0.5343
 2008-12-31,LT,Lithuania,-10.8209
 2008-12-31,LU,Luxembourg,0.1427
 2008-12-31,LV,Latvia,-26.6053
@@ -4511,13 +4511,13 @@ date,country_code,country,price
 2008-12-31,SI,Slovenia,-3.4028
 2008-12-31,SK,Slovakia,-3.6489
 2008-12-31,TH,Thailand,1.0249
-2008-12-31,US,United States,-18.1294
-2008-12-31,XM,Euro area,-2.6004
-2008-12-31,XW,World,-5.878
+2008-12-31,US,United States,-18.1174
+2008-12-31,XM,Euro area,-2.5993
+2008-12-31,XW,World,-5.8905
 2008-12-31,ZA,South Africa,-14.3661
-2009-03-31,4T,Emerging market economies (aggregate),-0.6141
-2009-03-31,5R,Advanced economies,-9.4897
-2009-03-31,AT,Austria,3.3457
+2009-03-31,4T,Emerging market economies (aggregate),-0.5701
+2009-03-31,5R,Advanced economies,-9.4879
+2009-03-31,AT,Austria,3.3373
 2009-03-31,AU,Australia,-6.8677
 2009-03-31,BE,Belgium,-0.637
 2009-03-31,BG,Bulgaria,-12.5372
@@ -4568,18 +4568,18 @@ date,country_code,country,price
 2009-03-31,SI,Slovenia,-9.3419
 2009-03-31,SK,Slovakia,-13.881
 2009-03-31,TH,Thailand,9.9408
-2009-03-31,US,United States,-15.9195
-2009-03-31,XM,Euro area,-3.6841
-2009-03-31,XW,World,-5.9082
+2009-03-31,US,United States,-15.9175
+2009-03-31,XM,Euro area,-3.6806
+2009-03-31,XW,World,-5.8983
 2009-03-31,ZA,South Africa,-11.974
-2009-06-30,4T,Emerging market economies (aggregate),-0.4242
-2009-06-30,5R,Advanced economies,-7.521
-2009-06-30,AT,Austria,5.4592
+2009-06-30,4T,Emerging market economies (aggregate),-0.3199
+2009-06-30,5R,Advanced economies,-7.5165
+2009-06-30,AT,Austria,5.4966
 2009-06-30,AU,Australia,-1.2062
 2009-06-30,BE,Belgium,-0.9665
 2009-06-30,BG,Bulgaria,-24.0698
 2009-06-30,BR,Brazil,18.6854
-2009-06-30,CA,Canada,-6.785
+2009-06-30,CA,Canada,-6.7111
 2009-06-30,CH,Switzerland,2.8808
 2009-06-30,CL,Chile,-1.7073
 2009-06-30,CN,China,1.0781
@@ -4617,7 +4617,7 @@ date,country_code,country,price
 2009-06-30,NZ,New Zealand,-4.8893
 2009-06-30,PE,Peru,7.7996
 2009-06-30,PH,Philippines,-4.7484
-2009-06-30,PT,Portugal,-1.597
+2009-06-30,PT,Portugal,-1.5972
 2009-06-30,RS,Serbia,14.713
 2009-06-30,RU,Russia,-10.6611
 2009-06-30,SE,Sweden,0.2254
@@ -4625,13 +4625,13 @@ date,country_code,country,price
 2009-06-30,SI,Slovenia,-10.0421
 2009-06-30,SK,Slovakia,-19.6445
 2009-06-30,TH,Thailand,9.2851
-2009-06-30,US,United States,-10.9556
-2009-06-30,XM,Euro area,-4.6135
-2009-06-30,XW,World,-4.6207
+2009-06-30,US,United States,-10.951
+2009-06-30,XM,Euro area,-4.612
+2009-06-30,XW,World,-4.5827
 2009-06-30,ZA,South Africa,-9.7871
-2009-09-30,4T,Emerging market economies (aggregate),0.4008
-2009-09-30,5R,Advanced economies,-4.0652
-2009-09-30,AT,Austria,3.1952
+2009-09-30,4T,Emerging market economies (aggregate),0.5295
+2009-09-30,5R,Advanced economies,-4.0605
+2009-09-30,AT,Austria,3.1415
 2009-09-30,AU,Australia,5.5231
 2009-09-30,BE,Belgium,0.7226
 2009-09-30,BG,Bulgaria,-27.5262
@@ -4674,7 +4674,7 @@ date,country_code,country,price
 2009-09-30,NZ,New Zealand,-0.6086
 2009-09-30,PE,Peru,6.07
 2009-09-30,PH,Philippines,-4.1524
-2009-09-30,PT,Portugal,1.6696
+2009-09-30,PT,Portugal,1.6699
 2009-09-30,RS,Serbia,7.5833
 2009-09-30,RU,Russia,-15.7354
 2009-09-30,SE,Sweden,4.5812
@@ -4682,18 +4682,18 @@ date,country_code,country,price
 2009-09-30,SI,Slovenia,-12.386
 2009-09-30,SK,Slovakia,-11.1568
 2009-09-30,TH,Thailand,5.4101
-2009-09-30,US,United States,-6.1126
-2009-09-30,XM,Euro area,-3.9302
-2009-09-30,XW,World,-2.2102
+2009-09-30,US,United States,-6.1091
+2009-09-30,XM,Euro area,-3.9193
+2009-09-30,XW,World,-2.1586
 2009-09-30,ZA,South Africa,-6.2392
-2009-12-31,4T,Emerging market economies (aggregate),1.7088
-2009-12-31,5R,Advanced economies,-1.7115
-2009-12-31,AT,Austria,1.5531
+2009-12-31,4T,Emerging market economies (aggregate),1.8302
+2009-12-31,5R,Advanced economies,-1.7085
+2009-12-31,AT,Austria,1.6315
 2009-12-31,AU,Australia,11.9305
 2009-12-31,BE,Belgium,-0.5523
 2009-12-31,BG,Bulgaria,-25.7649
 2009-12-31,BR,Brazil,20.879
-2009-12-31,CA,Canada,4.5943
+2009-12-31,CA,Canada,4.6722
 2009-12-31,CH,Switzerland,0.505
 2009-12-31,CL,Chile,9.4105
 2009-12-31,CN,China,3.8818
@@ -4717,7 +4717,7 @@ date,country_code,country,price
 2009-12-31,IS,Iceland,-15.6095
 2009-12-31,IT,Italy,-0.9079
 2009-12-31,JP,Japan,-0.8349
-2009-12-31,KR,Korea,-1.7069
+2009-12-31,KR,Korea,-1.707
 2009-12-31,LT,Lithuania,-32.0403
 2009-12-31,LU,Luxembourg,-1.485
 2009-12-31,LV,Latvia,-28.5681
@@ -4739,13 +4739,13 @@ date,country_code,country,price
 2009-12-31,SI,Slovenia,-9.1455
 2009-12-31,SK,Slovakia,-11.5856
 2009-12-31,TH,Thailand,0.6033
-2009-12-31,US,United States,-3.4585
-2009-12-31,XM,Euro area,-3.2405
-2009-12-31,XW,World,-0.2671
+2009-12-31,US,United States,-3.4533
+2009-12-31,XM,Euro area,-3.2451
+2009-12-31,XW,World,-0.2178
 2009-12-31,ZA,South Africa,-4.4386
-2010-03-31,4T,Emerging market economies (aggregate),4.1776
-2010-03-31,5R,Advanced economies,-0.1322
-2010-03-31,AT,Austria,4.1508
+2010-03-31,4T,Emerging market economies (aggregate),4.2787
+2010-03-31,5R,Advanced economies,-0.1311
+2010-03-31,AT,Austria,4.1792
 2010-03-31,AU,Australia,14.7527
 2010-03-31,BE,Belgium,-0.1593
 2010-03-31,BG,Bulgaria,-18.7583
@@ -4775,7 +4775,7 @@ date,country_code,country,price
 2010-03-31,IS,Iceland,-11.1019
 2010-03-31,IT,Italy,-3.3482
 2010-03-31,JP,Japan,1.2843
-2010-03-31,KR,Korea,-0.2997
+2010-03-31,KR,Korea,-0.2996
 2010-03-31,LT,Lithuania,-15.3054
 2010-03-31,LU,Luxembourg,3.9158
 2010-03-31,LV,Latvia,-17.6294
@@ -4789,7 +4789,7 @@ date,country_code,country,price
 2010-03-31,NZ,New Zealand,4.071
 2010-03-31,PE,Peru,20.0185
 2010-03-31,PH,Philippines,-5.486
-2010-03-31,PT,Portugal,1.6581
+2010-03-31,PT,Portugal,1.6583
 2010-03-31,RO,Romania,-10.8735
 2010-03-31,RS,Serbia,2.7903
 2010-03-31,RU,Russia,-4.7919
@@ -4798,18 +4798,18 @@ date,country_code,country,price
 2010-03-31,SI,Slovenia,-2.9789
 2010-03-31,SK,Slovakia,-5.868
 2010-03-31,TH,Thailand,-1.0335
-2010-03-31,US,United States,-2.3629
-2010-03-31,XM,Euro area,-2.6564
-2010-03-31,XW,World,1.7041
+2010-03-31,US,United States,-2.3586
+2010-03-31,XM,Euro area,-2.6574
+2010-03-31,XW,World,1.7429
 2010-03-31,ZA,South Africa,-1.9061
-2010-06-30,4T,Emerging market economies (aggregate),5.4577
-2010-06-30,5R,Advanced economies,0.9423
-2010-06-30,AT,Austria,3.5551
+2010-06-30,4T,Emerging market economies (aggregate),5.5261
+2010-06-30,5R,Advanced economies,0.9392
+2010-06-30,AT,Austria,3.4723
 2010-06-30,AU,Australia,12.2076
 2010-06-30,BE,Belgium,0.3794
 2010-06-30,BG,Bulgaria,-11.3749
 2010-06-30,BR,Brazil,19.6624
-2010-06-30,CA,Canada,10.1977
+2010-06-30,CA,Canada,10.1886
 2010-06-30,CH,Switzerland,2.4351
 2010-06-30,CL,Chile,10.3702
 2010-06-30,CN,China,7.6983
@@ -4848,7 +4848,7 @@ date,country_code,country,price
 2010-06-30,NZ,New Zealand,1.477
 2010-06-30,PE,Peru,24.7742
 2010-06-30,PH,Philippines,-4.5647
-2010-06-30,PT,Portugal,0.4261
+2010-06-30,PT,Portugal,0.426
 2010-06-30,RO,Romania,-7.931
 2010-06-30,RS,Serbia,3.7926
 2010-06-30,RU,Russia,1.5239
@@ -4857,13 +4857,13 @@ date,country_code,country,price
 2010-06-30,SI,Slovenia,-1.0376
 2010-06-30,SK,Slovakia,-2.4819
 2010-06-30,TH,Thailand,-0.4801
-2010-06-30,US,United States,-1.472
-2010-06-30,XM,Euro area,-0.9615
-2010-06-30,XW,World,2.8843
+2010-06-30,US,United States,-1.4699
+2010-06-30,XM,Euro area,-0.9729
+2010-06-30,XW,World,2.9071
 2010-06-30,ZA,South Africa,0.482
-2010-09-30,4T,Emerging market economies (aggregate),5.2069
-2010-09-30,5R,Advanced economies,-0.1966
-2010-09-30,AT,Austria,4.3678
+2010-09-30,4T,Emerging market economies (aggregate),5.2634
+2010-09-30,5R,Advanced economies,-0.197
+2010-09-30,AT,Austria,4.4288
 2010-09-30,AU,Australia,6.5652
 2010-09-30,BE,Belgium,-0.1785
 2010-09-30,BG,Bulgaria,-9.018
@@ -4907,7 +4907,7 @@ date,country_code,country,price
 2010-09-30,NZ,New Zealand,-1.1715
 2010-09-30,PE,Peru,16.8339
 2010-09-30,PH,Philippines,-1.8881
-2010-09-30,PT,Portugal,-1.3391
+2010-09-30,PT,Portugal,-1.3392
 2010-09-30,RO,Romania,-14.295
 2010-09-30,RS,Serbia,5.2898
 2010-09-30,RU,Russia,4.3801
@@ -4916,18 +4916,18 @@ date,country_code,country,price
 2010-09-30,SI,Slovenia,-0.6947
 2010-09-30,SK,Slovakia,-7.3908
 2010-09-30,TH,Thailand,0.4874
-2010-09-30,US,United States,-3.2788
-2010-09-30,XM,Euro area,-0.4356
-2010-09-30,XW,World,2.1283
+2010-09-30,US,United States,-3.277
+2010-09-30,XM,Euro area,-0.4392
+2010-09-30,XW,World,2.1469
 2010-09-30,ZA,South Africa,1.1208
-2010-12-31,4T,Emerging market economies (aggregate),3.5315
-2010-12-31,5R,Advanced economies,-1.3428
-2010-12-31,AT,Austria,5.122
+2010-12-31,4T,Emerging market economies (aggregate),3.5812
+2010-12-31,5R,Advanced economies,-1.3463
+2010-12-31,AT,Austria,5.1518
 2010-12-31,AU,Australia,1.7182
 2010-12-31,BE,Belgium,0.2077
 2010-12-31,BG,Bulgaria,-8.9091
 2010-12-31,BR,Brazil,16.8762
-2010-12-31,CA,Canada,1.1385
+2010-12-31,CA,Canada,1.136
 2010-12-31,CH,Switzerland,6.0278
 2010-12-31,CL,Chile,0.8615
 2010-12-31,CN,China,2.7193
@@ -4952,7 +4952,7 @@ date,country_code,country,price
 2010-12-31,IS,Iceland,-4.055
 2010-12-31,IT,Italy,-1.4924
 2010-12-31,JP,Japan,2.2885
-2010-12-31,KR,Korea,-1.5226
+2010-12-31,KR,Korea,-1.5225
 2010-12-31,LT,Lithuania,-1.6767
 2010-12-31,LU,Luxembourg,2.809
 2010-12-31,LV,Latvia,-4.1236
@@ -4966,7 +4966,7 @@ date,country_code,country,price
 2010-12-31,NZ,New Zealand,-5.4192
 2010-12-31,PE,Peru,17.5034
 2010-12-31,PH,Philippines,-0.406
-2010-12-31,PT,Portugal,-3.1664
+2010-12-31,PT,Portugal,-3.1666
 2010-12-31,RO,Romania,-18.6022
 2010-12-31,RS,Serbia,2.0569
 2010-12-31,RU,Russia,4.9118
@@ -4975,13 +4975,13 @@ date,country_code,country,price
 2010-12-31,SI,Slovenia,-1.7934
 2010-12-31,SK,Slovakia,-2.5121
 2010-12-31,TH,Thailand,-1.1516
-2010-12-31,US,United States,-4.7495
-2010-12-31,XM,Euro area,-0.5146
-2010-12-31,XW,World,0.7643
+2010-12-31,US,United States,-4.7593
+2010-12-31,XM,Euro area,-0.5138
+2010-12-31,XW,World,0.7789
 2010-12-31,ZA,South Africa,0.9747
-2011-03-31,4T,Emerging market economies (aggregate),-0.0135
-2011-03-31,5R,Advanced economies,-2.4311
-2011-03-31,AT,Austria,1.7198
+2011-03-31,4T,Emerging market economies (aggregate),0.0227
+2011-03-31,5R,Advanced economies,-2.4308
+2011-03-31,AT,Austria,1.6484
 2011-03-31,AU,Australia,-2.8132
 2011-03-31,BE,Belgium,0.3838
 2011-03-31,BG,Bulgaria,-9.376
@@ -5026,7 +5026,7 @@ date,country_code,country,price
 2011-03-31,PE,Peru,15.7832
 2011-03-31,PH,Philippines,-0.3848
 2011-03-31,PL,Poland,-2.6873
-2011-03-31,PT,Portugal,-5.6459
+2011-03-31,PT,Portugal,-5.6456
 2011-03-31,RO,Romania,-17.5184
 2011-03-31,RS,Serbia,-4.6021
 2011-03-31,RU,Russia,-28.5699
@@ -5035,19 +5035,19 @@ date,country_code,country,price
 2011-03-31,SI,Slovenia,2.3544
 2011-03-31,SK,Slovakia,-4.2504
 2011-03-31,TH,Thailand,1.6238
-2011-03-31,TR,Türkiye,3.7367
-2011-03-31,US,United States,-6.323
-2011-03-31,XM,Euro area,-0.8701
-2011-03-31,XW,World,-1.3854
+2011-03-31,TR,Türkiye,3.7298
+2011-03-31,US,United States,-6.3228
+2011-03-31,XM,Euro area,-0.8692
+2011-03-31,XW,World,-1.3719
 2011-03-31,ZA,South Africa,-0.4698
-2011-06-30,4T,Emerging market economies (aggregate),-0.4006
-2011-06-30,5R,Advanced economies,-3.1998
-2011-06-30,AT,Austria,-1.9042
+2011-06-30,4T,Emerging market economies (aggregate),-0.3628
+2011-06-30,5R,Advanced economies,-3.1969
+2011-06-30,AT,Austria,-1.8664
 2011-06-30,AU,Australia,-5.6245
 2011-06-30,BE,Belgium,0.1806
 2011-06-30,BG,Bulgaria,-10.1
 2011-06-30,BR,Brazil,12.7183
-2011-06-30,CA,Canada,1.2152
+2011-06-30,CA,Canada,1.212
 2011-06-30,CH,Switzerland,7.4974
 2011-06-30,CL,Chile,7.6688
 2011-06-30,CN,China,-1.5476
@@ -5096,19 +5096,19 @@ date,country_code,country,price
 2011-06-30,SI,Slovenia,1.4647
 2011-06-30,SK,Slovakia,-5.6326
 2011-06-30,TH,Thailand,1.998
-2011-06-30,TR,Türkiye,3.0617
-2011-06-30,US,United States,-7.2849
-2011-06-30,XM,Euro area,-1.6648
-2011-06-30,XW,World,-1.9651
+2011-06-30,TR,Türkiye,3.0797
+2011-06-30,US,United States,-7.2814
+2011-06-30,XM,Euro area,-1.6589
+2011-06-30,XW,World,-1.9494
 2011-06-30,ZA,South Africa,-1.5478
-2011-09-30,4T,Emerging market economies (aggregate),-1.1393
-2011-09-30,5R,Advanced economies,-2.5633
-2011-09-30,AT,Austria,2.3888
+2011-09-30,4T,Emerging market economies (aggregate),-1.1103
+2011-09-30,5R,Advanced economies,-2.5639
+2011-09-30,AT,Austria,2.4235
 2011-09-30,AU,Australia,-6.0014
 2011-09-30,BE,Belgium,-0.1298
 2011-09-30,BG,Bulgaria,-9.1407
 2011-09-30,BR,Brazil,10.441
-2011-09-30,CA,Canada,4.0555
+2011-09-30,CA,Canada,4.1251
 2011-09-30,CH,Switzerland,7.858
 2011-09-30,CL,Chile,9.4648
 2011-09-30,CN,China,-2.2226
@@ -5133,7 +5133,7 @@ date,country_code,country,price
 2011-09-30,IS,Iceland,1.3361
 2011-09-30,IT,Italy,-1.4954
 2011-09-30,JP,Japan,0.0913
-2011-09-30,KR,Korea,1.9981
+2011-09-30,KR,Korea,1.9982
 2011-09-30,LT,Lithuania,2.2147
 2011-09-30,LU,Luxembourg,0.1558
 2011-09-30,LV,Latvia,8.118
@@ -5148,7 +5148,7 @@ date,country_code,country,price
 2011-09-30,PE,Peru,18.9329
 2011-09-30,PH,Philippines,0.71
 2011-09-30,PL,Poland,-4.4175
-2011-09-30,PT,Portugal,-8.3687
+2011-09-30,PT,Portugal,-8.3685
 2011-09-30,RO,Romania,-16.3124
 2011-09-30,RS,Serbia,-16.2339
 2011-09-30,RU,Russia,-26.6529
@@ -5157,19 +5157,19 @@ date,country_code,country,price
 2011-09-30,SI,Slovenia,0.8194
 2011-09-30,SK,Slovakia,-4.5966
 2011-09-30,TH,Thailand,-1.6685
-2011-09-30,TR,Türkiye,2.1895
-2011-09-30,US,United States,-5.2033
-2011-09-30,XM,Euro area,-1.927
-2011-09-30,XW,World,-1.9248
+2011-09-30,TR,Türkiye,2.1584
+2011-09-30,US,United States,-5.2093
+2011-09-30,XM,Euro area,-1.9287
+2011-09-30,XW,World,-1.9137
 2011-09-30,ZA,South Africa,-1.2275
-2011-12-31,4T,Emerging market economies (aggregate),-0.1913
-2011-12-31,5R,Advanced economies,-2.7537
-2011-12-31,AT,Austria,1.5491
+2011-12-31,4T,Emerging market economies (aggregate),-0.1594
+2011-12-31,5R,Advanced economies,-2.7526
+2011-12-31,AT,Austria,1.4631
 2011-12-31,AU,Australia,-6.9321
 2011-12-31,BE,Belgium,-0.2355
 2011-12-31,BG,Bulgaria,-8.6824
 2011-12-31,BR,Brazil,8.9718
-2011-12-31,CA,Canada,5.0218
+2011-12-31,CA,Canada,4.9462
 2011-12-31,CH,Switzerland,7.1524
 2011-12-31,CL,Chile,10.4966
 2011-12-31,CN,China,-2.2669
@@ -5209,7 +5209,7 @@ date,country_code,country,price
 2011-12-31,PE,Peru,15.2526
 2011-12-31,PH,Philippines,2.0436
 2011-12-31,PL,Poland,-5.1493
-2011-12-31,PT,Portugal,-10.9792
+2011-12-31,PT,Portugal,-10.9791
 2011-12-31,RO,Romania,-16.7233
 2011-12-31,RS,Serbia,-16.3521
 2011-12-31,RU,Russia,-24.6231
@@ -5218,14 +5218,14 @@ date,country_code,country,price
 2011-12-31,SI,Slovenia,-1.0704
 2011-12-31,SK,Slovakia,-6.5162
 2011-12-31,TH,Thailand,-0.1357
-2011-12-31,TR,Türkiye,-0.0615
-2011-12-31,US,United States,-4.0617
-2011-12-31,XM,Euro area,-3.4573
-2011-12-31,XW,World,-1.6064
+2011-12-31,TR,Türkiye,-0.055
+2011-12-31,US,United States,-4.0523
+2011-12-31,XM,Euro area,-3.4572
+2011-12-31,XW,World,-1.5939
 2011-12-31,ZA,South Africa,-2.0198
-2012-03-31,4T,Emerging market economies (aggregate),2.6088
-2012-03-31,5R,Advanced economies,-1.633
-2012-03-31,AT,Austria,7.9495
+2012-03-31,4T,Emerging market economies (aggregate),2.6398
+2012-03-31,5R,Advanced economies,-1.6343
+2012-03-31,AT,Austria,7.924
 2012-03-31,AU,Australia,-4.1448
 2012-03-31,BE,Belgium,-0.3371
 2012-03-31,BG,Bulgaria,-5.645
@@ -5270,7 +5270,7 @@ date,country_code,country,price
 2012-03-31,PE,Peru,14.6154
 2012-03-31,PH,Philippines,6.9321
 2012-03-31,PL,Poland,-6.147
-2012-03-31,PT,Portugal,-11.2004
+2012-03-31,PT,Portugal,-11.2007
 2012-03-31,RO,Romania,-9.6118
 2012-03-31,RS,Serbia,-10.7835
 2012-03-31,RU,Russia,8.273
@@ -5279,19 +5279,19 @@ date,country_code,country,price
 2012-03-31,SI,Slovenia,-9.3411
 2012-03-31,SK,Slovakia,-6.6903
 2012-03-31,TH,Thailand,0.5459
-2012-03-31,TR,Türkiye,-0.4902
-2012-03-31,US,United States,-1.0527
-2012-03-31,XM,Euro area,-3.5884
-2012-03-31,XW,World,0.2626
+2012-03-31,TR,Türkiye,-0.4749
+2012-03-31,US,United States,-1.0538
+2012-03-31,XM,Euro area,-3.5912
+2012-03-31,XW,World,0.272
 2012-03-31,ZA,South Africa,-1.3415
-2012-06-30,4T,Emerging market economies (aggregate),2.1046
-2012-06-30,5R,Advanced economies,-0.6703
-2012-06-30,AT,Austria,13.024
+2012-06-30,4T,Emerging market economies (aggregate),2.1231
+2012-06-30,5R,Advanced economies,-0.669
+2012-06-30,AT,Austria,13.0377
 2012-06-30,AU,Australia,-2.7119
 2012-06-30,BE,Belgium,-0.0286
 2012-06-30,BG,Bulgaria,-3.1628
 2012-06-30,BR,Brazil,6.9327
-2012-06-30,CA,Canada,4.2526
+2012-06-30,CA,Canada,4.2486
 2012-06-30,CH,Switzerland,7.0431
 2012-06-30,CL,Chile,6.3141
 2012-06-30,CN,China,-3.8463
@@ -5331,7 +5331,7 @@ date,country_code,country,price
 2012-06-30,PE,Peru,15.3495
 2012-06-30,PH,Philippines,5.7098
 2012-06-30,PL,Poland,-7.2062
-2012-06-30,PT,Portugal,-10.7787
+2012-06-30,PT,Portugal,-10.7791
 2012-06-30,RO,Romania,-8.1934
 2012-06-30,RS,Serbia,-6.8441
 2012-06-30,RU,Russia,10.1142
@@ -5340,19 +5340,19 @@ date,country_code,country,price
 2012-06-30,SI,Slovenia,-7.9791
 2012-06-30,SK,Slovakia,-5.8429
 2012-06-30,TH,Thailand,-1.2993
-2012-06-30,TR,Türkiye,0.8579
-2012-06-30,US,United States,1.8393
-2012-06-30,XM,Euro area,-4.0492
-2012-06-30,XW,World,0.5831
+2012-06-30,TR,Türkiye,0.849
+2012-06-30,US,United States,1.837
+2012-06-30,XM,Euro area,-4.0426
+2012-06-30,XW,World,0.5895
 2012-06-30,ZA,South Africa,-0.9137
-2012-09-30,4T,Emerging market economies (aggregate),2.3321
-2012-09-30,5R,Advanced economies,-0.2953
-2012-09-30,AT,Austria,9.2753
+2012-09-30,4T,Emerging market economies (aggregate),2.3579
+2012-09-30,5R,Advanced economies,-0.2954
+2012-09-30,AT,Austria,9.2951
 2012-09-30,AU,Australia,-1.9098
 2012-09-30,BE,Belgium,-0.8295
 2012-09-30,BG,Bulgaria,-4.7526
 2012-09-30,BR,Brazil,5.3675
-2012-09-30,CA,Canada,2.2342
+2012-09-30,CA,Canada,2.2319
 2012-09-30,CH,Switzerland,5.923
 2012-09-30,CL,Chile,6.6637
 2012-09-30,CN,China,-2.955
@@ -5401,19 +5401,19 @@ date,country_code,country,price
 2012-09-30,SI,Slovenia,-8.5822
 2012-09-30,SK,Slovakia,-5.8787
 2012-09-30,TH,Thailand,-0.1242
-2012-09-30,TR,Türkiye,2.8764
-2012-09-30,US,United States,3.6867
-2012-09-30,XM,Euro area,-5.0297
-2012-09-30,XW,World,0.8899
+2012-09-30,TR,Türkiye,2.8861
+2012-09-30,US,United States,3.6843
+2012-09-30,XM,Euro area,-5.0269
+2012-09-30,XW,World,0.8991
 2012-09-30,ZA,South Africa,-0.674
-2012-12-31,4T,Emerging market economies (aggregate),3.1197
-2012-12-31,5R,Advanced economies,0.9587
-2012-12-31,AT,Austria,8.471
+2012-12-31,4T,Emerging market economies (aggregate),3.1496
+2012-12-31,5R,Advanced economies,0.9628
+2012-12-31,AT,Austria,8.4289
 2012-12-31,AU,Australia,0.7941
 2012-12-31,BE,Belgium,-0.6953
 2012-12-31,BG,Bulgaria,-5.2722
 2012-12-31,BR,Brazil,4.232
-2012-12-31,CA,Canada,0.9884
+2012-12-31,CA,Canada,1.1208
 2012-12-31,CH,Switzerland,5.8898
 2012-12-31,CL,Chile,8.0977
 2012-12-31,CN,China,-2.4418
@@ -5462,14 +5462,14 @@ date,country_code,country,price
 2012-12-31,SI,Slovenia,-11.1207
 2012-12-31,SK,Slovakia,-6.2262
 2012-12-31,TH,Thailand,1.7371
-2012-12-31,TR,Türkiye,4.0494
-2012-12-31,US,United States,5.8815
-2012-12-31,XM,Euro area,-4.289
-2012-12-31,XW,World,1.9464
+2012-12-31,TR,Türkiye,4.0523
+2012-12-31,US,United States,5.8797
+2012-12-31,XM,Euro area,-4.2883
+2012-12-31,XW,World,1.9604
 2012-12-31,ZA,South Africa,-0.8733
-2013-03-31,4T,Emerging market economies (aggregate),2.7697
-2013-03-31,5R,Advanced economies,1.6187
-2013-03-31,AT,Austria,2.2715
+2013-03-31,4T,Emerging market economies (aggregate),2.7971
+2013-03-31,5R,Advanced economies,1.6152
+2013-03-31,AT,Austria,2.3462
 2013-03-31,AU,Australia,0.5917
 2013-03-31,BE,Belgium,0.1538
 2013-03-31,BG,Bulgaria,-5.6485
@@ -5514,7 +5514,7 @@ date,country_code,country,price
 2013-03-31,PE,Peru,15.9661
 2013-03-31,PH,Philippines,4.3334
 2013-03-31,PL,Poland,-7.0863
-2013-03-31,PT,Portugal,-4.7256
+2013-03-31,PT,Portugal,-4.7254
 2013-03-31,RO,Romania,-6.2255
 2013-03-31,RS,Serbia,-15.5622
 2013-03-31,RU,Russia,-0.3202
@@ -5523,19 +5523,19 @@ date,country_code,country,price
 2013-03-31,SI,Slovenia,-6.4908
 2013-03-31,SK,Slovakia,-2.116
 2013-03-31,TH,Thailand,2.3727
-2013-03-31,TR,Türkiye,3.4352
-2013-03-31,US,United States,7.8051
-2013-03-31,XM,Euro area,-4.5779
-2013-03-31,XW,World,2.1456
+2013-03-31,TR,Türkiye,3.387
+2013-03-31,US,United States,7.7958
+2013-03-31,XM,Euro area,-4.5785
+2013-03-31,XW,World,2.1552
 2013-03-31,ZA,South Africa,-0.6611
-2013-06-30,4T,Emerging market economies (aggregate),3.4096
-2013-06-30,5R,Advanced economies,2.2513
-2013-06-30,AT,Austria,2.8081
+2013-06-30,4T,Emerging market economies (aggregate),3.4377
+2013-06-30,5R,Advanced economies,2.2482
+2013-06-30,AT,Austria,2.7927
 2013-06-30,AU,Australia,2.86
 2013-06-30,BE,Belgium,0.4101
 2013-06-30,BG,Bulgaria,-4.3653
 2013-06-30,BR,Brazil,2.6689
-2013-06-30,CA,Canada,0.1306
+2013-06-30,CA,Canada,0.1301
 2013-06-30,CH,Switzerland,4.8139
 2013-06-30,CL,Chile,9.6362
 2013-06-30,CN,China,2.9101
@@ -5575,7 +5575,7 @@ date,country_code,country,price
 2013-06-30,PE,Peru,11.7152
 2013-06-30,PH,Philippines,7.2402
 2013-06-30,PL,Poland,-5.9146
-2013-06-30,PT,Portugal,-3.1286
+2013-06-30,PT,Portugal,-3.1284
 2013-06-30,RO,Romania,-5.9887
 2013-06-30,RS,Serbia,-16.2491
 2013-06-30,RU,Russia,-2.0593
@@ -5584,19 +5584,19 @@ date,country_code,country,price
 2013-06-30,SI,Slovenia,-6.0706
 2013-06-30,SK,Slovakia,-0.4797
 2013-06-30,TH,Thailand,5.2003
-2013-06-30,TR,Türkiye,3.8269
-2013-06-30,US,United States,8.149
-2013-06-30,XM,Euro area,-3.7616
-2013-06-30,XW,World,2.7875
+2013-06-30,TR,Türkiye,3.8517
+2013-06-30,US,United States,8.145
+2013-06-30,XM,Euro area,-3.7663
+2013-06-30,XW,World,2.7978
 2013-06-30,ZA,South Africa,0.4335
-2013-09-30,4T,Emerging market economies (aggregate),3.8786
-2013-09-30,5R,Advanced economies,2.8336
-2013-09-30,AT,Austria,2.8556
+2013-09-30,4T,Emerging market economies (aggregate),3.9002
+2013-09-30,5R,Advanced economies,2.8364
+2013-09-30,AT,Austria,2.7799
 2013-09-30,AU,Australia,5.7501
 2013-09-30,BE,Belgium,0.5846
 2013-09-30,BG,Bulgaria,-2.4577
 2013-09-30,BR,Brazil,2.8512
-2013-09-30,CA,Canada,1.2933
+2013-09-30,CA,Canada,1.2918
 2013-09-30,CH,Switzerland,3.0707
 2013-09-30,CL,Chile,6.874
 2013-09-30,CN,China,4.6701
@@ -5636,7 +5636,7 @@ date,country_code,country,price
 2013-09-30,PE,Peru,9.1768
 2013-09-30,PH,Philippines,10.565
 2013-09-30,PL,Poland,-5.2189
-2013-09-30,PT,Portugal,-1.3513
+2013-09-30,PT,Portugal,-1.3518
 2013-09-30,RO,Romania,-2.2274
 2013-09-30,RS,Serbia,-12.2405
 2013-09-30,RU,Russia,-3.5845
@@ -5645,19 +5645,19 @@ date,country_code,country,price
 2013-09-30,SI,Slovenia,-9.5841
 2013-09-30,SK,Slovakia,-1.156
 2013-09-30,TH,Thailand,7.7164
-2013-09-30,TR,Türkiye,2.7942
-2013-09-30,US,United States,8.5015
-2013-09-30,XM,Euro area,-2.5609
-2013-09-30,XW,World,3.3144
+2013-09-30,TR,Türkiye,2.7886
+2013-09-30,US,United States,8.5062
+2013-09-30,XM,Euro area,-2.5573
+2013-09-30,XW,World,3.3249
 2013-09-30,ZA,South Africa,0.8691
-2013-12-31,4T,Emerging market economies (aggregate),3.1505
-2013-12-31,5R,Advanced economies,3.1374
-2013-12-31,AT,Austria,2.4706
+2013-12-31,4T,Emerging market economies (aggregate),3.1586
+2013-12-31,5R,Advanced economies,3.1334
+2013-12-31,AT,Austria,2.5946
 2013-12-31,AU,Australia,7.0899
 2013-12-31,BE,Belgium,0.3218
 2013-12-31,BG,Bulgaria,0.2446
 2013-12-31,BR,Brazil,2.7118
-2013-12-31,CA,Canada,3.1682
+2013-12-31,CA,Canada,3.098
 2013-12-31,CH,Switzerland,3.8799
 2013-12-31,CL,Chile,6.6024
 2013-12-31,CN,China,5.9846
@@ -5697,7 +5697,7 @@ date,country_code,country,price
 2013-12-31,PE,Peru,6.3826
 2013-12-31,PH,Philippines,11.4275
 2013-12-31,PL,Poland,-3.6832
-2013-12-31,PT,Portugal,0.6838
+2013-12-31,PT,Portugal,0.6841
 2013-12-31,RO,Romania,-1.7076
 2013-12-31,RS,Serbia,-3.9008
 2013-12-31,RU,Russia,-5.8038
@@ -5706,19 +5706,19 @@ date,country_code,country,price
 2013-12-31,SI,Slovenia,-5.4213
 2013-12-31,SK,Slovakia,1.616
 2013-12-31,TH,Thailand,6.5364
-2013-12-31,TR,Türkiye,4.6008
-2013-12-31,US,United States,8.5547
-2013-12-31,XM,Euro area,-2.1517
-2013-12-31,XW,World,3.1442
+2013-12-31,TR,Türkiye,4.5686
+2013-12-31,US,United States,8.5485
+2013-12-31,XM,Euro area,-2.1494
+2013-12-31,XW,World,3.1459
 2013-12-31,ZA,South Africa,2.0034
-2014-03-31,4T,Emerging market economies (aggregate),3.3461
-2014-03-31,5R,Advanced economies,3.2387
-2014-03-31,AT,Austria,2.5003
+2014-03-31,4T,Emerging market economies (aggregate),3.3484
+2014-03-31,5R,Advanced economies,3.2449
+2014-03-31,AT,Austria,2.4891
 2014-03-31,AU,Australia,7.6036
 2014-03-31,BE,Belgium,-1.4356
 2014-03-31,BG,Bulgaria,3.1321
 2014-03-31,BR,Brazil,2.5114
-2014-03-31,CA,Canada,3.6755
+2014-03-31,CA,Canada,3.7393
 2014-03-31,CH,Switzerland,2.3764
 2014-03-31,CL,Chile,6.1387
 2014-03-31,CN,China,5.8629
@@ -5758,7 +5758,7 @@ date,country_code,country,price
 2014-03-31,PE,Peru,3.3765
 2014-03-31,PH,Philippines,9.4389
 2014-03-31,PL,Poland,-1.4337
-2014-03-31,PT,Portugal,4.1496
+2014-03-31,PT,Portugal,4.1495
 2014-03-31,RO,Romania,-3.9874
 2014-03-31,RS,Serbia,2.6666
 2014-03-31,RU,Russia,-5.173
@@ -5767,19 +5767,19 @@ date,country_code,country,price
 2014-03-31,SI,Slovenia,-7.1074
 2014-03-31,SK,Slovakia,-0.3575
 2014-03-31,TH,Thailand,6.351
-2014-03-31,TR,Türkiye,3.497
-2014-03-31,US,United States,7.0909
-2014-03-31,XM,Euro area,-0.7351
-2014-03-31,XW,World,3.2896
+2014-03-31,TR,Türkiye,3.5307
+2014-03-31,US,United States,7.0964
+2014-03-31,XM,Euro area,-0.7283
+2014-03-31,XW,World,3.294
 2014-03-31,ZA,South Africa,1.8961
-2014-06-30,4T,Emerging market economies (aggregate),2.6223
-2014-06-30,5R,Advanced economies,2.2411
-2014-06-30,AT,Austria,3.019
+2014-06-30,4T,Emerging market economies (aggregate),2.6224
+2014-06-30,5R,Advanced economies,2.2389
+2014-06-30,AT,Austria,3.0032
 2014-06-30,AU,Australia,6.8449
 2014-06-30,BE,Belgium,-1.3468
 2014-06-30,BG,Bulgaria,2.3975
 2014-06-30,BR,Brazil,1.242
-2014-06-30,CA,Canada,3.228
+2014-06-30,CA,Canada,3.1625
 2014-06-30,CH,Switzerland,2.7829
 2014-06-30,CL,Chile,5.5267
 2014-06-30,CN,China,3.0163
@@ -5804,7 +5804,7 @@ date,country_code,country,price
 2014-06-30,IS,Iceland,5.9613
 2014-06-30,IT,Italy,-5.4062
 2014-06-30,JP,Japan,-1.9974
-2014-06-30,KR,Korea,-0.2161
+2014-06-30,KR,Korea,-0.216
 2014-06-30,LT,Lithuania,6.3843
 2014-06-30,LU,Luxembourg,4.0099
 2014-06-30,LV,Latvia,7.0827
@@ -5819,7 +5819,7 @@ date,country_code,country,price
 2014-06-30,PE,Peru,5.69
 2014-06-30,PH,Philippines,8.1305
 2014-06-30,PL,Poland,1.35
-2014-06-30,PT,Portugal,6.2618
+2014-06-30,PT,Portugal,6.2625
 2014-06-30,RO,Romania,-3.8949
 2014-06-30,RS,Serbia,6.0209
 2014-06-30,RU,Russia,-6.0042
@@ -5828,19 +5828,19 @@ date,country_code,country,price
 2014-06-30,SI,Slovenia,-10.3824
 2014-06-30,SK,Slovakia,1.1122
 2014-06-30,TH,Thailand,7.9534
-2014-06-30,TR,Türkiye,2.2137
-2014-06-30,US,United States,4.402
-2014-06-30,XM,Euro area,0.2178
-2014-06-30,XW,World,2.4273
+2014-06-30,TR,Türkiye,2.1985
+2014-06-30,US,United States,4.4035
+2014-06-30,XM,Euro area,0.2161
+2014-06-30,XW,World,2.426
 2014-06-30,ZA,South Africa,1.44
-2014-09-30,4T,Emerging market economies (aggregate),0.7952
-2014-09-30,5R,Advanced economies,2.0646
-2014-09-30,AT,Austria,0.7332
+2014-09-30,4T,Emerging market economies (aggregate),0.7917
+2014-09-30,5R,Advanced economies,2.0661
+2014-09-30,AT,Austria,0.7394
 2014-09-30,AU,Australia,6.3721
 2014-09-30,BE,Belgium,-0.7328
 2014-09-30,BG,Bulgaria,2.5988
 2014-09-30,BR,Brazil,-0.0354
-2014-09-30,CA,Canada,3.3389
+2014-09-30,CA,Canada,3.3356
 2014-09-30,CH,Switzerland,2.5836
 2014-09-30,CL,Chile,11.9486
 2014-09-30,CN,China,-1.4369
@@ -5880,7 +5880,7 @@ date,country_code,country,price
 2014-09-30,PE,Peru,0.2292
 2014-09-30,PH,Philippines,6.7217
 2014-09-30,PL,Poland,1.3812
-2014-09-30,PT,Portugal,5.4813
+2014-09-30,PT,Portugal,5.482
 2014-09-30,RO,Romania,-3.0894
 2014-09-30,RS,Serbia,3.1194
 2014-09-30,RU,Russia,-5.6803
@@ -5889,19 +5889,19 @@ date,country_code,country,price
 2014-09-30,SI,Slovenia,-5.1243
 2014-09-30,SK,Slovakia,1.4759
 2014-09-30,TH,Thailand,6.7426
-2014-09-30,TR,Türkiye,3.1906
-2014-09-30,US,United States,3.4555
-2014-09-30,XM,Euro area,0.4651
-2014-09-30,XW,World,1.4661
+2014-09-30,TR,Türkiye,3.2373
+2014-09-30,US,United States,3.4583
+2014-09-30,XM,Euro area,0.4674
+2014-09-30,XW,World,1.4662
 2014-09-30,ZA,South Africa,0.8566
-2014-12-31,4T,Emerging market economies (aggregate),0.0306
-2014-12-31,5R,Advanced economies,2.3408
-2014-12-31,AT,Austria,1.0128
+2014-12-31,4T,Emerging market economies (aggregate),0.0211
+2014-12-31,5R,Advanced economies,2.3392
+2014-12-31,AT,Austria,0.9954
 2014-12-31,AU,Australia,4.9468
 2014-12-31,BE,Belgium,0.8141
 2014-12-31,BG,Bulgaria,3.4579
 2014-12-31,BR,Brazil,-1.4019
-2014-12-31,CA,Canada,3.5441
+2014-12-31,CA,Canada,3.5407
 2014-12-31,CH,Switzerland,2.9922
 2014-12-31,CL,Chile,9.1029
 2014-12-31,CN,China,-5.0078
@@ -5941,7 +5941,7 @@ date,country_code,country,price
 2014-12-31,PE,Peru,0.7758
 2014-12-31,PH,Philippines,6.9882
 2014-12-31,PL,Poland,1.9932
-2014-12-31,PT,Portugal,2.3167
+2014-12-31,PT,Portugal,2.3162
 2014-12-31,RO,Romania,-1.1731
 2014-12-31,RS,Serbia,2.3377
 2014-12-31,RU,Russia,-6.1476
@@ -5950,19 +5950,19 @@ date,country_code,country,price
 2014-12-31,SI,Slovenia,-4.2896
 2014-12-31,SK,Slovakia,3.3361
 2014-12-31,TH,Thailand,8.9882
-2014-12-31,TR,Türkiye,4.2946
-2014-12-31,US,United States,3.5989
-2014-12-31,XM,Euro area,0.7251
-2014-12-31,XW,World,1.2436
+2014-12-31,TR,Türkiye,4.3199
+2014-12-31,US,United States,3.6012
+2014-12-31,XM,Euro area,0.7176
+2014-12-31,XW,World,1.2401
 2014-12-31,ZA,South Africa,0.8261
-2015-03-31,4T,Emerging market economies (aggregate),-0.9455
-2015-03-31,5R,Advanced economies,3.3981
-2015-03-31,AT,Austria,2.6631
+2015-03-31,4T,Emerging market economies (aggregate),-0.9577
+2015-03-31,5R,Advanced economies,3.3974
+2015-03-31,AT,Austria,2.6979
 2015-03-31,AU,Australia,5.5336
 2015-03-31,BE,Belgium,1.0086
 2015-03-31,BG,Bulgaria,2.7856
 2015-03-31,BR,Brazil,-4.3481
-2015-03-31,CA,Canada,5.0321
+2015-03-31,CA,Canada,5.0283
 2015-03-31,CH,Switzerland,4.2302
 2015-03-31,CL,Chile,8.6724
 2015-03-31,CN,China,-6.9355
@@ -6011,19 +6011,19 @@ date,country_code,country,price
 2015-03-31,SI,Slovenia,-0.9868
 2015-03-31,SK,Slovakia,5.645
 2015-03-31,TH,Thailand,10.8301
-2015-03-31,TR,Türkiye,7.3249
-2015-03-31,US,United States,4.9158
-2015-03-31,XM,Euro area,1.4201
-2015-03-31,XW,World,1.3114
+2015-03-31,TR,Türkiye,7.3041
+2015-03-31,US,United States,4.9193
+2015-03-31,XM,Euro area,1.4136
+2015-03-31,XW,World,1.3084
 2015-03-31,ZA,South Africa,1.9457
-2015-06-30,4T,Emerging market economies (aggregate),-1.7309
-2015-06-30,5R,Advanced economies,3.7343
-2015-06-30,AT,Austria,0.4106
+2015-06-30,4T,Emerging market economies (aggregate),-1.7429
+2015-06-30,5R,Advanced economies,3.7376
+2015-06-30,AT,Austria,0.4397
 2015-06-30,AU,Australia,8.1474
 2015-06-30,BE,Belgium,1.2576
 2015-06-30,BG,Bulgaria,2.3058
 2015-06-30,BR,Brazil,-6.7953
-2015-06-30,CA,Canada,6.2616
+2015-06-30,CA,Canada,6.3213
 2015-06-30,CH,Switzerland,2.9399
 2015-06-30,CL,Chile,8.9676
 2015-06-30,CN,China,-7.3296
@@ -6063,7 +6063,7 @@ date,country_code,country,price
 2015-06-30,PE,Peru,-8.6744
 2015-06-30,PH,Philippines,8.9748
 2015-06-30,PL,Poland,1.9511
-2015-06-30,PT,Portugal,2.2036
+2015-06-30,PT,Portugal,2.2031
 2015-06-30,RO,Romania,2.9873
 2015-06-30,RS,Serbia,3.6368
 2015-06-30,RU,Russia,-11.0815
@@ -6072,19 +6072,19 @@ date,country_code,country,price
 2015-06-30,SI,Slovenia,4.2659
 2015-06-30,SK,Slovakia,5.6225
 2015-06-30,TH,Thailand,8.0293
-2015-06-30,TR,Türkiye,8.201
-2015-06-30,US,United States,5.4216
-2015-06-30,XM,Euro area,0.9687
-2015-06-30,XW,World,1.0984
+2015-06-30,TR,Türkiye,8.2081
+2015-06-30,US,United States,5.4206
+2015-06-30,XM,Euro area,0.9739
+2015-06-30,XW,World,1.0985
 2015-06-30,ZA,South Africa,1.4636
-2015-09-30,4T,Emerging market economies (aggregate),-0.997
-2015-09-30,5R,Advanced economies,4.0254
-2015-09-30,AT,Austria,3.0873
+2015-09-30,4T,Emerging market economies (aggregate),-1.0072
+2015-09-30,5R,Advanced economies,4.021
+2015-09-30,AT,Austria,3.1118
 2015-09-30,AU,Australia,9.0721
 2015-09-30,BE,Belgium,1.8892
 2015-09-30,BG,Bulgaria,2.0574
 2015-09-30,BR,Brazil,-9.0621
-2015-09-30,CA,Canada,7.3371
+2015-09-30,CA,Canada,7.332
 2015-09-30,CH,Switzerland,3.5892
 2015-09-30,CL,Chile,6.8579
 2015-09-30,CN,China,-4.7993
@@ -6124,7 +6124,7 @@ date,country_code,country,price
 2015-09-30,PE,Peru,-4.9366
 2015-09-30,PH,Philippines,10.0735
 2015-09-30,PL,Poland,2.8207
-2015-09-30,PT,Portugal,2.6451
+2015-09-30,PT,Portugal,2.6448
 2015-09-30,RO,Romania,4.9616
 2015-09-30,RS,Serbia,1.8601
 2015-09-30,RU,Russia,-13.4027
@@ -6133,19 +6133,19 @@ date,country_code,country,price
 2015-09-30,SI,Slovenia,1.4922
 2015-09-30,SK,Slovakia,6.0477
 2015-09-30,TH,Thailand,6.4692
-2015-09-30,TR,Türkiye,7.6372
-2015-09-30,US,United States,5.3816
-2015-09-30,XM,Euro area,1.3687
-2015-09-30,XW,World,1.5951
+2015-09-30,TR,Türkiye,7.6128
+2015-09-30,US,United States,5.3761
+2015-09-30,XM,Euro area,1.3615
+2015-09-30,XW,World,1.5917
 2015-09-30,ZA,South Africa,1.3637
-2015-12-31,4T,Emerging market economies (aggregate),-0.7627
-2015-12-31,5R,Advanced economies,4.0655
-2015-12-31,AT,Austria,6.7799
+2015-12-31,4T,Emerging market economies (aggregate),-0.7788
+2015-12-31,5R,Advanced economies,4.0672
+2015-12-31,AT,Austria,6.7985
 2015-12-31,AU,Australia,6.8479
 2015-12-31,BE,Belgium,0.8045
 2015-12-31,BG,Bulgaria,4.5065
 2015-12-31,BR,Brazil,-10.8149
-2015-12-31,CA,Canada,8.0437
+2015-12-31,CA,Canada,7.9793
 2015-12-31,CH,Switzerland,2.5959
 2015-12-31,CL,Chile,8.9708
 2015-12-31,CN,China,-1.7629
@@ -6170,7 +6170,7 @@ date,country_code,country,price
 2015-12-31,IS,Iceland,6.9469
 2015-12-31,IT,Italy,-2.2091
 2015-12-31,JP,Japan,1.7154
-2015-12-31,KR,Korea,3.3916
+2015-12-31,KR,Korea,3.3917
 2015-12-31,LT,Lithuania,3.6799
 2015-12-31,LU,Luxembourg,2.8718
 2015-12-31,LV,Latvia,6.5196
@@ -6185,7 +6185,7 @@ date,country_code,country,price
 2015-12-31,PE,Peru,-7.5948
 2015-12-31,PH,Philippines,9.7193
 2015-12-31,PL,Poland,1.82
-2015-12-31,PT,Portugal,4.4286
+2015-12-31,PT,Portugal,4.4283
 2015-12-31,RO,Romania,3.295
 2015-12-31,RS,Serbia,-0.409
 2015-12-31,RU,Russia,-15.3542
@@ -6194,19 +6194,19 @@ date,country_code,country,price
 2015-12-31,SI,Slovenia,0.6419
 2015-12-31,SK,Slovakia,5.3322
 2015-12-31,TH,Thailand,6.8093
-2015-12-31,TR,Türkiye,6.9382
-2015-12-31,US,United States,4.9563
-2015-12-31,XM,Euro area,2.4713
-2015-12-31,XW,World,1.7239
+2015-12-31,TR,Türkiye,6.9372
+2015-12-31,US,United States,4.9595
+2015-12-31,XM,Euro area,2.4798
+2015-12-31,XW,World,1.7207
 2015-12-31,ZA,South Africa,1.7693
-2016-03-31,4T,Emerging market economies (aggregate),-0.5547
-2016-03-31,5R,Advanced economies,4.0496
-2016-03-31,AT,Austria,7.0457
+2016-03-31,4T,Emerging market economies (aggregate),-0.5718
+2016-03-31,5R,Advanced economies,4.0468
+2016-03-31,AT,Austria,7.0486
 2016-03-31,AU,Australia,5.433
 2016-03-31,BE,Belgium,0.6782
 2016-03-31,BG,Bulgaria,5.2785
 2016-03-31,BR,Brazil,-11.3424
-2016-03-31,CA,Canada,10.4838
+2016-03-31,CA,Canada,10.4197
 2016-03-31,CH,Switzerland,2.4115
 2016-03-31,CL,Chile,7.3032
 2016-03-31,CN,China,1.2139
@@ -6246,7 +6246,7 @@ date,country_code,country,price
 2016-03-31,PE,Peru,-9.7136
 2016-03-31,PH,Philippines,10.2496
 2016-03-31,PL,Poland,1.994
-2016-03-31,PT,Portugal,6.3637
+2016-03-31,PT,Portugal,6.3635
 2016-03-31,RO,Romania,5.737
 2016-03-31,RS,Serbia,-2.9945
 2016-03-31,RU,Russia,-13.0057
@@ -6255,19 +6255,19 @@ date,country_code,country,price
 2016-03-31,SI,Slovenia,1.5573
 2016-03-31,SK,Slovakia,5.588
 2016-03-31,TH,Thailand,5.4641
-2016-03-31,TR,Türkiye,5.2485
-2016-03-31,US,United States,4.258
-2016-03-31,XM,Euro area,3.4689
-2016-03-31,XW,World,1.8045
+2016-03-31,TR,Türkiye,5.2595
+2016-03-31,US,United States,4.2527
+2016-03-31,XM,Euro area,3.4726
+2016-03-31,XW,World,1.7981
 2016-03-31,ZA,South Africa,-0.5764
-2016-06-30,4T,Emerging market economies (aggregate),0.9781
-2016-06-30,5R,Advanced economies,4.3059
-2016-06-30,AT,Austria,8.8977
+2016-06-30,4T,Emerging market economies (aggregate),0.9563
+2016-06-30,5R,Advanced economies,4.3034
+2016-06-30,AT,Austria,8.8719
 2016-06-30,AU,Australia,3.0206
 2016-06-30,BE,Belgium,0.1746
 2016-06-30,BG,Bulgaria,8.4683
 2016-06-30,BR,Brazil,-10.8985
-2016-06-30,CA,Canada,13.5581
+2016-06-30,CA,Canada,13.5497
 2016-06-30,CH,Switzerland,1.1897
 2016-06-30,CL,Chile,3.1176
 2016-06-30,CN,China,3.5591
@@ -6307,7 +6307,7 @@ date,country_code,country,price
 2016-06-30,PE,Peru,-6.1118
 2016-06-30,PH,Philippines,12.0611
 2016-06-30,PL,Poland,1.4626
-2016-06-30,PT,Portugal,5.8264
+2016-06-30,PT,Portugal,5.8265
 2016-06-30,RO,Romania,9.7418
 2016-06-30,RS,Serbia,3.792
 2016-06-30,RU,Russia,-12.469
@@ -6316,19 +6316,19 @@ date,country_code,country,price
 2016-06-30,SI,Slovenia,0.6842
 2016-06-30,SK,Slovakia,6.6281
 2016-06-30,TH,Thailand,5.4427
-2016-06-30,TR,Türkiye,5.4659
-2016-06-30,US,United States,4.256
-2016-06-30,XM,Euro area,3.8792
-2016-06-30,XW,World,2.6962
+2016-06-30,TR,Türkiye,5.4794
+2016-06-30,US,United States,4.2534
+2016-06-30,XM,Euro area,3.8746
+2016-06-30,XW,World,2.6868
 2016-06-30,ZA,South Africa,-1.1504
-2016-09-30,4T,Emerging market economies (aggregate),1.8772
-2016-09-30,5R,Advanced economies,4.1318
-2016-09-30,AT,Austria,6.5151
+2016-09-30,4T,Emerging market economies (aggregate),1.8556
+2016-09-30,5R,Advanced economies,4.1342
+2016-09-30,AT,Austria,6.583
 2016-09-30,AU,Australia,2.1651
 2016-09-30,BE,Belgium,0.0078
 2016-09-30,BG,Bulgaria,9.1889
 2016-09-30,BR,Brazil,-10.6817
-2016-09-30,CA,Canada,15.1115
+2016-09-30,CA,Canada,15.1569
 2016-09-30,CH,Switzerland,0.1084
 2016-09-30,CL,Chile,0.0662
 2016-09-30,CN,China,5.6231
@@ -6353,7 +6353,7 @@ date,country_code,country,price
 2016-09-30,IS,Iceland,11.41
 2016-09-30,IT,Italy,0.0163
 2016-09-30,JP,Japan,2.2521
-2016-09-30,KR,Korea,1.3105
+2016-09-30,KR,Korea,1.3106
 2016-09-30,LT,Lithuania,4.56
 2016-09-30,LU,Luxembourg,5.5109
 2016-09-30,LV,Latvia,9.4374
@@ -6368,7 +6368,7 @@ date,country_code,country,price
 2016-09-30,PE,Peru,-4.315
 2016-09-30,PH,Philippines,6.9589
 2016-09-30,PL,Poland,2.9184
-2016-09-30,PT,Portugal,6.9106
+2016-09-30,PT,Portugal,6.9103
 2016-09-30,RO,Romania,7.6118
 2016-09-30,RS,Serbia,18.202
 2016-09-30,RU,Russia,-11.3304
@@ -6377,19 +6377,19 @@ date,country_code,country,price
 2016-09-30,SI,Slovenia,4.8174
 2016-09-30,SK,Slovakia,8.2518
 2016-09-30,TH,Thailand,4.452
-2016-09-30,TR,Türkiye,4.1444
-2016-09-30,US,United States,4.1491
-2016-09-30,XM,Euro area,4.1031
-2016-09-30,XW,World,3.0391
+2016-09-30,TR,Türkiye,4.1495
+2016-09-30,US,United States,4.1493
+2016-09-30,XM,Euro area,4.1057
+2016-09-30,XW,World,3.0315
 2016-09-30,ZA,South Africa,-1.076
-2016-12-31,4T,Emerging market economies (aggregate),3.0209
-2016-12-31,5R,Advanced economies,3.7958
-2016-12-31,AT,Austria,3.1971
+2016-12-31,4T,Emerging market economies (aggregate),3.004
+2016-12-31,5R,Advanced economies,3.7959
+2016-12-31,AT,Austria,3.1432
 2016-12-31,AU,Australia,6.0924
 2016-12-31,BE,Belgium,0.5535
 2016-12-31,BG,Bulgaria,8.4406
 2016-12-31,BR,Brazil,-9.2231
-2016-12-31,CA,Canada,14.4206
+2016-12-31,CA,Canada,14.4743
 2016-12-31,CH,Switzerland,-1.1502
 2016-12-31,CL,Chile,0.7492
 2016-12-31,CN,China,7.0826
@@ -6429,7 +6429,7 @@ date,country_code,country,price
 2016-12-31,PE,Peru,-1.1195
 2016-12-31,PH,Philippines,5.3994
 2016-12-31,PL,Poland,3.6977
-2016-12-31,PT,Portugal,6.7586
+2016-12-31,PT,Portugal,6.7588
 2016-12-31,RO,Romania,8.611
 2016-12-31,RS,Serbia,21.3983
 2016-12-31,RU,Russia,-9.306
@@ -6438,19 +6438,19 @@ date,country_code,country,price
 2016-12-31,SI,Slovenia,6.2635
 2016-12-31,SK,Slovakia,8.3716
 2016-12-31,TH,Thailand,2.7754
-2016-12-31,TR,Türkiye,3.8144
-2016-12-31,US,United States,3.5256
-2016-12-31,XM,Euro area,3.7761
-2016-12-31,XW,World,3.4231
+2016-12-31,TR,Türkiye,3.7956
+2016-12-31,US,United States,3.5205
+2016-12-31,XM,Euro area,3.7768
+2016-12-31,XW,World,3.4154
 2016-12-31,ZA,South Africa,-2.5795
-2017-03-31,4T,Emerging market economies (aggregate),3.0789
-2017-03-31,5R,Advanced economies,3.323
-2017-03-31,AT,Austria,0.3052
+2017-03-31,4T,Emerging market economies (aggregate),3.065
+2017-03-31,5R,Advanced economies,3.3245
+2017-03-31,AT,Austria,0.2552
 2017-03-31,AU,Australia,7.887
 2017-03-31,BE,Belgium,1.3085
 2017-03-31,BG,Bulgaria,7.2207
 2017-03-31,BR,Brazil,-7.149
-2017-03-31,CA,Canada,15.3831
+2017-03-31,CA,Canada,15.4339
 2017-03-31,CH,Switzerland,-2.8027
 2017-03-31,CL,Chile,3.1997
 2017-03-31,CN,China,6.6247
@@ -6490,28 +6490,28 @@ date,country_code,country,price
 2017-03-31,PE,Peru,1.6353
 2017-03-31,PH,Philippines,3.6929
 2017-03-31,PL,Poland,1.2537
-2017-03-31,PT,Portugal,6.4206
+2017-03-31,PT,Portugal,6.421
 2017-03-31,RO,Romania,4.6605
-2017-03-31,RS,Serbia,9.3691
+2017-03-31,RS,Serbia,8.65
 2017-03-31,RU,Russia,-8.3941
 2017-03-31,SE,Sweden,6.3312
 2017-03-31,SG,Singapore,-3.3796
 2017-03-31,SI,Slovenia,4.7899
 2017-03-31,SK,Slovakia,2.587
 2017-03-31,TH,Thailand,0.2078
-2017-03-31,TR,Türkiye,1.5518
-2017-03-31,US,United States,2.913
-2017-03-31,XM,Euro area,2.6152
-2017-03-31,XW,World,3.1989
+2017-03-31,TR,Türkiye,1.5482
+2017-03-31,US,United States,2.9153
+2017-03-31,XM,Euro area,2.6122
+2017-03-31,XW,World,3.1932
 2017-03-31,ZA,South Africa,-2.454
-2017-06-30,4T,Emerging market economies (aggregate),3.158
-2017-06-30,5R,Advanced economies,3.5578
-2017-06-30,AT,Austria,1.6709
+2017-06-30,4T,Emerging market economies (aggregate),3.1485
+2017-06-30,5R,Advanced economies,3.5603
+2017-06-30,AT,Austria,1.677
 2017-06-30,AU,Australia,8.1016
 2017-06-30,BE,Belgium,1.0839
 2017-06-30,BG,Bulgaria,6.2425
 2017-06-30,BR,Brazil,-5.5944
-2017-06-30,CA,Canada,15.3459
+2017-06-30,CA,Canada,15.3405
 2017-06-30,CH,Switzerland,-0.3439
 2017-06-30,CL,Chile,5.693
 2017-06-30,CN,China,6.5185
@@ -6551,28 +6551,28 @@ date,country_code,country,price
 2017-06-30,PE,Peru,-1.5232
 2017-06-30,PH,Philippines,-2.5773
 2017-06-30,PL,Poland,2.6897
-2017-06-30,PT,Portugal,6.5049
+2017-06-30,PT,Portugal,6.5047
 2017-06-30,RO,Romania,5.7933
-2017-06-30,RS,Serbia,4.0529
+2017-06-30,RS,Serbia,3.8254
 2017-06-30,RU,Russia,-7.5843
 2017-06-30,SE,Sweden,6.5922
 2017-06-30,SG,Singapore,-3.1783
 2017-06-30,SI,Slovenia,6.7673
 2017-06-30,SK,Slovakia,5.4866
 2017-06-30,TH,Thailand,0.707
-2017-06-30,TR,Türkiye,0.2188
-2017-06-30,US,United States,3.8651
-2017-06-30,XM,Euro area,2.7621
-2017-06-30,XW,World,3.3637
+2017-06-30,TR,Türkiye,0.2161
+2017-06-30,US,United States,3.8724
+2017-06-30,XM,Euro area,2.7619
+2017-06-30,XW,World,3.3605
 2017-06-30,ZA,South Africa,-0.9637
-2017-09-30,4T,Emerging market economies (aggregate),2.5502
-2017-09-30,5R,Advanced economies,3.5163
-2017-09-30,AT,Austria,2.2237
+2017-09-30,4T,Emerging market economies (aggregate),2.5375
+2017-09-30,5R,Advanced economies,3.5157
+2017-09-30,AT,Austria,2.1328
 2017-09-30,AU,Australia,6.3781
 2017-09-30,BE,Belgium,2.0979
 2017-09-30,BG,Bulgaria,7.2679
 2017-09-30,BR,Brazil,-4.1829
-2017-09-30,CA,Canada,13.4619
+2017-09-30,CA,Canada,13.4046
 2017-09-30,CH,Switzerland,2.1093
 2017-09-30,CL,Chile,6.969
 2017-09-30,CN,China,5.2201
@@ -6612,28 +6612,28 @@ date,country_code,country,price
 2017-09-30,PE,Peru,-0.4982
 2017-09-30,PH,Philippines,-0.8593
 2017-09-30,PL,Poland,1.7893
-2017-09-30,PT,Portugal,9.1762
+2017-09-30,PT,Portugal,9.1763
 2017-09-30,RO,Romania,4.1256
-2017-09-30,RS,Serbia,-3.5424
+2017-09-30,RS,Serbia,-3.3353
 2017-09-30,RU,Russia,-6.6781
 2017-09-30,SE,Sweden,5.2648
 2017-09-30,SG,Singapore,-0.6611
 2017-09-30,SI,Slovenia,6.9036
 2017-09-30,SK,Slovakia,5.6841
 2017-09-30,TH,Thailand,3.8987
-2017-09-30,TR,Türkiye,-0.4844
-2017-09-30,US,United States,3.9501
-2017-09-30,XM,Euro area,2.8399
-2017-09-30,XW,World,3.0384
+2017-09-30,TR,Türkiye,-0.4764
+2017-09-30,US,United States,3.9534
+2017-09-30,XM,Euro area,2.8395
+2017-09-30,XW,World,3.0325
 2017-09-30,ZA,South Africa,-0.5869
-2017-12-31,4T,Emerging market economies (aggregate),1.5243
-2017-12-31,5R,Advanced economies,3.3031
-2017-12-31,AT,Austria,2.4134
+2017-12-31,4T,Emerging market economies (aggregate),1.5182
+2017-12-31,5R,Advanced economies,3.3022
+2017-12-31,AT,Austria,2.4657
 2017-12-31,AU,Australia,2.97
 2017-12-31,BE,Belgium,1.0281
 2017-12-31,BG,Bulgaria,5.2482
 2017-12-31,BR,Brazil,-3.8152
-2017-12-31,CA,Canada,11.8733
+2017-12-31,CA,Canada,11.87
 2017-12-31,CH,Switzerland,2.5263
 2017-12-31,CL,Chile,7.5038
 2017-12-31,CN,China,3.263
@@ -6673,23 +6673,23 @@ date,country_code,country,price
 2017-12-31,PE,Peru,-1.4161
 2017-12-31,PH,Philippines,2.4611
 2017-12-31,PL,Poland,1.5288
-2017-12-31,PT,Portugal,8.8868
+2017-12-31,PT,Portugal,8.8865
 2017-12-31,RO,Romania,2.4017
-2017-12-31,RS,Serbia,-4.0385
+2017-12-31,RS,Serbia,-3.4425
 2017-12-31,RU,Russia,-5.4543
 2017-12-31,SE,Sweden,0.9781
 2017-12-31,SG,Singapore,0.6304
 2017-12-31,SI,Slovenia,8.4352
 2017-12-31,SK,Slovakia,4.0058
 2017-12-31,TH,Thailand,3.8927
-2017-12-31,TR,Türkiye,-2.3794
-2017-12-31,US,United States,3.8332
-2017-12-31,XM,Euro area,3.2294
-2017-12-31,XW,World,2.4235
+2017-12-31,TR,Türkiye,-2.312
+2017-12-31,US,United States,3.8349
+2017-12-31,XM,Euro area,3.2247
+2017-12-31,XW,World,2.4213
 2017-12-31,ZA,South Africa,-0.4353
-2018-03-31,4T,Emerging market economies (aggregate),1.581
-2018-03-31,5R,Advanced economies,3.1077
-2018-03-31,AT,Austria,5.3873
+2018-03-31,4T,Emerging market economies (aggregate),1.5754
+2018-03-31,5R,Advanced economies,3.1074
+2018-03-31,AT,Austria,5.4613
 2018-03-31,AU,Australia,0.0876
 2018-03-31,BE,Belgium,1.3377
 2018-03-31,BG,Bulgaria,4.926
@@ -6719,7 +6719,7 @@ date,country_code,country,price
 2018-03-31,IS,Iceland,10.4679
 2018-03-31,IT,Italy,-1.2251
 2018-03-31,JP,Japan,0.24
-2018-03-31,KR,Korea,0.5378
+2018-03-31,KR,Korea,0.5377
 2018-03-31,LT,Lithuania,4.2816
 2018-03-31,LU,Luxembourg,5.2333
 2018-03-31,LV,Latvia,9.2122
@@ -6734,23 +6734,23 @@ date,country_code,country,price
 2018-03-31,PE,Peru,-1.6644
 2018-03-31,PH,Philippines,-1.9118
 2018-03-31,PL,Poland,4.2636
-2018-03-31,PT,Portugal,11.3825
+2018-03-31,PT,Portugal,11.3822
 2018-03-31,RO,Romania,1.694
-2018-03-31,RS,Serbia,6.0374
+2018-03-31,RS,Serbia,7.8206
 2018-03-31,RU,Russia,-1.9574
 2018-03-31,SE,Sweden,-2.3374
 2018-03-31,SG,Singapore,5.1584
 2018-03-31,SI,Slovenia,8.2214
 2018-03-31,SK,Slovakia,9.3993
 2018-03-31,TH,Thailand,5.6332
-2018-03-31,TR,Türkiye,-1.943
-2018-03-31,US,United States,3.94
-2018-03-31,XM,Euro area,3.6366
-2018-03-31,XW,World,2.3445
+2018-03-31,TR,Türkiye,-1.9419
+2018-03-31,US,United States,3.9357
+2018-03-31,XM,Euro area,3.6408
+2018-03-31,XW,World,2.3426
 2018-03-31,ZA,South Africa,-0.0881
-2018-06-30,4T,Emerging market economies (aggregate),1.27
-2018-06-30,5R,Advanced economies,2.5255
-2018-06-30,AT,Austria,2.9188
+2018-06-30,4T,Emerging market economies (aggregate),1.2642
+2018-06-30,5R,Advanced economies,2.5238
+2018-06-30,AT,Austria,2.9502
 2018-06-30,AU,Australia,-2.653
 2018-06-30,BE,Belgium,2.0141
 2018-06-30,BG,Bulgaria,4.7632
@@ -6795,23 +6795,23 @@ date,country_code,country,price
 2018-06-30,PE,Peru,-1.1533
 2018-06-30,PH,Philippines,-0.1369
 2018-06-30,PL,Poland,4.1873
-2018-06-30,PT,Portugal,10.153
+2018-06-30,PT,Portugal,10.1533
 2018-06-30,RO,Romania,-0.0782
-2018-06-30,RS,Serbia,5.6291
+2018-06-30,RS,Serbia,7.2413
 2018-06-30,RU,Russia,-0.8102
 2018-06-30,SE,Sweden,-3.4946
 2018-06-30,SG,Singapore,8.7226
 2018-06-30,SI,Slovenia,5.7384
 2018-06-30,SK,Slovakia,4.2361
 2018-06-30,TH,Thailand,4.6747
-2018-06-30,TR,Türkiye,-3.9164
-2018-06-30,US,United States,3.1647
-2018-06-30,XM,Euro area,3.1659
-2018-06-30,XW,World,1.9079
+2018-06-30,TR,Türkiye,-3.9047
+2018-06-30,US,United States,3.1635
+2018-06-30,XM,Euro area,3.1619
+2018-06-30,XW,World,1.9051
 2018-06-30,ZA,South Africa,-0.9597
-2018-09-30,4T,Emerging market economies (aggregate),1.8303
-2018-09-30,5R,Advanced economies,2.047
-2018-09-30,AT,Austria,5.7108
+2018-09-30,4T,Emerging market economies (aggregate),1.8296
+2018-09-30,5R,Advanced economies,2.0471
+2018-09-30,AT,Austria,5.7397
 2018-09-30,AU,Australia,-3.7567
 2018-09-30,BE,Belgium,0.3631
 2018-09-30,BG,Bulgaria,2.6497
@@ -6856,23 +6856,23 @@ date,country_code,country,price
 2018-09-30,PE,Peru,-0.8928
 2018-09-30,PH,Philippines,-1.8352
 2018-09-30,PL,Poland,4.25
-2018-09-30,PT,Portugal,6.9674
+2018-09-30,PT,Portugal,6.9673
 2018-09-30,RO,Romania,1.3297
-2018-09-30,RS,Serbia,5.2713
+2018-09-30,RS,Serbia,6.3848
 2018-09-30,RU,Russia,0.1633
 2018-09-30,SE,Sweden,-4.1022
 2018-09-30,SG,Singapore,8.038
 2018-09-30,SI,Slovenia,7.3237
 2018-09-30,SK,Slovakia,1.6029
 2018-09-30,TH,Thailand,4.1265
-2018-09-30,TR,Türkiye,-9.57
-2018-09-30,US,United States,2.692
-2018-09-30,XM,Euro area,2.8037
-2018-09-30,XW,World,1.9437
+2018-09-30,TR,Türkiye,-9.5878
+2018-09-30,US,United States,2.6904
+2018-09-30,XM,Euro area,2.8059
+2018-09-30,XW,World,1.9434
 2018-09-30,ZA,South Africa,-1.5704
-2018-12-31,4T,Emerging market economies (aggregate),2.4756
-2018-12-31,5R,Advanced economies,1.9884
-2018-12-31,AT,Austria,5.2062
+2018-12-31,4T,Emerging market economies (aggregate),2.4739
+2018-12-31,5R,Advanced economies,1.9896
+2018-12-31,AT,Austria,5.1505
 2018-12-31,AU,Australia,-6.789
 2018-12-31,BE,Belgium,0.102
 2018-12-31,BG,Bulgaria,2.3325
@@ -6917,23 +6917,23 @@ date,country_code,country,price
 2018-12-31,PE,Peru,-0.5225
 2018-12-31,PH,Philippines,-5.2207
 2018-12-31,PL,Poland,6.0539
-2018-12-31,PT,Portugal,8.4209
+2018-12-31,PT,Portugal,8.4215
 2018-12-31,RO,Romania,1.5758
-2018-12-31,RS,Serbia,6.386
+2018-12-31,RS,Serbia,6.5081
 2018-12-31,RU,Russia,1.0119
 2018-12-31,SE,Sweden,-1.3379
 2018-12-31,SG,Singapore,7.3361
 2018-12-31,SI,Slovenia,6.2812
 2018-12-31,SK,Slovakia,4.504
 2018-12-31,TH,Thailand,1.534
-2018-12-31,TR,Türkiye,-12.6275
-2018-12-31,US,United States,2.3777
-2018-12-31,XM,Euro area,2.8537
-2018-12-31,XW,World,2.2366
+2018-12-31,TR,Türkiye,-12.6747
+2018-12-31,US,United States,2.3779
+2018-12-31,XM,Euro area,2.8575
+2018-12-31,XW,World,2.236
 2018-12-31,ZA,South Africa,-1.5786
-2019-03-31,4T,Emerging market economies (aggregate),2.7599
-2019-03-31,5R,Advanced economies,1.7676
-2019-03-31,AT,Austria,3.1506
+2019-03-31,4T,Emerging market economies (aggregate),2.7552
+2019-03-31,5R,Advanced economies,1.7699
+2019-03-31,AT,Austria,3.1051
 2019-03-31,AU,Australia,-8.5595
 2019-03-31,BE,Belgium,1.1928
 2019-03-31,BG,Bulgaria,3.9105
@@ -6978,23 +6978,23 @@ date,country_code,country,price
 2019-03-31,PE,Peru,0.4341
 2019-03-31,PH,Philippines,-0.7755
 2019-03-31,PL,Poland,6.8011
-2019-03-31,PT,Portugal,8.3882
+2019-03-31,PT,Portugal,8.3885
 2019-03-31,RO,Romania,-0.2904
-2019-03-31,RS,Serbia,7.0147
+2019-03-31,RS,Serbia,6.3501
 2019-03-31,RU,Russia,1.9846
 2019-03-31,SE,Sweden,-0.3455
 2019-03-31,SG,Singapore,2.6109
 2019-03-31,SI,Slovenia,6.1593
 2019-03-31,SK,Slovakia,3.2135
 2019-03-31,TH,Thailand,0.2085
-2019-03-31,TR,Türkiye,-13.2002
-2019-03-31,US,United States,2.143
-2019-03-31,XM,Euro area,2.7214
-2019-03-31,XW,World,2.2653
+2019-03-31,TR,Türkiye,-13.1957
+2019-03-31,US,United States,2.1508
+2019-03-31,XM,Euro area,2.7189
+2019-03-31,XW,World,2.2631
 2019-03-31,ZA,South Africa,-0.8874
-2019-06-30,4T,Emerging market economies (aggregate),2.0295
-2019-06-30,5R,Advanced economies,1.4912
-2019-06-30,AT,Austria,3.8181
+2019-06-30,4T,Emerging market economies (aggregate),2.027
+2019-06-30,5R,Advanced economies,1.4929
+2019-06-30,AT,Austria,3.783
 2019-06-30,AU,Australia,-8.8231
 2019-06-30,BE,Belgium,1.1476
 2019-06-30,BG,Bulgaria,1.6319
@@ -7039,23 +7039,23 @@ date,country_code,country,price
 2019-06-30,PE,Peru,2.1439
 2019-06-30,PH,Philippines,2.9629
 2019-06-30,PL,Poland,5.7107
-2019-06-30,PT,Portugal,8.8909
+2019-06-30,PT,Portugal,8.8907
 2019-06-30,RO,Romania,-2.2484
-2019-06-30,RS,Serbia,8.3832
+2019-06-30,RS,Serbia,6.9208
 2019-06-30,RU,Russia,1.8298
 2019-06-30,SE,Sweden,0.1361
 2019-06-30,SG,Singapore,0.4201
 2019-06-30,SI,Slovenia,5.6717
 2019-06-30,SK,Slovakia,5.5768
 2019-06-30,TH,Thailand,0.5438
-2019-06-30,TR,Türkiye,-13.0755
-2019-06-30,US,United States,1.8169
-2019-06-30,XM,Euro area,2.9328
-2019-06-30,XW,World,1.7641
+2019-06-30,TR,Türkiye,-13.0818
+2019-06-30,US,United States,1.8162
+2019-06-30,XM,Euro area,2.9396
+2019-06-30,XW,World,1.7632
 2019-06-30,ZA,South Africa,-1.7465
-2019-09-30,4T,Emerging market economies (aggregate),1.4787
-2019-09-30,5R,Advanced economies,1.7099
-2019-09-30,AT,Austria,0.8795
+2019-09-30,4T,Emerging market economies (aggregate),1.4705
+2019-09-30,5R,Advanced economies,1.7076
+2019-09-30,AT,Austria,0.8453
 2019-09-30,AU,Australia,-5.282
 2019-09-30,BE,Belgium,3.0769
 2019-09-30,BG,Bulgaria,2.7862
@@ -7100,23 +7100,23 @@ date,country_code,country,price
 2019-09-30,PE,Peru,-0.0264
 2019-09-30,PH,Philippines,5.5587
 2019-09-30,PL,Poland,6.2195
-2019-09-30,PT,Portugal,10.9435
+2019-09-30,PT,Portugal,10.9438
 2019-09-30,RO,Romania,0.349
-2019-09-30,RS,Serbia,10.3056
+2019-09-30,RS,Serbia,8.4198
 2019-09-30,RU,Russia,3.6582
 2019-09-30,SE,Sweden,1.4024
 2019-09-30,SG,Singapore,1.7101
 2019-09-30,SI,Slovenia,4.9717
 2019-09-30,SK,Slovakia,8.4664
 2019-09-30,TH,Thailand,-2.1309
-2019-09-30,TR,Türkiye,-7.7104
-2019-09-30,US,United States,2.0492
-2019-09-30,XM,Euro area,3.105
-2019-09-30,XW,World,1.5921
+2019-09-30,TR,Türkiye,-7.7112
+2019-09-30,US,United States,2.048
+2019-09-30,XM,Euro area,3.0987
+2019-09-30,XW,World,1.5869
 2019-09-30,ZA,South Africa,-1.9173
-2019-12-31,4T,Emerging market economies (aggregate),0.3755
-2019-12-31,5R,Advanced economies,2.0889
-2019-12-31,AT,Austria,1.7019
+2019-12-31,4T,Emerging market economies (aggregate),0.3649
+2019-12-31,5R,Advanced economies,2.092
+2019-12-31,AT,Austria,1.6769
 2019-12-31,AU,Australia,0.6456
 2019-12-31,BE,Belgium,3.6726
 2019-12-31,BG,Bulgaria,3.0835
@@ -7161,23 +7161,23 @@ date,country_code,country,price
 2019-12-31,PE,Peru,-2.4593
 2019-12-31,PH,Philippines,7.3238
 2019-12-31,PL,Poland,6.6358
-2019-12-31,PT,Portugal,10.0995
+2019-12-31,PT,Portugal,10.0992
 2019-12-31,RO,Romania,0.4243
-2019-12-31,RS,Serbia,10.4103
+2019-12-31,RS,Serbia,8.9861
 2019-12-31,RU,Russia,3.0201
 2019-12-31,SE,Sweden,1.5346
 2019-12-31,SG,Singapore,2.0273
 2019-12-31,SI,Slovenia,3.228
 2019-12-31,SK,Slovakia,7.8289
 2019-12-31,TH,Thailand,1.6647
-2019-12-31,TR,Türkiye,-2.3043
-2019-12-31,US,United States,2.4016
-2019-12-31,XM,Euro area,3.2805
-2019-12-31,XW,World,1.2168
+2019-12-31,TR,Türkiye,-2.2914
+2019-12-31,US,United States,2.407
+2019-12-31,XM,Euro area,3.284
+2019-12-31,XW,World,1.2142
 2019-12-31,ZA,South Africa,-1.6361
-2020-03-31,4T,Emerging market economies (aggregate),0.044
-2020-03-31,5R,Advanced economies,2.6304
-2020-03-31,AT,Austria,1.4599
+2020-03-31,4T,Emerging market economies (aggregate),0.038
+2020-03-31,5R,Advanced economies,2.6313
+2020-03-31,AT,Austria,1.4899
 2020-03-31,AU,Australia,5.0177
 2020-03-31,BE,Belgium,2.7498
 2020-03-31,BG,Bulgaria,1.0358
@@ -7207,7 +7207,7 @@ date,country_code,country,price
 2020-03-31,IS,Iceland,3.3642
 2020-03-31,IT,Italy,1.4408
 2020-03-31,JP,Japan,-1.0956
-2020-03-31,KR,Korea,0.1235
+2020-03-31,KR,Korea,0.1236
 2020-03-31,LT,Lithuania,3.6462
 2020-03-31,LU,Luxembourg,12.4861
 2020-03-31,LV,Latvia,6.6504
@@ -7222,23 +7222,23 @@ date,country_code,country,price
 2020-03-31,PE,Peru,-2.1391
 2020-03-31,PH,Philippines,5.0618
 2020-03-31,PL,Poland,6.4308
-2020-03-31,PT,Portugal,10.1467
+2020-03-31,PT,Portugal,10.1464
 2020-03-31,RO,Romania,4.9437
-2020-03-31,RS,Serbia,9.9222
+2020-03-31,RS,Serbia,9.0279
 2020-03-31,RU,Russia,4.5956
 2020-03-31,SE,Sweden,3.5235
 2020-03-31,SG,Singapore,1.9756
 2020-03-31,SI,Slovenia,3.1807
 2020-03-31,SK,Slovakia,10.095
 2020-03-31,TH,Thailand,3.7494
-2020-03-31,TR,Türkiye,2.5311
-2020-03-31,US,United States,3.0546
-2020-03-31,XM,Euro area,3.9542
-2020-03-31,XW,World,1.3022
+2020-03-31,TR,Türkiye,2.5063
+2020-03-31,US,United States,3.0563
+2020-03-31,XM,Euro area,3.9554
+2020-03-31,XW,World,1.3016
 2020-03-31,ZA,South Africa,-3.11
-2020-06-30,4T,Emerging market economies (aggregate),0.9049
-2020-06-30,5R,Advanced economies,3.7866
-2020-06-30,AT,Austria,4.0992
+2020-06-30,4T,Emerging market economies (aggregate),0.9033
+2020-06-30,5R,Advanced economies,3.7891
+2020-06-30,AT,Austria,4.0977
 2020-06-30,AU,Australia,6.5792
 2020-06-30,BE,Belgium,3.6969
 2020-06-30,BG,Bulgaria,1.3844
@@ -7283,23 +7283,23 @@ date,country_code,country,price
 2020-06-30,PE,Peru,-1.8398
 2020-06-30,PH,Philippines,6.6559
 2020-06-30,PL,Poland,7.4983
-2020-06-30,PT,Portugal,10.0334
+2020-06-30,PT,Portugal,10.034
 2020-06-30,RO,Romania,3.9339
-2020-06-30,RS,Serbia,10.4683
+2020-06-30,RS,Serbia,10.307
 2020-06-30,RU,Russia,4.8142
 2020-06-30,SE,Sweden,3.136
 2020-06-30,SG,Singapore,1.9068
 2020-06-30,SI,Slovenia,6.2003
 2020-06-30,SK,Slovakia,7.6262
 2020-06-30,TH,Thailand,7.1381
-2020-06-30,TR,Türkiye,7.1177
-2020-06-30,US,United States,4.6845
-2020-06-30,XM,Euro area,4.8709
-2020-06-30,XW,World,2.309
+2020-06-30,TR,Türkiye,7.1255
+2020-06-30,US,United States,4.6906
+2020-06-30,XM,Euro area,4.8714
+2020-06-30,XW,World,2.3116
 2020-06-30,ZA,South Africa,-1.1436
-2020-09-30,4T,Emerging market economies (aggregate),0.9237
-2020-09-30,5R,Advanced economies,4.5913
-2020-09-30,AT,Austria,7.8381
+2020-09-30,4T,Emerging market economies (aggregate),0.9164
+2020-09-30,5R,Advanced economies,4.5923
+2020-09-30,AT,Austria,7.8441
 2020-09-30,AU,Australia,3.816
 2020-09-30,BE,Belgium,2.3523
 2020-09-30,BG,Bulgaria,4.0017
@@ -7329,7 +7329,7 @@ date,country_code,country,price
 2020-09-30,IS,Iceland,4.3716
 2020-09-30,IT,Italy,1.5028
 2020-09-30,JP,Japan,-0.1508
-2020-09-30,KR,Korea,3.7734
+2020-09-30,KR,Korea,3.7735
 2020-09-30,LT,Lithuania,5.3428
 2020-09-30,LU,Luxembourg,13.0072
 2020-09-30,LV,Latvia,1.7284
@@ -7344,23 +7344,23 @@ date,country_code,country,price
 2020-09-30,PE,Peru,-1.2618
 2020-09-30,PH,Philippines,3.9201
 2020-09-30,PL,Poland,7.6531
-2020-09-30,PT,Portugal,6.9224
+2020-09-30,PT,Portugal,6.922
 2020-09-30,RO,Romania,-1.0003
-2020-09-30,RS,Serbia,9.0314
+2020-09-30,RS,Serbia,9.8423
 2020-09-30,RU,Russia,5.8643
 2020-09-30,SE,Sweden,3.126
 2020-09-30,SG,Singapore,0.9183
 2020-09-30,SI,Slovenia,3.3577
 2020-09-30,SK,Slovakia,6.7496
 2020-09-30,TH,Thailand,5.4568
-2020-09-30,TR,Türkiye,14.97
-2020-09-30,US,United States,5.8704
-2020-09-30,XM,Euro area,5.2485
-2020-09-30,XW,World,2.6991
+2020-09-30,TR,Türkiye,14.9724
+2020-09-30,US,United States,5.87
+2020-09-30,XM,Euro area,5.2525
+2020-09-30,XW,World,2.6987
 2020-09-30,ZA,South Africa,-0.2749
-2020-12-31,4T,Emerging market economies (aggregate),2.0394
-2020-12-31,5R,Advanced economies,6.4578
-2020-12-31,AT,Austria,8.5923
+2020-12-31,4T,Emerging market economies (aggregate),2.0342
+2020-12-31,5R,Advanced economies,6.4499
+2020-12-31,AT,Austria,8.6224
 2020-12-31,AU,Australia,2.7326
 2020-12-31,BE,Belgium,5.2801
 2020-12-31,BG,Bulgaria,4.9125
@@ -7405,27 +7405,27 @@ date,country_code,country,price
 2020-12-31,PE,Peru,1.8636
 2020-12-31,PH,Philippines,1.0089
 2020-12-31,PL,Poland,5.9979
-2020-12-31,PT,Portugal,8.1432
+2020-12-31,PT,Portugal,8.1433
 2020-12-31,RO,Romania,0.2467
-2020-12-31,RS,Serbia,9.2236
+2020-12-31,RS,Serbia,10.9042
 2020-12-31,RU,Russia,9.1346
 2020-12-31,SE,Sweden,4.9362
 2020-12-31,SG,Singapore,2.3141
 2020-12-31,SI,Slovenia,5.9202
 2020-12-31,SK,Slovakia,5.4968
 2020-12-31,TH,Thailand,1.5159
-2020-12-31,TR,Türkiye,15.7176
-2020-12-31,US,United States,8.1962
-2020-12-31,XM,Euro area,6.2339
-2020-12-31,XW,World,4.1669
+2020-12-31,TR,Türkiye,15.7073
+2020-12-31,US,United States,8.1812
+2020-12-31,XM,Euro area,6.2263
+2020-12-31,XW,World,4.1637
 2020-12-31,ZA,South Africa,0.9574
-2021-03-31,4T,Emerging market economies (aggregate),2.1765
-2021-03-31,5R,Advanced economies,7.0422
-2021-03-31,AT,Austria,10.8586
+2021-03-31,4T,Emerging market economies (aggregate),2.167
+2021-03-31,5R,Advanced economies,7.0391
+2021-03-31,AT,Austria,10.8209
 2021-03-31,AU,Australia,6.3339
 2021-03-31,BE,Belgium,5.6565
 2021-03-31,BG,Bulgaria,7.5603
-2021-03-31,BR,Brazil,3.6425
+2021-03-31,BR,Brazil,3.6441
 2021-03-31,CA,Canada,7.2045
 2021-03-31,CH,Switzerland,4.3094
 2021-03-31,CL,Chile,5.0838
@@ -7468,25 +7468,25 @@ date,country_code,country,price
 2021-03-31,PL,Poland,4.2458
 2021-03-31,PT,Portugal,6.1751
 2021-03-31,RO,Romania,-2.2295
-2021-03-31,RS,Serbia,9.6756
+2021-03-31,RS,Serbia,11.9714
 2021-03-31,RU,Russia,5.2229
 2021-03-31,SE,Sweden,5.6093
 2021-03-31,SG,Singapore,5.8255
 2021-03-31,SI,Slovenia,7.8412
 2021-03-31,SK,Slovakia,0.9704
 2021-03-31,TH,Thailand,1.5118
-2021-03-31,TR,Türkiye,13.7145
-2021-03-31,US,United States,9.2622
-2021-03-31,XM,Euro area,5.0687
-2021-03-31,XW,World,4.5044
+2021-03-31,TR,Türkiye,13.7418
+2021-03-31,US,United States,9.2523
+2021-03-31,XM,Euro area,5.0702
+2021-03-31,XW,World,4.5014
 2021-03-31,ZA,South Africa,3.1201
-2021-06-30,4T,Emerging market economies (aggregate),1.6853
-2021-06-30,5R,Advanced economies,8.1515
-2021-06-30,AT,Austria,9.0194
+2021-06-30,4T,Emerging market economies (aggregate),1.6771
+2021-06-30,5R,Advanced economies,8.1449
+2021-06-30,AT,Austria,8.9975
 2021-06-30,AU,Australia,12.4699
 2021-06-30,BE,Belgium,5.4874
 2021-06-30,BG,Bulgaria,6.4801
-2021-06-30,BR,Brazil,0.8827
+2021-06-30,BR,Brazil,0.8843
 2021-06-30,CA,Canada,9.7893
 2021-06-30,CH,Switzerland,4.1978
 2021-06-30,CL,Chile,6.531
@@ -7527,27 +7527,27 @@ date,country_code,country,price
 2021-06-30,PE,Peru,-1.2252
 2021-06-30,PH,Philippines,-1.5581
 2021-06-30,PL,Poland,3.7347
-2021-06-30,PT,Portugal,6.9931
+2021-06-30,PT,Portugal,6.9926
 2021-06-30,RO,Romania,-0.5478
-2021-06-30,RS,Serbia,8.2089
+2021-06-30,RS,Serbia,10.9405
 2021-06-30,RU,Russia,7.8973
 2021-06-30,SE,Sweden,8.9649
 2021-06-30,SG,Singapore,4.7311
 2021-06-30,SI,Slovenia,8.0508
 2021-06-30,SK,Slovakia,2.4474
 2021-06-30,TH,Thailand,-1.4849
-2021-06-30,TR,Türkiye,14.7096
-2021-06-30,US,United States,10.2619
-2021-06-30,XM,Euro area,5.4173
-2021-06-30,XW,World,4.7605
+2021-06-30,TR,Türkiye,14.7038
+2021-06-30,US,United States,10.2416
+2021-06-30,XM,Euro area,5.4199
+2021-06-30,XW,World,4.7579
 2021-06-30,ZA,South Africa,2.7593
-2021-09-30,4T,Emerging market economies (aggregate),1.6302
-2021-09-30,5R,Advanced economies,8.9095
-2021-09-30,AT,Austria,7.0629
+2021-09-30,4T,Emerging market economies (aggregate),1.6272
+2021-09-30,5R,Advanced economies,8.904
+2021-09-30,AT,Austria,7.0799
 2021-09-30,AU,Australia,18.033
 2021-09-30,BE,Belgium,4.8056
 2021-09-30,BG,Bulgaria,4.7397
-2021-09-30,BR,Brazil,-1.8409
+2021-09-30,BR,Brazil,-1.8394
 2021-09-30,CA,Canada,9.8983
 2021-09-30,CH,Switzerland,6.0607
 2021-09-30,CL,Chile,8.046
@@ -7588,23 +7588,23 @@ date,country_code,country,price
 2021-09-30,PE,Peru,-5.1009
 2021-09-30,PH,Philippines,0.8757
 2021-09-30,PL,Poland,3.3337
-2021-09-30,PT,Portugal,9.8752
+2021-09-30,PT,Portugal,9.8754
 2021-09-30,RO,Romania,0.8103
-2021-09-30,RS,Serbia,7.9864
+2021-09-30,RS,Serbia,10.5044
 2021-09-30,RU,Russia,7.208
 2021-09-30,SE,Sweden,9.1741
 2021-09-30,SG,Singapore,4.8576
 2021-09-30,SI,Slovenia,10.4984
 2021-09-30,SK,Slovakia,3.9934
 2021-09-30,TH,Thailand,3.4977
-2021-09-30,TR,Türkiye,11.7533
-2021-09-30,US,United States,10.8222
-2021-09-30,XM,Euro area,6.2113
-2021-09-30,XW,World,5.0731
+2021-09-30,TR,Türkiye,11.7656
+2021-09-30,US,United States,10.8069
+2021-09-30,XM,Euro area,6.2119
+2021-09-30,XW,World,5.0742
 2021-09-30,ZA,South Africa,2.0244
-2021-12-31,4T,Emerging market economies (aggregate),0.6822
-2021-12-31,5R,Advanced economies,7.5394
-2021-12-31,AT,Austria,8.1391
+2021-12-31,4T,Emerging market economies (aggregate),0.6816
+2021-12-31,5R,Advanced economies,7.534
+2021-12-31,AT,Austria,8.1371
 2021-12-31,AU,Australia,19.5166
 2021-12-31,BE,Belgium,0.7
 2021-12-31,BG,Bulgaria,2.1945
@@ -7634,7 +7634,7 @@ date,country_code,country,price
 2021-12-31,IS,Iceland,10.5231
 2021-12-31,IT,Italy,0.4351
 2021-12-31,JP,Japan,6.2902
-2021-12-31,KR,Korea,11.7854
+2021-12-31,KR,Korea,11.7858
 2021-12-31,LT,Lithuania,9.6738
 2021-12-31,LU,Luxembourg,7.7139
 2021-12-31,LV,Latvia,8.3333
@@ -7649,30 +7649,30 @@ date,country_code,country,price
 2021-12-31,PE,Peru,-8.4536
 2021-12-31,PH,Philippines,2.6867
 2021-12-31,PL,Poland,3.8745
-2021-12-31,PT,Portugal,8.9861
+2021-12-31,PT,Portugal,8.9859
 2021-12-31,RO,Romania,-0.1518
-2021-12-31,RS,Serbia,6.5005
+2021-12-31,RS,Serbia,8.1484
 2021-12-31,RU,Russia,6.1282
 2021-12-31,SE,Sweden,7.3373
 2021-12-31,SG,Singapore,6.6336
 2021-12-31,SI,Slovenia,11.1485
 2021-12-31,SK,Slovakia,4.9593
 2021-12-31,TH,Thailand,0.5999
-2021-12-31,TR,Türkiye,18.5497
-2021-12-31,US,United States,9.5846
-2021-12-31,XM,Euro area,4.6887
-2021-12-31,XW,World,3.9154
+2021-12-31,TR,Türkiye,18.5601
+2021-12-31,US,United States,9.5704
+2021-12-31,XM,Euro area,4.6883
+2021-12-31,XW,World,3.9177
 2021-12-31,ZA,South Africa,0.477
-2022-03-31,4T,Emerging market economies (aggregate),0.7004
-2022-03-31,5R,Advanced economies,7.1492
-2022-03-31,AT,Austria,6.1627
+2022-03-31,4T,Emerging market economies (aggregate),0.7002
+2022-03-31,5R,Advanced economies,7.1423
+2022-03-31,AT,Austria,6.1667
 2022-03-31,AU,Australia,14.7257
 2022-03-31,BE,Belgium,-1.6331
 2022-03-31,BG,Bulgaria,0.8739
-2022-03-31,BR,Brazil,-5.5581
-2022-03-31,CA,Canada,18.5475
+2022-03-31,BR,Brazil,-5.5596
+2022-03-31,CA,Canada,18.5389
 2022-03-31,CH,Switzerland,4.8125
-2022-03-31,CL,Chile,-0.8457
+2022-03-31,CL,Chile,-0.8462
 2022-03-31,CN,China,-1.106
 2022-03-31,CO,Colombia,0.1657
 2022-03-31,CY,Cyprus,-2.9887
@@ -7695,7 +7695,7 @@ date,country_code,country,price
 2022-03-31,IS,Iceland,12.1514
 2022-03-31,IT,Italy,-1.0595
 2022-03-31,JP,Japan,8.1216
-2022-03-31,KR,Korea,8.3696
+2022-03-31,KR,Korea,8.3694
 2022-03-31,LT,Lithuania,4.4127
 2022-03-31,LU,Luxembourg,4.5576
 2022-03-31,LV,Latvia,7.4977
@@ -7712,28 +7712,28 @@ date,country_code,country,price
 2022-03-31,PL,Poland,3.5145
 2022-03-31,PT,Portugal,8.3018
 2022-03-31,RO,Romania,-1.9655
-2022-03-31,RS,Serbia,6.4613
+2022-03-31,RS,Serbia,6.9384
 2022-03-31,RU,Russia,18.7713
 2022-03-31,SE,Sweden,5.413
 2022-03-31,SG,Singapore,3.0415
 2022-03-31,SI,Slovenia,10.3944
 2022-03-31,SK,Slovakia,4.5045
 2022-03-31,TH,Thailand,-1.8375
-2022-03-31,TR,Türkiye,24.2038
-2022-03-31,US,United States,9.394
-2022-03-31,XM,Euro area,3.6202
-2022-03-31,XW,World,3.7399
+2022-03-31,TR,Türkiye,24.1885
+2022-03-31,US,United States,9.3504
+2022-03-31,XM,Euro area,3.6511
+2022-03-31,XW,World,3.7414
 2022-03-31,ZA,South Africa,-0.5393
-2022-06-30,4T,Emerging market economies (aggregate),-1.043
-2022-06-30,5R,Advanced economies,4.2303
-2022-06-30,AT,Austria,4.8801
+2022-06-30,4T,Emerging market economies (aggregate),-1.045
+2022-06-30,5R,Advanced economies,4.2109
+2022-06-30,AT,Austria,4.8834
 2022-06-30,AU,Australia,6.7312
 2022-06-30,BE,Belgium,-2.7945
 2022-06-30,BG,Bulgaria,-0.8397
-2022-06-30,BR,Brazil,-7.8113
-2022-06-30,CA,Canada,6.5235
+2022-06-30,BR,Brazil,-7.8142
+2022-06-30,CA,Canada,6.5174
 2022-06-30,CH,Switzerland,4.3927
-2022-06-30,CL,Chile,-3.901
+2022-06-30,CL,Chile,-3.8994
 2022-06-30,CN,China,-4.2636
 2022-06-30,CO,Colombia,-2.1629
 2022-06-30,CY,Cyprus,-4.1358
@@ -7756,7 +7756,7 @@ date,country_code,country,price
 2022-06-30,IS,Iceland,13.8956
 2022-06-30,IT,Italy,-1.6434
 2022-06-30,JP,Japan,6.6587
-2022-06-30,KR,Korea,3.8046
+2022-06-30,KR,Korea,3.8049
 2022-06-30,LT,Lithuania,2.6413
 2022-06-30,LU,Luxembourg,4.3079
 2022-06-30,LV,Latvia,-0.0156
@@ -7771,30 +7771,30 @@ date,country_code,country,price
 2022-06-30,PE,Peru,-9.1972
 2022-06-30,PH,Philippines,3.9629
 2022-06-30,PL,Poland,-1.4084
-2022-06-30,PT,Portugal,4.8058
+2022-06-30,PT,Portugal,4.8062
 2022-06-30,RO,Romania,-5.4438
-2022-06-30,RS,Serbia,5.287
+2022-06-30,RS,Serbia,4.7648
 2022-06-30,RU,Russia,10.6801
 2022-06-30,SE,Sweden,-0.3582
 2022-06-30,SG,Singapore,4.4622
 2022-06-30,SI,Slovenia,6.5009
 2022-06-30,SK,Slovakia,3.6493
 2022-06-30,TH,Thailand,-2.7222
-2022-06-30,TR,Türkiye,39.7534
-2022-06-30,US,United States,6.7423
-2022-06-30,XM,Euro area,1.2791
-2022-06-30,XW,World,1.4493
+2022-06-30,TR,Türkiye,39.7532
+2022-06-30,US,United States,6.6834
+2022-06-30,XM,Euro area,1.2875
+2022-06-30,XW,World,1.4431
 2022-06-30,ZA,South Africa,-1.9897
-2022-09-30,4T,Emerging market economies (aggregate),-0.7852
-2022-09-30,5R,Advanced economies,0.3044
-2022-09-30,AT,Austria,0.9063
+2022-09-30,4T,Emerging market economies (aggregate),-0.7848
+2022-09-30,5R,Advanced economies,0.3064
+2022-09-30,AT,Austria,0.8875
 2022-09-30,AU,Australia,-2.8424
 2022-09-30,BE,Belgium,-4.4214
 2022-09-30,BG,Bulgaria,-1.9933
-2022-09-30,BR,Brazil,-5.9354
-2022-09-30,CA,Canada,-4.8314
+2022-09-30,BR,Brazil,-5.9398
+2022-09-30,CA,Canada,-4.8313
 2022-09-30,CH,Switzerland,2.8392
-2022-09-30,CL,Chile,-4.8688
+2022-09-30,CL,Chile,-4.8813
 2022-09-30,CN,China,-5.788
 2022-09-30,CO,Colombia,-3.593
 2022-09-30,CY,Cyprus,-2.9335
@@ -7817,7 +7817,7 @@ date,country_code,country,price
 2022-09-30,IS,Iceland,11.8158
 2022-09-30,IT,Italy,-5.0731
 2022-09-30,JP,Japan,4.8469
-2022-09-30,KR,Korea,-0.5422
+2022-09-30,KR,Korea,-0.5423
 2022-09-30,LT,Lithuania,-2.8045
 2022-09-30,LU,Luxembourg,3.9559
 2022-09-30,LV,Latvia,-6.6577
@@ -7832,30 +7832,30 @@ date,country_code,country,price
 2022-09-30,PE,Peru,-7.7783
 2022-09-30,PH,Philippines,6.9271
 2022-09-30,PL,Poland,-3.6476
-2022-09-30,PT,Portugal,3.7129
+2022-09-30,PT,Portugal,3.7126
 2022-09-30,RO,Romania,-7.5172
-2022-09-30,RS,Serbia,2.8105
+2022-09-30,RS,Serbia,1.7138
 2022-09-30,RU,Russia,10.9506
 2022-09-30,SE,Sweden,-7.8157
 2022-09-30,SG,Singapore,5.8461
 2022-09-30,SI,Slovenia,4.082
 2022-09-30,SK,Slovakia,0.571
 2022-09-30,TH,Thailand,-5.5104
-2022-09-30,TR,Türkiye,54.8972
-2022-09-30,US,United States,2.1451
-2022-09-30,XM,Euro area,-2.133
-2022-09-30,XW,World,-0.2567
+2022-09-30,TR,Türkiye,54.8874
+2022-09-30,US,United States,2.1245
+2022-09-30,XM,Euro area,-2.1015
+2022-09-30,XW,World,-0.2548
 2022-09-30,ZA,South Africa,-3.2817
-2022-12-31,4T,Emerging market economies (aggregate),-0.9818
-2022-12-31,5R,Advanced economies,-2.9474
-2022-12-31,AT,Austria,-4.8375
+2022-12-31,4T,Emerging market economies (aggregate),-0.9784
+2022-12-31,5R,Advanced economies,-2.9456
+2022-12-31,AT,Austria,-4.845
 2022-12-31,AU,Australia,-10.137
 2022-12-31,BE,Belgium,-5.822
 2022-12-31,BG,Bulgaria,-3.2195
-2022-12-31,BR,Brazil,-3.9975
-2022-12-31,CA,Canada,-10.6321
+2022-12-31,BR,Brazil,-4.0019
+2022-12-31,CA,Canada,-10.6293
 2022-12-31,CH,Switzerland,1.822
-2022-12-31,CL,Chile,-7.1488
+2022-12-31,CL,Chile,-7.1628
 2022-12-31,CN,China,-5.4411
 2022-12-31,CO,Colombia,-6.3668
 2022-12-31,CY,Cyprus,-1.7304
@@ -7878,7 +7878,7 @@ date,country_code,country,price
 2022-12-31,IS,Iceland,9.8988
 2022-12-31,IT,Italy,-8.0997
 2022-12-31,JP,Japan,3.5329
-2022-12-31,KR,Korea,-5.0416
+2022-12-31,KR,Korea,-5.0419
 2022-12-31,LT,Lithuania,-5.458
 2022-12-31,LU,Luxembourg,-0.5146
 2022-12-31,LV,Latvia,-10.554
@@ -7895,28 +7895,28 @@ date,country_code,country,price
 2022-12-31,PL,Poland,-6.8844
 2022-12-31,PT,Portugal,1.3183
 2022-12-31,RO,Romania,-8.2902
-2022-12-31,RS,Serbia,0.3375
+2022-12-31,RS,Serbia,-0.8363
 2022-12-31,RU,Russia,9.6827
 2022-12-31,SE,Sweden,-13.6686
 2022-12-31,SG,Singapore,1.8617
 2022-12-31,SI,Slovenia,1.3998
 2022-12-31,SK,Slovakia,-4.7777
 2022-12-31,TH,Thailand,-1.4562
-2022-12-31,TR,Türkiye,52.4898
-2022-12-31,US,United States,-0.1887
-2022-12-31,XM,Euro area,-6.136
-2022-12-31,XW,World,-1.9109
+2022-12-31,TR,Türkiye,52.4846
+2022-12-31,US,United States,-0.2111
+2022-12-31,XM,Euro area,-6.1034
+2022-12-31,XW,World,-1.9098
 2022-12-31,ZA,South Africa,-3.5945
-2023-03-31,4T,Emerging market economies (aggregate),-1.714
-2023-03-31,5R,Advanced economies,-4.9374
-2023-03-31,AT,Austria,-8.4897
+2023-03-31,4T,Emerging market economies (aggregate),-1.705
+2023-03-31,5R,Advanced economies,-4.9442
+2023-03-31,AT,Austria,-8.5037
 2023-03-31,AU,Australia,-12.2785
 2023-03-31,BE,Belgium,-3.0313
 2023-03-31,BG,Bulgaria,-5.2606
-2023-03-31,BR,Brazil,-3.1128
-2023-03-31,CA,Canada,-19.5888
+2023-03-31,BR,Brazil,-3.1188
+2023-03-31,CA,Canada,-19.5805
 2023-03-31,CH,Switzerland,0.7023
-2023-03-31,CL,Chile,-3.0905
+2023-03-31,CL,Chile,-3.0849
 2023-03-31,CN,China,-4.562
 2023-03-31,CO,Colombia,-4.8016
 2023-03-31,CY,Cyprus,1.0859
@@ -7939,7 +7939,7 @@ date,country_code,country,price
 2023-03-31,IS,Iceland,3.0638
 2023-03-31,IT,Italy,-7.2189
 2023-03-31,JP,Japan,1.0671
-2023-03-31,KR,Korea,-8.532
+2023-03-31,KR,Korea,-8.5319
 2023-03-31,LT,Lithuania,-4.4708
 2023-03-31,LU,Luxembourg,-5.6869
 2023-03-31,LV,Latvia,-11.5459
@@ -7954,30 +7954,30 @@ date,country_code,country,price
 2023-03-31,PE,Peru,-7.227
 2023-03-31,PH,Philippines,1.6751
 2023-03-31,PL,Poland,-10.1443
-2023-03-31,PT,Portugal,0.6505
+2023-03-31,PT,Portugal,0.6507
 2023-03-31,RO,Romania,-9.3462
-2023-03-31,RS,Serbia,-2.0641
+2023-03-31,RS,Serbia,-2.7684
 2023-03-31,RU,Russia,-6.8846
 2023-03-31,SE,Sweden,-16.2763
 2023-03-31,SG,Singapore,4.9771
 2023-03-31,SI,Slovenia,-0.8614
 2023-03-31,SK,Slovakia,-6.6831
 2023-03-31,TH,Thailand,0.8289
-2023-03-31,TR,Türkiye,57.2373
-2023-03-31,US,United States,-2.0142
-2023-03-31,XM,Euro area,-6.9649
-2023-03-31,XW,World,-3.2526
+2023-03-31,TR,Türkiye,57.2461
+2023-03-31,US,United States,-2.0314
+2023-03-31,XM,Euro area,-6.9669
+2023-03-31,XW,World,-3.2536
 2023-03-31,ZA,South Africa,-4.1088
-2023-06-30,4T,Emerging market economies (aggregate),-0.277
-2023-06-30,5R,Advanced economies,-4.7717
-2023-06-30,AT,Austria,-10.2016
+2023-06-30,4T,Emerging market economies (aggregate),-0.2798
+2023-06-30,5R,Advanced economies,-4.7683
+2023-06-30,AT,Austria,-10.2056
 2023-06-30,AU,Australia,-9.2714
 2023-06-30,BE,Belgium,-3.0372
 2023-06-30,BG,Bulgaria,0.4896
-2023-06-30,BR,Brazil,-0.9436
-2023-06-30,CA,Canada,-11.9276
+2023-06-30,BR,Brazil,-0.951
+2023-06-30,CA,Canada,-11.9506
 2023-06-30,CH,Switzerland,0.2447
-2023-06-30,CL,Chile,-0.6287
+2023-06-30,CL,Chile,-0.6716
 2023-06-30,CN,China,-2.7652
 2023-06-30,CO,Colombia,-5.7333
 2023-06-30,CY,Cyprus,4.4461
@@ -8000,7 +8000,7 @@ date,country_code,country,price
 2023-06-30,IS,Iceland,-1.3868
 2023-06-30,IT,Italy,-6.2825
 2023-06-30,JP,Japan,-0.1293
-2023-06-30,KR,Korea,-9.7401
+2023-06-30,KR,Korea,-9.7403
 2023-06-30,LT,Lithuania,-2.0944
 2023-06-30,LU,Luxembourg,-9.0703
 2023-06-30,LV,Latvia,-5.6431
@@ -8015,30 +8015,30 @@ date,country_code,country,price
 2023-06-30,PE,Peru,-5.9478
 2023-06-30,PH,Philippines,4.2048
 2023-06-30,PL,Poland,-5.4766
-2023-06-30,PT,Portugal,4.1869
+2023-06-30,PT,Portugal,4.1865
 2023-06-30,RO,Romania,-9.6653
-2023-06-30,RS,Serbia,-2.7058
+2023-06-30,RS,Serbia,-2.8043
 2023-06-30,RU,Russia,-1.8398
 2023-06-30,SE,Sweden,-15.0838
 2023-06-30,SG,Singapore,2.2401
 2023-06-30,SI,Slovenia,-0.6341
 2023-06-30,SK,Slovakia,-12.7607
 2023-06-30,TH,Thailand,1.7265
-2023-06-30,TR,Türkiye,46.2898
-2023-06-30,US,United States,-1.7047
-2023-06-30,XM,Euro area,-7.2831
-2023-06-30,XW,World,-2.42
+2023-06-30,TR,Türkiye,46.3005
+2023-06-30,US,United States,-1.7177
+2023-06-30,XM,Euro area,-7.253
+2023-06-30,XW,World,-2.423
 2023-06-30,ZA,South Africa,-4.2795
-2023-09-30,4T,Emerging market economies (aggregate),-1.3581
-2023-09-30,5R,Advanced economies,-3.2114
-2023-09-30,AT,Austria,-9.0924
+2023-09-30,4T,Emerging market economies (aggregate),-1.3662
+2023-09-30,5R,Advanced economies,-3.2233
+2023-09-30,AT,Austria,-9.0815
 2023-09-30,AU,Australia,-2.7837
 2023-09-30,BE,Belgium,-2.4451
 2023-09-30,BG,Bulgaria,1.5899
-2023-09-30,BR,Brazil,-0.8
-2023-09-30,CA,Canada,-3.8626
+2023-09-30,BR,Brazil,-0.8087
+2023-09-30,CA,Canada,-3.8624
 2023-09-30,CH,Switzerland,-0.2912
-2023-09-30,CL,Chile,2.191
+2023-09-30,CL,Chile,2.1709
 2023-09-30,CN,China,-3.1151
 2023-09-30,CO,Colombia,-2.7649
 2023-09-30,CY,Cyprus,4.7247
@@ -8061,13 +8061,13 @@ date,country_code,country,price
 2023-09-30,IS,Iceland,-5.1169
 2023-09-30,IT,Italy,-3.6836
 2023-09-30,JP,Japan,-0.975
-2023-09-30,KR,Korea,-10.1449
+2023-09-30,KR,Korea,-10.1448
 2023-09-30,LT,Lithuania,2.8238
 2023-09-30,LU,Luxembourg,-17.2522
 2023-09-30,LV,Latvia,-1.9387
 2023-09-30,MA,Morocco,-4.6038
 2023-09-30,MK,North Macedonia,3.1907
-2023-09-30,MT,Malta,1.3768
+2023-09-30,MT,Malta,1.3834
 2023-09-30,MX,Mexico,5.5015
 2023-09-30,MY,Malaysia,1.293
 2023-09-30,NL,Netherlands,-6.1319
@@ -8076,30 +8076,30 @@ date,country_code,country,price
 2023-09-30,PE,Peru,-4.1761
 2023-09-30,PH,Philippines,1.8863
 2023-09-30,PL,Poland,-0.1254
-2023-09-30,PT,Portugal,3.9732
+2023-09-30,PT,Portugal,3.9734
 2023-09-30,RO,Romania,-3.9686
-2023-09-30,RS,Serbia,-2.1029
+2023-09-30,RS,Serbia,-1.4546
 2023-09-30,RU,Russia,-3.2379
 2023-09-30,SE,Sweden,-11.0355
 2023-09-30,SG,Singapore,0.2519
 2023-09-30,SI,Slovenia,-0.8704
 2023-09-30,SK,Slovakia,-11.9171
 2023-09-30,TH,Thailand,2.6649
-2023-09-30,TR,Türkiye,24.0616
-2023-09-30,US,United States,1.1097
-2023-09-30,XM,Euro area,-6.8324
-2023-09-30,XW,World,-2.235
+2023-09-30,TR,Türkiye,24.0458
+2023-09-30,US,United States,1.0752
+2023-09-30,XM,Euro area,-6.83
+2023-09-30,XW,World,-2.2463
 2023-09-30,ZA,South Africa,-3.9034
-2023-12-31,4T,Emerging market economies (aggregate),-1.2731
-2023-12-31,5R,Advanced economies,-1.4174
-2023-12-31,AT,Austria,-7.3811
+2023-12-31,4T,Emerging market economies (aggregate),-1.2875
+2023-12-31,5R,Advanced economies,-1.4414
+2023-12-31,AT,Austria,-7.3663
 2023-12-31,AU,Australia,3.0692
 2023-12-31,BE,Belgium,1.9331
 2023-12-31,BG,Bulgaria,4.5567
-2023-12-31,BR,Brazil,0.0553
-2023-12-31,CA,Canada,-2.6586
+2023-12-31,BR,Brazil,0.0467
+2023-12-31,CA,Canada,-2.6912
 2023-12-31,CH,Switzerland,-0.3632
-2023-12-31,CL,Chile,2.9106
+2023-12-31,CL,Chile,2.9111
 2023-12-31,CN,China,-3.3968
 2023-12-31,CO,Colombia,-4.6288
 2023-12-31,CY,Cyprus,5.9284
@@ -8128,7 +8128,7 @@ date,country_code,country,price
 2023-12-31,LV,Latvia,-0.3902
 2023-12-31,MA,Morocco,-3.9032
 2023-12-31,MK,North Macedonia,3.3501
-2023-12-31,MT,Malta,2.9886
+2023-12-31,MT,Malta,2.9557
 2023-12-31,MX,Mexico,5.4083
 2023-12-31,MY,Malaysia,2.2114
 2023-12-31,NL,Netherlands,-0.6519
@@ -8137,30 +8137,30 @@ date,country_code,country,price
 2023-12-31,PE,Peru,-0.7747
 2023-12-31,PH,Philippines,-1.0681
 2023-12-31,PL,Poland,6.5353
-2023-12-31,PT,Portugal,6.0447
+2023-12-31,PT,Portugal,6.0446
 2023-12-31,RO,Romania,-3.4782
-2023-12-31,RS,Serbia,-0.8164
+2023-12-31,RS,Serbia,0.3294
 2023-12-31,RU,Russia,-3.6862
 2023-12-31,SE,Sweden,-7.9678
 2023-12-31,SG,Singapore,2.7035
 2023-12-31,SI,Slovenia,1.5342
 2023-12-31,SK,Slovakia,-7.3316
 2023-12-31,TH,Thailand,3.0725
-2023-12-31,TR,Türkiye,15.0813
-2023-12-31,US,United States,2.1798
-2023-12-31,XM,Euro area,-3.8886
-2023-12-31,XW,World,-1.3376
+2023-12-31,TR,Türkiye,15.0801
+2023-12-31,US,United States,2.1236
+2023-12-31,XM,Euro area,-3.895
+2023-12-31,XW,World,-1.3565
 2023-12-31,ZA,South Africa,-4.4243
-2024-03-31,4T,Emerging market economies (aggregate),-0.5662
-2024-03-31,5R,Advanced economies,-0.6802
-2024-03-31,AT,Austria,-6.5853
+2024-03-31,4T,Emerging market economies (aggregate),-0.5992
+2024-03-31,5R,Advanced economies,-0.6863
+2024-03-31,AT,Austria,-6.5982
 2024-03-31,AU,Australia,5.7289
 2024-03-31,BE,Belgium,0.4773
 2024-03-31,BG,Bulgaria,12.2043
-2024-03-31,BR,Brazil,1.2428
-2024-03-31,CA,Canada,-2.0546
+2024-03-31,BR,Brazil,1.2344
+2024-03-31,CA,Canada,-2.0551
 2024-03-31,CH,Switzerland,0.3107
-2024-03-31,CL,Chile,3.4052
+2024-03-31,CL,Chile,3.3947
 2024-03-31,CN,China,-5.1559
 2024-03-31,CO,Colombia,0.1207
 2024-03-31,CY,Cyprus,6.1285
@@ -8189,7 +8189,7 @@ date,country_code,country,price
 2024-03-31,LV,Latvia,2.8961
 2024-03-31,MA,Morocco,-1.7193
 2024-03-31,MK,North Macedonia,1.1252
-2024-03-31,MT,Malta,4.1726
+2024-03-31,MT,Malta,4.1597
 2024-03-31,MX,Mexico,4.8799
 2024-03-31,MY,Malaysia,1.8213
 2024-03-31,NL,Netherlands,0.6554
@@ -8198,30 +8198,30 @@ date,country_code,country,price
 2024-03-31,PE,Peru,-1.5415
 2024-03-31,PH,Philippines,3.9833
 2024-03-31,PL,Poland,14.5902
-2024-03-31,PT,Portugal,4.677
+2024-03-31,PT,Portugal,4.6768
 2024-03-31,RO,Romania,-1.4973
-2024-03-31,RS,Serbia,0.1918
+2024-03-31,RS,Serbia,1.3702
 2024-03-31,RU,Russia,10.5383
 2024-03-31,SE,Sweden,-5.9809
 2024-03-31,SG,Singapore,1.5896
 2024-03-31,SI,Slovenia,3.831
 2024-03-31,SK,Slovakia,-5.9492
 2024-03-31,TH,Thailand,1.3912
-2024-03-31,TR,Türkiye,-2.0867
-2024-03-31,US,United States,2.0744
-2024-03-31,XM,Euro area,-2.7714
-2024-03-31,XW,World,-0.6172
+2024-03-31,TR,Türkiye,-2.0929
+2024-03-31,US,United States,2.0243
+2024-03-31,XM,Euro area,-2.7297
+2024-03-31,XW,World,-0.638
 2024-03-31,ZA,South Africa,-4.2067
-2024-06-30,4T,Emerging market economies (aggregate),-1.9949
-2024-06-30,5R,Advanced economies,-0.1295
-2024-06-30,AT,Austria,-5.5675
+2024-06-30,4T,Emerging market economies (aggregate),-2.032
+2024-06-30,5R,Advanced economies,-0.1459
+2024-06-30,AT,Austria,-5.532
 2024-06-30,AU,Australia,4.8545
 2024-06-30,BE,Belgium,-0.2091
 2024-06-30,BG,Bulgaria,12.4091
-2024-06-30,BR,Brazil,2.1071
-2024-06-30,CA,Canada,-5.3872
+2024-06-30,BR,Brazil,2.1033
+2024-06-30,CA,Canada,-5.3554
 2024-06-30,CH,Switzerland,0.0141
-2024-06-30,CL,Chile,2.8793
+2024-06-30,CL,Chile,2.9241
 2024-06-30,CN,China,-7.6261
 2024-06-30,CO,Colombia,0.5382
 2024-06-30,CY,Cyprus,5.1682
@@ -8250,7 +8250,7 @@ date,country_code,country,price
 2024-06-30,LV,Latvia,-0.1179
 2024-06-30,MA,Morocco,-1.0658
 2024-06-30,MK,North Macedonia,7.181
-2024-06-30,MT,Malta,5.3502
+2024-06-30,MT,Malta,5.3761
 2024-06-30,MX,Mexico,4.3744
 2024-06-30,MY,Malaysia,2.1182
 2024-06-30,NL,Netherlands,4.6217
@@ -8259,30 +8259,30 @@ date,country_code,country,price
 2024-06-30,PE,Peru,-1.755
 2024-06-30,PH,Philippines,3.9415
 2024-06-30,PL,Poland,14.668
-2024-06-30,PT,Portugal,4.9933
+2024-06-30,PT,Portugal,4.9931
 2024-06-30,RO,Romania,1.4957
-2024-06-30,RS,Serbia,0.8566
+2024-06-30,RS,Serbia,1.6653
 2024-06-30,RU,Russia,10.1659
 2024-06-30,SE,Sweden,-4.0208
 2024-06-30,SG,Singapore,3.1734
 2024-06-30,SI,Slovenia,4.5147
 2024-06-30,SK,Slovakia,1.8573
 2024-06-30,TH,Thailand,0.4692
-2024-06-30,TR,Türkiye,-13.1102
-2024-06-30,US,United States,1.5419
-2024-06-30,XM,Euro area,-1.0577
-2024-06-30,XW,World,-1.1332
+2024-06-30,TR,Türkiye,-13.1121
+2024-06-30,US,United States,1.5094
+2024-06-30,XM,Euro area,-1.0745
+2024-06-30,XW,World,-1.1596
 2024-06-30,ZA,South Africa,-4.3225
-2024-09-30,4T,Emerging market economies (aggregate),-2.8668
-2024-09-30,5R,Advanced economies,0.3503
-2024-09-30,AT,Austria,-4.4952
+2024-09-30,4T,Emerging market economies (aggregate),-2.9114
+2024-09-30,5R,Advanced economies,0.3388
+2024-09-30,AT,Austria,-4.4836
 2024-09-30,AU,Australia,4.4556
 2024-09-30,BE,Belgium,0.361
 2024-09-30,BG,Bulgaria,14.3453
-2024-09-30,BR,Brazil,1.8264
-2024-09-30,CA,Canada,-5.9425
+2024-09-30,BR,Brazil,1.8299
+2024-09-30,CA,Canada,-5.94
 2024-09-30,CH,Switzerland,0.675
-2024-09-30,CL,Chile,2.2077
+2024-09-30,CL,Chile,2.2614
 2024-09-30,CN,China,-9.0289
 2024-09-30,CO,Colombia,1.0652
 2024-09-30,CY,Cyprus,5.004
@@ -8311,7 +8311,7 @@ date,country_code,country,price
 2024-09-30,LV,Latvia,4.2367
 2024-09-30,MA,Morocco,-1.534
 2024-09-30,MK,North Macedonia,5.2257
-2024-09-30,MT,Malta,5.5211
+2024-09-30,MT,Malta,5.5143
 2024-09-30,MX,Mexico,3.9427
 2024-09-30,MY,Malaysia,2.3714
 2024-09-30,NL,Netherlands,6.5777
@@ -8320,30 +8320,30 @@ date,country_code,country,price
 2024-09-30,PE,Peru,-1.8652
 2024-09-30,PH,Philippines,4.2376
 2024-09-30,PL,Poland,9.3
-2024-09-30,PT,Portugal,7.4762
+2024-09-30,PT,Portugal,7.4763
 2024-09-30,RO,Romania,-0.9939
-2024-09-30,RS,Serbia,0.9511
+2024-09-30,RS,Serbia,1.1572
 2024-09-30,RU,Russia,8.0479
 2024-09-30,SE,Sweden,-1.7833
 2024-09-30,SG,Singapore,2.2152
 2024-09-30,SI,Slovenia,7.143
 2024-09-30,SK,Slovakia,3.4034
 2024-09-30,TH,Thailand,2.4283
-2024-09-30,TR,Türkiye,-13.512
-2024-09-30,US,United States,1.0946
-2024-09-30,XM,Euro area,0.6147
-2024-09-30,XW,World,-1.3934
+2024-09-30,TR,Türkiye,-13.5087
+2024-09-30,US,United States,1.0806
+2024-09-30,XM,Euro area,0.594
+2024-09-30,XW,World,-1.4208
 2024-09-30,ZA,South Africa,-3.482
-2024-12-31,4T,Emerging market economies (aggregate),-3.0631
-2024-12-31,5R,Advanced economies,0.7809
-2024-12-31,AT,Austria,-2.9419
+2024-12-31,4T,Emerging market economies (aggregate),-3.1133
+2024-12-31,5R,Advanced economies,0.7895
+2024-12-31,AT,Austria,-2.9218
 2024-12-31,AU,Australia,3.2824
 2024-12-31,BE,Belgium,-0.3543
 2024-12-31,BG,Bulgaria,15.9377
-2024-12-31,BR,Brazil,1.2176
-2024-12-31,CA,Canada,-3.6694
+2024-12-31,BR,Brazil,1.2337
+2024-12-31,CA,Canada,-3.6362
 2024-12-31,CH,Switzerland,1.6975
-2024-12-31,CL,Chile,2.8485
+2024-12-31,CL,Chile,2.8059
 2024-12-31,CN,China,-8.7494
 2024-12-31,CO,Colombia,4.6911
 2024-12-31,CY,Cyprus,2.9459
@@ -8372,7 +8372,7 @@ date,country_code,country,price
 2024-12-31,LV,Latvia,4.6237
 2024-12-31,MA,Morocco,0.9776
 2024-12-31,MK,North Macedonia,6.2839
-2024-12-31,MT,Malta,4.8905
+2024-12-31,MT,Malta,5.0119
 2024-12-31,MX,Mexico,4.0256
 2024-12-31,MY,Malaysia,2.5772
 2024-12-31,NL,Netherlands,6.6926
@@ -8381,30 +8381,30 @@ date,country_code,country,price
 2024-12-31,PE,Peru,-3.5053
 2024-12-31,PH,Philippines,7.0312
 2024-12-31,PL,Poland,5.2083
-2024-12-31,PT,Portugal,8.7256
+2024-12-31,PT,Portugal,8.7261
 2024-12-31,RO,Romania,-0.9765
-2024-12-31,RS,Serbia,1.0256
+2024-12-31,RS,Serbia,0.7647
 2024-12-31,RU,Russia,7.4482
 2024-12-31,SE,Sweden,0.7952
 2024-12-31,SG,Singapore,2.4686
 2024-12-31,SI,Slovenia,6.3442
 2024-12-31,SK,Slovakia,4.7718
 2024-12-31,TH,Thailand,1.5627
-2024-12-31,TR,Türkiye,-12.3403
-2024-12-31,US,United States,0.6962
-2024-12-31,XM,Euro area,1.8855
-2024-12-31,XW,World,-1.307
+2024-12-31,TR,Türkiye,-12.3417
+2024-12-31,US,United States,0.7083
+2024-12-31,XM,Euro area,1.8952
+2024-12-31,XW,World,-1.3279
 2024-12-31,ZA,South Africa,-1.7572
-2025-03-31,4T,Emerging market economies (aggregate),-2.6316
-2025-03-31,5R,Advanced economies,0.9762
-2025-03-31,AT,Austria,-2.6793
+2025-03-31,4T,Emerging market economies (aggregate),-2.669
+2025-03-31,5R,Advanced economies,0.9758
+2025-03-31,AT,Austria,-2.6621
 2025-03-31,AU,Australia,2.0183
 2025-03-31,BE,Belgium,-0.8143
 2025-03-31,BG,Bulgaria,10.7127
-2025-03-31,BR,Brazil,0.6112
-2025-03-31,CA,Canada,-3.6908
+2025-03-31,BR,Brazil,0.6435
+2025-03-31,CA,Canada,-3.6898
 2025-03-31,CH,Switzerland,3.7601
-2025-03-31,CL,Chile,1.9731
+2025-03-31,CL,Chile,1.6955
 2025-03-31,CN,China,-7.4249
 2025-03-31,CO,Colombia,-0.9849
 2025-03-31,CY,Cyprus,2.7858
@@ -8416,7 +8416,7 @@ date,country_code,country,price
 2025-03-31,FI,Finland,-2.4174
 2025-03-31,FR,France,-0.667
 2025-03-31,GB,United Kingdom,1.3569
-2025-03-31,GR,Greece,4.7817
+2025-03-31,GR,Greece,4.8597
 2025-03-31,HK,Hong Kong SAR,-8.0107
 2025-03-31,HR,Croatia,9.1123
 2025-03-31,HU,Hungary,11.203
@@ -8427,13 +8427,13 @@ date,country_code,country,price
 2025-03-31,IS,Iceland,2.6841
 2025-03-31,IT,Italy,2.7154
 2025-03-31,JP,Japan,0.8836
-2025-03-31,KR,Korea,-2.2129
+2025-03-31,KR,Korea,-2.2128
 2025-03-31,LT,Lithuania,4.8811
 2025-03-31,LU,Luxembourg,-0.6452
 2025-03-31,LV,Latvia,2.0119
 2025-03-31,MA,Morocco,-1.5926
 2025-03-31,MK,North Macedonia,14.6353
-2025-03-31,MT,Malta,3.9694
+2025-03-31,MT,Malta,4.0437
 2025-03-31,MX,Mexico,4.2734
 2025-03-31,MY,Malaysia,1.9644
 2025-03-31,NL,Netherlands,6.9897
@@ -8442,30 +8442,30 @@ date,country_code,country,price
 2025-03-31,PE,Peru,-0.7789
 2025-03-31,PH,Philippines,5.2121
 2025-03-31,PL,Poland,1.1048
-2025-03-31,PT,Portugal,13.72
+2025-03-31,PT,Portugal,13.7199
 2025-03-31,RO,Romania,0.2388
-2025-03-31,RS,Serbia,1.0191
+2025-03-31,RS,Serbia,0.5541
 2025-03-31,RU,Russia,6.2956
 2025-03-31,SE,Sweden,1.1989
 2025-03-31,SG,Singapore,2.3112
 2025-03-31,SI,Slovenia,1.2855
 2025-03-31,SK,Slovakia,8.9637
 2025-03-31,TH,Thailand,2.3857
-2025-03-31,TR,Türkiye,-5.6297
-2025-03-31,US,United States,-0.0689
-2025-03-31,XM,Euro area,2.9129
-2025-03-31,XW,World,-0.981
+2025-03-31,TR,Türkiye,-5.6309
+2025-03-31,US,United States,-0.0324
+2025-03-31,XM,Euro area,2.8634
+2025-03-31,XW,World,-0.999
 2025-03-31,ZA,South Africa,-1.2074
-2025-06-30,4T,Emerging market economies (aggregate),-2.0004
-2025-06-30,5R,Advanced economies,0.5833
-2025-06-30,AT,Austria,-3.0018
-2025-06-30,AU,Australia,1.9305
+2025-06-30,4T,Emerging market economies (aggregate),-2.0228
+2025-06-30,5R,Advanced economies,0.601
+2025-06-30,AT,Austria,-3.011
+2025-06-30,AU,Australia,1.9261
 2025-06-30,BE,Belgium,0.615
 2025-06-30,BG,Bulgaria,11.2253
-2025-06-30,BR,Brazil,-0.2171
-2025-06-30,CA,Canada,-4.6034
+2025-06-30,BR,Brazil,-0.1614
+2025-06-30,CA,Canada,-4.6015
 2025-06-30,CH,Switzerland,4.9506
-2025-06-30,CL,Chile,2.0328
+2025-06-30,CL,Chile,2.0145
 2025-06-30,CN,China,-6.3758
 2025-06-30,CO,Colombia,4.7037
 2025-06-30,CY,Cyprus,4.8267
@@ -8476,11 +8476,11 @@ date,country_code,country,price
 2025-06-30,ES,Spain,10.3945
 2025-06-30,FI,Finland,-1.7648
 2025-06-30,FR,France,-0.181
-2025-06-30,GB,United Kingdom,-1.3197
-2025-06-30,GR,Greece,5.4592
+2025-06-30,GB,United Kingdom,-1.5149
+2025-06-30,GR,Greece,5.433
 2025-06-30,HK,Hong Kong SAR,-7.9531
 2025-06-30,HR,Croatia,9.4751
-2025-06-30,HU,Hungary,9.0779
+2025-06-30,HU,Hungary,11.7033
 2025-06-30,ID,Indonesia,-0.8914
 2025-06-30,IE,Ireland,5.771
 2025-06-30,IL,Israel,-0.6275
@@ -8494,7 +8494,7 @@ date,country_code,country,price
 2025-06-30,LV,Latvia,2.6126
 2025-06-30,MA,Morocco,-0.2215
 2025-06-30,MK,North Macedonia,15.8804
-2025-06-30,MT,Malta,3.0902
+2025-06-30,MT,Malta,3.1127
 2025-06-30,MX,Mexico,4.3083
 2025-06-30,MY,Malaysia,1.7354
 2025-06-30,NL,Netherlands,5.9342
@@ -8503,30 +8503,30 @@ date,country_code,country,price
 2025-06-30,PE,Peru,0.5492
 2025-06-30,PH,Philippines,6.1108
 2025-06-30,PL,Poland,0.2592
-2025-06-30,PT,Portugal,14.6616
+2025-06-30,PT,Portugal,14.6618
 2025-06-30,RO,Romania,-0.7603
-2025-06-30,RS,Serbia,1.486
+2025-06-30,RS,Serbia,1.0508
 2025-06-30,RU,Russia,5.846
 2025-06-30,SE,Sweden,0.1804
 2025-06-30,SG,Singapore,2.6158
 2025-06-30,SI,Slovenia,3.3892
 2025-06-30,SK,Slovakia,6.9553
 2025-06-30,TH,Thailand,3.1889
-2025-06-30,TR,Türkiye,-2.5202
-2025-06-30,US,United States,-0.5504
-2025-06-30,XM,Euro area,3.0724
-2025-06-30,XW,World,-0.8115
+2025-06-30,TR,Türkiye,-2.5201
+2025-06-30,US,United States,-0.485
+2025-06-30,XM,Euro area,3.0839
+2025-06-30,XW,World,-0.8137
 2025-06-30,ZA,South Africa,0.4063
-2025-09-30,4T,Emerging market economies (aggregate),-1.2293
-2025-09-30,5R,Advanced economies,0.2709
-2025-09-30,AT,Austria,-2.3372
-2025-09-30,AU,Australia,1.7436
+2025-09-30,4T,Emerging market economies (aggregate),-1.2479
+2025-09-30,5R,Advanced economies,0.2954
+2025-09-30,AT,Austria,-2.3316
+2025-09-30,AU,Australia,1.7964
 2025-09-30,BE,Belgium,1.6403
 2025-09-30,BG,Bulgaria,9.518
-2025-09-30,BR,Brazil,-0.4394
-2025-09-30,CA,Canada,-5.0726
+2025-09-30,BR,Brazil,-0.3554
+2025-09-30,CA,Canada,-5.0705
 2025-09-30,CH,Switzerland,5.0142
-2025-09-30,CL,Chile,2.78
+2025-09-30,CL,Chile,2.4425
 2025-09-30,CN,China,-5.2998
 2025-09-30,CO,Colombia,3.1311
 2025-09-30,CY,Cyprus,5.9011
@@ -8535,14 +8535,14 @@ date,country_code,country,price
 2025-09-30,DK,Denmark,4.1002
 2025-09-30,EE,Estonia,-0.4029
 2025-09-30,ES,Spain,9.7602
-2025-09-30,FI,Finland,-3.5395
+2025-09-30,FI,Finland,-3.8338
 2025-09-30,FR,France,-0.3
-2025-09-30,GB,United Kingdom,-1.2839
-2025-09-30,GR,Greece,5.4853
+2025-09-30,GB,United Kingdom,-1.4743
+2025-09-30,GR,Greece,5.7947
 2025-09-30,HK,Hong Kong SAR,-1.8821
 2025-09-30,HR,Croatia,9.34
-2025-09-30,HU,Hungary,15.9779
-2025-09-30,ID,Indonesia,-1.5639
+2025-09-30,HU,Hungary,18.1755
+2025-09-30,ID,Indonesia,-1.555
 2025-09-30,IE,Ireland,5.2579
 2025-09-30,IL,Israel,-2.0766
 2025-09-30,IN,India,1.8298
@@ -8555,37 +8555,39 @@ date,country_code,country,price
 2025-09-30,LV,Latvia,3.7875
 2025-09-30,MA,Morocco,1.5767
 2025-09-30,MK,North Macedonia,19.8227
-2025-09-30,MT,Malta,3.0644
+2025-09-30,MT,Malta,3.3477
 2025-09-30,MX,Mexico,5.067
 2025-09-30,MY,Malaysia,0.9758
-2025-09-30,NL,Netherlands,4.6134
+2025-09-30,NL,Netherlands,4.8212
 2025-09-30,NO,Norway,1.5219
 2025-09-30,NZ,New Zealand,-3.4711
 2025-09-30,PE,Peru,2.6441
 2025-09-30,PH,Philippines,0.486
 2025-09-30,PL,Poland,0.8721
-2025-09-30,PT,Portugal,14.6942
+2025-09-30,PT,Portugal,14.6938
 2025-09-30,RO,Romania,-2.5508
-2025-09-30,RS,Serbia,1.5294
+2025-09-30,RS,Serbia,1.1715
 2025-09-30,RU,Russia,7.1157
 2025-09-30,SE,Sweden,-0.6072
 2025-09-30,SG,Singapore,4.4374
 2025-09-30,SI,Slovenia,-0.1085
 2025-09-30,SK,Slovakia,8.7342
 2025-09-30,TH,Thailand,1.1471
-2025-09-30,TR,Türkiye,-0.8428
-2025-09-30,US,United States,-1.5537
-2025-09-30,XM,Euro area,2.8833
-2025-09-30,XW,World,-0.5454
+2025-09-30,TR,Türkiye,-0.8425
+2025-09-30,US,United States,-1.4758
+2025-09-30,XM,Euro area,2.8946
+2025-09-30,XW,World,-0.5434
 2025-09-30,ZA,South Africa,1.4371
-2025-12-31,5R,Advanced economies,0.3653
-2025-12-31,AT,Austria,-1.7427
-2025-12-31,AU,Australia,4.0487
+2025-12-31,4T,Emerging market economies (aggregate),-1.3618
+2025-12-31,5R,Advanced economies,0.3702
+2025-12-31,AT,Austria,-1.7541
+2025-12-31,AU,Australia,4.3105
 2025-12-31,BE,Belgium,1.282
 2025-12-31,BG,Bulgaria,7.0384
-2025-12-31,BR,Brazil,-0.0889
-2025-12-31,CA,Canada,-5.5075
+2025-12-31,BR,Brazil,0.0269
+2025-12-31,CA,Canada,-5.5052
 2025-12-31,CH,Switzerland,3.8781
+2025-12-31,CL,Chile,2.0349
 2025-12-31,CN,China,-6.2713
 2025-12-31,CO,Colombia,7.2007
 2025-12-31,CY,Cyprus,7.5719
@@ -8594,41 +8596,72 @@ date,country_code,country,price
 2025-12-31,DK,Denmark,5.4726
 2025-12-31,EE,Estonia,0.9948
 2025-12-31,ES,Spain,9.5689
-2025-12-31,FR,France,0.15
-2025-12-31,GB,United Kingdom,-0.8816
-2025-12-31,GR,Greece,5.1684
-2025-12-31,HK,Hong Kong SAR,1.1681
+2025-12-31,FI,Finland,-3.1756
+2025-12-31,FR,France,0.0715
+2025-12-31,GB,United Kingdom,-1.0724
+2025-12-31,GR,Greece,5.8176
+2025-12-31,HK,Hong Kong SAR,1.1568
 2025-12-31,HR,Croatia,12.0103
-2025-12-31,HU,Hungary,16.8257
-2025-12-31,IE,Ireland,3.9129
-2025-12-31,IL,Israel,-2.5961
+2025-12-31,HU,Hungary,16.9753
+2025-12-31,ID,Indonesia,-1.9475
+2025-12-31,IE,Ireland,3.9299
+2025-12-31,IL,Israel,-2.6936
 2025-12-31,IN,India,2.9968
 2025-12-31,IS,Iceland,-0.4967
 2025-12-31,IT,Italy,2.866
 2025-12-31,JP,Japan,2.3085
-2025-12-31,KR,Korea,-1.6388
+2025-12-31,KR,Korea,-1.6387
 2025-12-31,LT,Lithuania,6.7937
 2025-12-31,LU,Luxembourg,-2.8069
-2025-12-31,LV,Latvia,6.9145
+2025-12-31,LV,Latvia,6.4773
 2025-12-31,MA,Morocco,0.4452
 2025-12-31,MK,North Macedonia,19.9632
+2025-12-31,MT,Malta,3.3892
 2025-12-31,MX,Mexico,5.0514
-2025-12-31,MY,Malaysia,0.0712
+2025-12-31,MY,Malaysia,1.0531
+2025-12-31,NL,Netherlands,3.1217
 2025-12-31,NO,Norway,2.793
 2025-12-31,NZ,New Zealand,-4.2399
 2025-12-31,PE,Peru,4.6278
 2025-12-31,PH,Philippines,-0.0837
 2025-12-31,PL,Poland,1.7853
-2025-12-31,PT,Portugal,16.2843
+2025-12-31,PT,Portugal,16.2844
 2025-12-31,RO,Romania,-2.528
-2025-12-31,RS,Serbia,2.8578
+2025-12-31,RS,Serbia,2.5877
 2025-12-31,RU,Russia,7.1556
 2025-12-31,SE,Sweden,0.69
 2025-12-31,SG,Singapore,2.1235
 2025-12-31,SI,Slovenia,2.9834
 2025-12-31,SK,Slovakia,8.6449
 2025-12-31,TH,Thailand,1.1453
-2025-12-31,TR,Türkiye,-0.7502
-2025-12-31,US,United States,-1.773
-2025-12-31,XM,Euro area,3.0123
-2025-12-31,ZA,South Africa,1.7435
+2025-12-31,TR,Türkiye,-0.7458
+2025-12-31,US,United States,-1.714
+2025-12-31,XM,Euro area,2.967
+2025-12-31,XW,World,-0.5765
+2025-12-31,ZA,South Africa,1.8014
+2026-03-31,AU,Australia,5.6594
+2026-03-31,BR,Brazil,0.1794
+2026-03-31,CA,Canada,-6.8079
+2026-03-31,CH,Switzerland,4.5464
+2026-03-31,CN,China,-7.0745
+2026-03-31,EE,Estonia,8.1323
+2026-03-31,FR,France,-0.7933
+2026-03-31,GB,United Kingdom,-2.1629
+2026-03-31,GR,Greece,2.6147
+2026-03-31,HK,Hong Kong SAR,6.1849
+2026-03-31,ID,Indonesia,-3.1907
+2026-03-31,IE,Ireland,3.6426
+2026-03-31,IS,Iceland,-1.9518
+2026-03-31,KR,Korea,-0.2842
+2026-03-31,LV,Latvia,7.7662
+2026-03-31,MK,North Macedonia,12.5522
+2026-03-31,MX,Mexico,4.3935
+2026-03-31,MY,Malaysia,0.1164
+2026-03-31,NO,Norway,0.5201
+2026-03-31,RS,Serbia,2.6647
+2026-03-31,RU,Russia,7.378
+2026-03-31,SK,Slovakia,9.3233
+2026-03-31,TH,Thailand,1.9273
+2026-03-31,TR,Türkiye,-3.2835
+2026-03-31,US,United States,-2.0736
+2026-03-31,ZA,South Africa,2.6851
